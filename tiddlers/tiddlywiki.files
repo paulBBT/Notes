@@ -5,7 +5,7 @@
       "isTiddlerFile": "true",
       "fields": {
         "type": "application/javascript",
-        "title": {"source": "filename"},
+        "title": {"source": "basename"},
         "type": "text/x-markdown"
       }
     }
