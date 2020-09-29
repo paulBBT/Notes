@@ -1,7 +1,7 @@
 L'affaiblissement des piliers de stabilité et du multilatéralisme ne fait aucun doute depuis la décennie 2010 :
 
-- retraits américains des grands traités de maîtrise des armements (FNI, Ciel ouvert) ou échec des re-négociations de *New Start* ;
-- attitude brutale des Etats-Unis pendant la crise du COVID, et la réponse chinoise ;
+- [[Retraits américains des grands traités de maîtrise des armements]] ;
+- attitude brutale des Etats-Unis pendant la crise du COVID, et la réponse chinoise (voir [[L'affrontement entre la Chine et les Etats-Unis est inéluctable]]) ;
 - actions turques en MEDOR au mepris du droit de la mer.
 
 ## Fin de cycles

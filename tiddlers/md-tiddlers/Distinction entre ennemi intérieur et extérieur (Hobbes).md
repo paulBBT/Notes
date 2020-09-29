@@ -8,4 +8,4 @@ La ou l’ennemi extérieur est irréductible, **l’Etat doit mettre en place l
 
 ## Références
 
-- [[Thomas Hobbes, Leviathan]]
+- [[Hobbes, Leviathan]]

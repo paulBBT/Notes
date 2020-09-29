@@ -6,4 +6,4 @@ C'est l'Etat qui permet d'organiser la vie en dehors de cette "lutte de tous con
 
 ## Références
 
-- [[Thomas Hobbes, Leviathan]]
+- [[Hobbes, Leviathan]]
