@@ -1,0 +1,5 @@
+- 122 pays ont participé aux négociations (environ 2/3 ONU)
+- Proposé à la signature en 2017
+- Eté 2020 : 84 signataires dont 44 ratifiés
+
+- Besoin de 50 ratification pour que le traité s’applique

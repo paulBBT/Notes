@@ -1,0 +1,2 @@
+- Acronyme : Anti-Acess / Area Denial
+- Développement concurrent des [[Missiles hypersoniques]]
