@@ -1,0 +1,13 @@
+{
+  "name": "Notes",
+  "description": "prises pendant la préparation du concours",
+  "dependencies": {
+    "tiddlywiki": "^5.1.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tiddlywiki . --build index"
+  },
+  "author": "Paul BBT",
+  "license": "BSD3"
+}
