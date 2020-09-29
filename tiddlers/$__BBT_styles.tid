@@ -1,0 +1,10 @@
+created: 20200929150502497
+modified: 20200929150731442
+tags: $:/tags/Stylesheet
+title: $:/BBT/styles
+type: text/vnd.tiddlywiki
+
+strong {
+   background-color:#ffffcc; 
+   font-weight: bold;
+}
