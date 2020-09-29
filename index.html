@@ -10013,7 +10013,7 @@ Error message and password prompt
         },
         &quot;$:/plugins/anstosa/tw5-markdown/wrapper.js&quot;: {
             &quot;title&quot;: &quot;$:/plugins/anstosa/tw5-markdown/wrapper.js&quot;,
-            &quot;text&quot;: &quot;/*\\\ntitle: $:/plugins/anstosa/tw5-markdown/wrapper.js\ntype: application/javascript\nmodule-type: parser\n\nWraps up the markdown-it parser for use in TiddlyWiki5\n\\*/\n(() =&gt; {\n    'use strict';\n\n    const TYPE_WIKI = 'text/vnd.tiddlywiki';\n\n    let dom;\n    if (typeof(window) !== 'undefined') {\n        dom = new DOMParser();\n    }\n    const highlight = require('$:/plugins/anstosa/tw5-markdown/highlight.js');\n    const MarkdownIt = require('$:/plugins/anstosa/tw5-markdown/markdown.js');\n    const markdown = new MarkdownIt({\n        highlight: (source, syntax) =&gt; {\n            if (syntax &amp;&amp; highlight.getLanguage(syntax)) {\n                try {\n                    return highlight.highlight(syntax, source).value;\n                } catch (__) {}\n            }\n            return '';\n        },\n        html: true,\n        linkify: true,\n        typographer: true,\n    });\n    markdown.use(require('$:/plugins/anstosa/tw5-markdown/markdown-checkbox.js'), {\n        disabled: true,\n        idPrefix: 'c-task-list__item__checkbox__',\n        ulClass: 'c-task-list',\n        liClass: 'c-task-list__item'\n    });\n\n    const tiddlify = (node, forceText) =&gt; {\n        if (node.nodeType === Node.TEXT_NODE) {\n            let subtree;\n            try {\n                const children = new $tw.Wiki.parsers[TYPE_WIKI](TYPE_WIKI, node.textContent, {}).tree[0].children;\n                if (children.length === 0) {\n                    subtree = null;\n                }\n                else if (children.length === 1) {\n                    subtree = children[0];\n                }\n                else {\n                    subtree = {\n                        type: 'element',\n                        tag: 'span',\n                        children: children,\n                    };\n                }\n            }\n            catch(error) {\n                subtree = null;\n            }\n            if (!forceText &amp;&amp; subtree) {\n                return subtree;\n            }\n            else {\n                return {\n                    text: node.textContent,\n                    type: 'text'\n                };\n            }\n        }\n        if (node.tagName) {\n            const widget = {\n                attributes: {},\n                tag: node.tagName.toLowerCase(),\n                type: 'element'\n            };\n            $tw.utils.each(node.attributes, (attribute) =&gt; {\n                widget.attributes[attribute.nodeName] = {\n                    type: 'string',\n                    value: attribute.nodeValue\n                };\n            });\n            widget.children = [];\n            node.childNodes.forEach((child) =&gt; {\n                const isPlainText = (\n                    forceText ||\n                    widget.tag === 'code' ||\n                    widget.tag === 'a'\n                );\n                widget.children.push(tiddlify(child, isPlainText));\n            });\n            return widget;\n        }\n    };\n\n    class MarkdownParser {\n        constructor(type, text, options) {\n            const source = markdown.render(text);\n            const tree = dom.parseFromString(source, 'text/html');\n            this.tree = tiddlify(tree.body).children;\n        }\n    }\n\n    exports['text/x-markdown'] = MarkdownParser;\n})();\n&quot;,
+            &quot;text&quot;: &quot;/*\\\ntitle: $:/plugins/anstosa/tw5-markdown/wrapper.js\ntype: application/javascript\nmodule-type: parser\n\nWraps up the markdown-it parser for use in TiddlyWiki5\n\\*/\n(() =&gt; {\n    'use strict';\n\n    const TYPE_WIKI = 'text/vnd.tiddlywiki';\n\n    let dom;\n    if (typeof(window) !== 'undefined') {\n        dom = new DOMParser();\n    }\n    const highlight = require('$:/plugins/anstosa/tw5-markdown/highlight.js');\n    const MarkdownIt = require('$:/plugins/anstosa/tw5-markdown/markdown.js');\n    const markdown = new MarkdownIt({\n        highlight: (source, syntax) =&gt; {\n            if (syntax &amp;&amp; highlight.getLanguage(syntax)) {\n                try {\n                    return highlight.highlight(syntax, source).value;\n                } catch (__) {}\n            }\n            return '';\n        },\n        html: true,\n        linkify: true,\n        typographer: true,\n    });\n    markdown.use(require('$:/plugins/anstosa/tw5-markdown/markdown-checkbox.js'), {\n        disabled: true,\n        idPrefix: 'c-task-list__item__checkbox__',\n        ulClass: 'c-task-list',\n        liClass: 'c-task-list__item'\n    });\n\n\n    class MarkdownParser {\n        constructor(type, text, options) {\n            const source = markdown.render(text);\n            const wikiParser = new $tw.Wiki.parsers[TYPE_WIKI](\n                TYPE_WIKI,\n                source, options\n            );\n            this.tree = wikiParser.tree;\n        }\n    }\n\n    exports['text/x-markdown'] = MarkdownParser;\n})();\n&quot;,
             &quot;type&quot;: &quot;application/javascript&quot;,
             &quot;module-type&quot;: &quot;parser&quot;
         }
@@ -10211,11 +10211,11 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="A2-AD (déf.)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="A2-AD (déf.)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Acronyme : Anti-Acess / Area Denial
 - Développement concurrent des [[Missiles hypersoniques]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Accroches de ma présentation" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Accroches de ma présentation" type="text/x-markdown" revision="0" bag="default">
 <pre>#EDG 
 
 ## Questions personnelles
@@ -10316,12 +10316,12 @@ Parceque j'en ai tiré une grande satisfaction ! C'est je pense un élément ess
 
 [[Malgré les apparences, la RN est sur une trajectoire contrainte]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Accueil" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Accueil" type="text/x-markdown" revision="0" bag="default">
 <pre>Ce site est constitué par la somme des notes que j'ai pu prendre pendant la préparation du concours.
 
 [[Préparation de l’école de guerre]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="ARTICLE WIP Adaptation de la marine aux conflits de demain" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="ARTICLE WIP Adaptation de la marine aux conflits de demain" type="text/x-markdown" revision="0" bag="default">
 <pre>[[Notre modèle d'armée doit répondre aux conflits prévisibles]]
 
 Retour haute intensité ? =&gt; dissuasion
@@ -10336,7 +10336,7 @@ Territorialisation de la mer : nouvelle opportunités
 
 deni d’acces limité pat la do</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Belt and Road Initiative (BRI)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Belt and Road Initiative (BRI)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Programme massif de **1000 milliards de dollars de prêt** pour la construction d’infrastructures 
 - Gestion par la **Banque Asiatique d’Investissement pour les Infrastructures** (AIIB, création en 2012)
 - Comporte une voie maritime et une voie continentale entre l’Asie et l’Europe
@@ -10354,7 +10354,7 @@ deni d’acces limité pat la do</pre>
    - 2016 : une entreprise chinoise obtient la gestion des terminaux 2 et 3 du Pirée (investissement de 1,7 milliards)
    - 2017 : la Grèce bloque une déclaration européenne de critique des politiques chinoises en matière de droit de l’homme</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Bugaled Breizh" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Bugaled Breizh" type="text/x-markdown" revision="0" bag="default">
 <pre>- &quot;Enfants de Bretagne&quot; en breton
 
 - Coule en 2004, entrainant la mort des 5 marins présent à bord
@@ -10369,21 +10369,21 @@ deni d’acces limité pat la do</pre>
 - Non lieu confirmé par la cour de cassation en 2016
 - Poursuites abandonnées par les familles en GB en 2018</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Clausewitz, De la guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Clausewitz, De la guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Concepts : friction, trinité roi/peuple/Etat, guerre instrument de la politique, annéantissement de l'ennemi et bataille décisive, centre de gravité (Schwerpunkt), avantage de la défensive.
 
 Etudie également la petite guerre et préfigure la guerre totale.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La relation avec le Royaume-Uni doit necessairement être limitée pour défendre une **une vraie autonomie stratégique européenne.** 
 
 Il faut que le BREXIT veuille dire quelque chose.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Compromis entre masse de manoeuvre et densité technologique" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Compromis entre masse de manoeuvre et densité technologique" type="text/x-markdown" revision="0" bag="default">
 <pre>L'incendie de la Perle pose la question de l'épaisseur opérationnelle des forces armées et de leur capacité à encaisser les coups. 
 
 ## Dépasser la question
@@ -10399,7 +10399,7 @@ La réponse à cette tension entre masse et densité est que [[Notre modèle d'a
 ## Références
 - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Conseils pour le grand oral" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Conseils pour le grand oral" type="text/x-markdown" revision="0" bag="default">
 <pre>*Fusion de conseils recueillis auprès d'anciens et reçus lors de la préparation par l'ESNA.*
 
 ## Attendus
@@ -10438,24 +10438,24 @@ La réponse à cette tension entre masse et densité est que [[Notre modèle d'a
 
 [[Questions de préparation au grand oral]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Critique de la théorie néo-réaliste" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Critique de la théorie néo-réaliste" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Echec à prédire la chute de l'URSS</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Densification de l'Etre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Densification de l'Etre" type="text/x-markdown" revision="0" bag="default">
 <pre>Les perspectives d’augmentation des soldats fait ressortir le besoin d’un enseignement éthique et philosophique, seul capable de permettre l’équilibre du corps, de l’esprit et de l’âme. 
 
 Plus que jamais [[Le combattant a besoin d'une éthique personnelle]].</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Dépenses d'armement dans le monde" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Dépenses d'armement dans le monde" type="text/x-markdown" revision="0" bag="default">
 <pre>- 2019 : 1820 Md de dollars (4 millions par minutes)
 	- Russie : 65 Md
 	- Chine : 260 Md (contre 180 déclarés officiellement)
 
 - Organisme de référence : Stockholm International Peace Research Institute (SIRPI)</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Distinction entre ennemi intérieur et extérieur (Hobbes)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Distinction entre ennemi intérieur et extérieur (Hobbes)" type="text/x-markdown" revision="0" bag="default">
 <pre>La distinction entre ennemi intérieur et extérieur n’a de sens qu’avec l’existence de l’Etat. 
 
 Pour Hobbes l’ennemi est une relation d’hostilité qui peut être rationnelle (désir de conservation de soi) ou irrationnelle (désir de puissance illimité). 
@@ -10468,20 +10468,20 @@ La ou l’ennemi extérieur est irréductible, **l’Etat doit mettre en place l
 
 - [[Thomas Hobbes, Leviathan]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Doctrine de dissuasion nucléaire française" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Doctrine de dissuasion nucléaire française" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Dernier tir de M51 d'autant plus important que pendant la pandémie
 </pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Ecole néo-réaliste (RI)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Ecole néo-réaliste (RI)" type="text/x-markdown" revision="0" bag="default">
 <pre>L'école dite du réalisme structurel ou néo-réalisme, fondée par [[Kenneth Waltz]], décrit les relations internationales en prenant en compte **l'Etat comme unité fondamentale.** Il s'affranchit ainsi des différentes influences intérieures de l'Etat, pour en faire une **entité rationnelle.**
 
 Les Etats serrait plongés dans une **anarchie perpétuelle,** ils ont donc comme objectif la protection de leur sécurité et de leur souveraineté. Cette anarchie est différente et indépendante de l'[[Etat de Nature (Hobbes)]], elle est lié à la structure même de l'organisation internationale.
 
 [[Critique de la théorie néo-réaliste]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Etat de Nature (Hobbes)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Etat de Nature (Hobbes)" type="text/x-markdown" revision="0" bag="default">
 <pre>Hobbes décrit les hommes comme n'obéissent qu'à leur droit naturel : chacun est libre d'utiliser sa puissance par n'importe quel moyen afin de se préserver lui-même et de préserver sa propre vie. 
 
 C'est l'Etat qui permet d'organiser la vie en dehors de cette &quot;lutte de tous contre tous&quot;.
@@ -10492,7 +10492,7 @@ C'est l'Etat qui permet d'organiser la vie en dehors de cette &quot;lutte de tou
 
 - [[Thomas Hobbes, Leviathan]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Ethique de civilisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Ethique de civilisation" type="text/x-markdown" revision="0" bag="default">
 <pre>Une éthique portée par la nation, autour des grandes valeurs sur lesquelles le pays s’est construit, souvent dans la douleur. C’est par exemple particulièrement affiché en France, pays qui se dit des droits de l’homme.
 
 ## Impact sur le métier militaire
@@ -10501,7 +10501,7 @@ Les citoyens attendent que le port des armes soit respectueux de ces valeurs. La
 
 Les guerres modernes ne se gagnent pas sans le soutien des opinions publiques (nouveaux « centres de gravité » au sens de [[Clausewitz, De la guerre]]).</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Ethique de conviction ou de responsabilité" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Ethique de conviction ou de responsabilité" type="text/x-markdown" revision="0" bag="default">
 <pre>Ces deux concepts ont été introduits en 1919 lors de deux conférences de [[Max Weber]] : **« La science en tant que profession et vocation » et « La politique en tant que profession et vocation ».**
 
 ## Ethique de responsabilité
@@ -10520,7 +10520,7 @@ Elle est essentiellement une **rationalité axiologique,** qui se soucie de ne p
 
 **Elles ne sont pas opposées mais ne se placent pas dans le même plan. Ces deux éthiques sont par ailleurs des idéaux et chacun se retrouve un peu dans les deux.**</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Europe de la défense" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Europe de la défense" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 L'Europe de la défense s'est pendant trop longtemps concentrée sur le capacitaire, tout simplement car le compromis politique est beaucoup plus simple à trouver dans ce domaine.
@@ -10529,13 +10529,13 @@ Il faut retrouver une dynamique dans la doctrine et la conduite des opérations,
 
 Il existe en Europe une vraie divergence politique et stratégique sur la définition de l'ennemi, et donc sur la meilleure réponse à y apporter.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Evolution du rôle du CEMA" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Evolution du rôle du CEMA" type="text/x-markdown" revision="0" bag="default">
 <pre>- Décret de 1962 : création de l’appellation de CEMA
 - Décret de 1982 : ministère unique / CEMA responsable des opérations et conseiller du gouvernement
 - Décret de 2005 : rattachement des EMx au CEMA
 - Décret de 2009 et 2013 : renforcement du rôle du CEMA</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Evolution du Statut Général des Militaires" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Evolution du Statut Général des Militaires" type="text/x-markdown" revision="0" bag="default">
 <pre>- **Promulgué pour la première fois en 1972** 
 	   - Rassemble et rationalise de nombreux textes antérieurs dans un cadre législatif unique
 - **Refonte en 2005** 
@@ -10544,34 +10544,34 @@ Il existe en Europe une vraie divergence politique et stratégique sur la défin
 	   - Prise en compte des travaux d’une commission présidée par Hélie de Saint Marc
 - Intégré lors de la création du Code de la Défense en 2005</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Fin de l'histoire" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Fin de l'histoire" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Pendant que les occidentaux parlaient de la fin de l'histoire, l'armée française était **engagé dans des conflits d'une grande violence.** Un sentiment de deconnexion profond a alors pu se créer entre les militaires et le reste de la société.
 
 Lien avec la deconnexion pendant l'Indo et l'Algérie ?</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Histoire de la Polynésie Française" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Histoire de la Polynésie Française" type="text/x-markdown" revision="0" bag="default">
 <pre>- 1843 : Tahiti devient protectorat 
 - 1880 : Tahiti devient une colonie 
 - Jusqu'en 1901 : intégration progressive des îles 
 - Fait partie de l’Etat français depuis</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Histoire du prix Goncourt" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Histoire du prix Goncourt" type="text/x-markdown" revision="0" bag="default">
 <pre>- Création dans le testament d'Edmond Goncourt en 1892
 - Premier prix en 1903 (Jean-Antoine Nau _Force Ennemie_)</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Il faut maintenir la disctinction entre police et armées" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Il faut maintenir la disctinction entre police et armées" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Cette séparation est remise en cause régulièrement dans un contexte de menace terroriste, mais elle me semble toujours pertinente. D’un point de vue pratique, les règles avec lesquelles l’Etat traite ses citoyens ne sont pas les mêmes que celles appliquées en opérations. Et d’un point de vue plus politique : il est possible d’atteindre un équilibre avec l’ennemi extérieur, la force servant alors ponctuellement le dialogue stratégique. L’usage de la force contre l’ennemi intérieur est au contraire une mission continue.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Il n'y a pas de façon claire de s'opposer aux nouvelles routes de la soie" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Il n'y a pas de façon claire de s'opposer aux nouvelles routes de la soie" type="text/x-markdown" revision="0" bag="default">
 <pre>Les pays voulant s’opposer à la [[Belt and Road Initiative (BRI)]] sont face à une difficulté majeure : les victimes sont consentantes.
 
 Il n’y a pas aujourd’hui de contre-stratégie efficace : il n’y pas de ligne de front et l’action chinoise est largement sous le seuil de l’agression.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Incertitude au combat" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Incertitude au combat" type="text/x-markdown" revision="0" bag="default">
 <pre>Il ya toujours de l'incertitude dans l'action, mais elle est d'autant plus forte qu'il y a humain et de la compétition. **Le combat est ce qui y a de plus incertain** puisque l'action de l'ennemi y est directe et destructrice. C’est les concepts clausewitziens de **friction et de brouillard de la guerre** ([[Clausewitz, De la guerre]]).
 
 ## Réduire l'incertitude
@@ -10588,12 +10588,12 @@ Quand, pour atteindre un résultat qui est bon, il faut employer un moyen qui ne
 
 [[Le combattant a besoin d'une éthique personnelle]].</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Indépendance de la Nouvelle Calédonie" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Indépendance de la Nouvelle Calédonie" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 L'Australie a la conviction qu'une Nouvelle Calédonie indépendante deviendra de fait un protectorat chinois.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Indo-Pacifique" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Indo-Pacifique" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Création américaine ?
@@ -10601,7 +10601,7 @@ Création américaine ?
 Free and Open Indo-Pacific Strategy inaugurée par Donald Trump
  https://www.japan.go.jp/tomodachi/2018/spring2018/contributed_article.html</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="Kenneth Waltz" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Kenneth Waltz" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 XXX - XXX
@@ -10612,7 +10612,7 @@ Fondateur de l'[[Ecole néo-réaliste (RI)]]
 
 - [[La prolifération nucléaire peut être un facteur de stabilité]]</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="L'affrontement entre la Chine et les Etats-Unis est inéluctable" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="L'affrontement entre la Chine et les Etats-Unis est inéluctable" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 [[La Chine a abandonné officiellement le Pacifisme]].
@@ -10624,7 +10624,7 @@ Pour le CEMA, nous sommes déjà de fait dans une nouvelle guerre froide.
 ## Références
 - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="L'histoire va dans le sens d'une reduction de la violence et de la guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="L'histoire va dans le sens d'une reduction de la violence et de la guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Les guerres sont aujourd’hui moins fréquentes et moins meurtrières (il n’a jamais eu aussi peu de guerre que durant la décennie 2000).
@@ -10633,7 +10633,7 @@ Cependant [[Les civils deviennent les principales victimes de la guerre]].
 
 C'est une tendance de long terme. La probabilité de mourir d'une mort violente n'a cessée de diminuer au cours des siècles.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="L'Inde a une tradition de non-alignement" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="L'Inde a une tradition de non-alignement" type="text/x-markdown" revision="0" bag="default">
 <pre>L’éthique indienne est **traditionnellement opposée aux alliances**, qui divisent naturellement les participants en groupes concurrents. Les indiens lui préfèrent le concept du *Vasudhaiva Kutumbakan*, qui peut se traduire comme « le monde comme une seule famille ».
 
 Pendant la guerre froide, l'Inde s'est associée au mouvement des non-alignés dès sa création en 1956. C'est même le premier ministre Nehru qui a inventé la formule dans un discours de 1954.
@@ -10646,19 +10646,19 @@ La politique étrangère indienne est donc basée sur le concept SAGAR : *Securi
 
 Dr Gurpreet S. Khurana, _Fondements de la stratégie navale de l'Inde_, Etudes marine n°17 (janvier 2020), Centre d'études stratégiques de la Marine.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="L’éthique des forces armées françaises" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="L’éthique des forces armées françaises" type="text/x-markdown" revision="0" bag="default">
 <pre>L’institution militaire française a construit son éthique professionnelle, inspirée par son histoire et ses grands chefs.
 
 Elle est une traduction de ses recommandations et du [[Droit des Conflits Armés (DCA)]] en règlements et en code de la guerre (ex. « Code d’honneur du soldat »). Elle énonce des bases philosophiques et éthiques communes, permettant de donner du sens à l’action militaire.
 
 **Les grands principes opératoires et durables au sein de l’institution pour le « respect de la vie humaine » sont les notions de « force minimum », de « proportionnalité » et « nécessité ».**</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="La Chine a abandonné officiellement le Pacifisme" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La Chine a abandonné officiellement le Pacifisme" type="text/x-markdown" revision="0" bag="default">
 <pre>**Le livre blanc de la défense chinois de 2015 abandonne pour la première fois la rhétorique de la montée en puissance pacifique** pour la remplacer par une volonté d’expansion. Celui de 2019 rappelle les ambitions de Pékin sur Taïwan : « la Chine doit être et sera réunifiée ».
 
 La Chine est également le second pays au monde en termes de dépenses d’armement, domaine dans lequel Pékin dévoile beaucoup moins que les estimations.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La confiance est au coeur du rôle du chef" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La confiance est au coeur du rôle du chef" type="text/x-markdown" revision="0" bag="default">
 <pre>Ce qui m'a marqué avant tout dans mon expérience du commandement sur BH, c'est d'avoir pu **appronfondir la notion de confiance,** que je diviserais en trois niveaux :
 
 - la confiance de mes chefs, pour qui l'activité d'un bateau blanc de 1000T n'était pas au coeur des priorités ; j'ai ainsi eu la chance d'avoir une grande liberté d'action ;
@@ -10667,7 +10667,7 @@ La Chine est également le second pays au monde en termes de dépenses d’armem
 
 **J'en retire la conviction du bien fondé de la subsidiarité dans le commandement.**</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="La France a l'ambition d'être une puissance d'équilibre dans la zone Indo-Pacifique" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La France a l'ambition d'être une puissance d'équilibre dans la zone Indo-Pacifique" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La France est le **seul pays de l'Union Européene** a être présent dans la zone Indo-Pacifique. Elle constitue une alternative pour éviter d'être entraîner trop mécaniquement dans l'affrontement entre la Chine et la Etats-Unis.
@@ -10678,7 +10678,7 @@ La France est le **seul pays de l'Union Européene** a être présent dans la zo
 
 - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723764" modified="20200929161723764" title="La France doit rester une puissance d'équilibre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La France doit rester une puissance d'équilibre" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 [[Nous vivons une fin de cycle marquée par l'affaiblissement des piliers de stabilité]], la position internationale de la France doit être de promouvoir le multilatéralisme et d'être une troisième voie.
@@ -10687,45 +10687,45 @@ Le Président Macron associe clairement l'UE a cette démarche, il souhaite pouv
 
 Cette position se décline concrétement en Asie ou [[La France a l'ambition d'être une puissance d'équilibre dans la zone Indo-Pacifique]].</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La guerre froide a été caractérisé par des blocages" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La guerre froide a été caractérisé par des blocages" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La LPM 2019-2025 est une rupture franche avec la période précédente" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La LPM 2019-2025 est une rupture franche avec la période précédente" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 A sa conclusion en 2025, la France aura enfin rejoint ses obligations envers ses alliés en consacrant **2% de son PIB aux armées.**
 
 La LPM a une vraie cohérence d'ensemble pour le CEMA, il se méfie de la possibilité de bénéficier du plan de relance COVID au risque de deséquilibrer l'édifice. </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La maritimisation est une vulnérabilité" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La maritimisation est une vulnérabilité" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Après l'écrasement de sa flotte à Aigos Potamos, il a fallu 7 mois à Athènes pour s'effondrer. Il faudrait aujourd'hui quelques semaines sans approvisionnements maritimes.
 
 Le trafic maritime a été multiplié par 10 depuis 1960. 90% des flux numériques passent par un câble maritime.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La métropole ne peut pas choisir de se séparer des outre-mers" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La métropole ne peut pas choisir de se séparer des outre-mers" type="text/x-markdown" revision="0" bag="default">
 <pre>La destinée des territoires outre-mer répond à une double logique, qu'il est finalement possible de qualifier d'assymétrique.
 
 Constitutionnellement, **la République française est indivisible.** Il n'est pas possible pour la métropole de choisir de se séparer d'un territoire sans remettre en cause ce principe fondamental. L'article 5 rappelle que le Président de la République lui-même est garant de l'intégrité territoriale.
 
 Au contraire, la jurisprudence donne aux peuples des territoires outre-mer le **droit de disposer d'eux-même.** L'ONU garantit que ce droit soit respecté.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La philosophie occidentale est une philosophie de la compétition" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La philosophie occidentale est une philosophie de la compétition" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 La pensée philosophique européenne ne conçoit pas la paix mais seulement la guerre : la compétition est l’essence des rapports humains ([[Etat de Nature (Hobbes)]] / Rousseau / Kant).
 
 L’Etat en est la déclinaison politique, le libéralisme la déclinaison économique.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La position du Pape François sur la dissuasion est une rupture avec la diplomatie traditionnelle du Saint Siège" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La position du Pape François sur la dissuasion est une rupture avec la diplomatie traditionnelle du Saint Siège" type="text/x-markdown" revision="0" bag="default">
 <pre>La position du Pape François est une **rupture avec la diplomatie traditionnelle du Saint Siège** sur la dissuasion. Après la signature du [[TIAN (Traité d’Interdiction des Armes Nucléaires)]] en 2017, le Saint Père a réaffirmer lors de son discours au Japon en novembre 2019 que l’utilisation mais aussi la possession d’armes nucléaires sont immorales.
 
 L’équipe diplomatique du Pape François n’a aucun membre européen, la majorité de ses collaborateurs sont sud-américains. Aucun n’a donc l’expérience directe de la stabilité que la dissuasion a permis. Cette condamnation de la possession d’armes nucléaire n’a en plus qu’un effet limité sur **la majorité des acteurs qui ne sont pas de culture catholique,** seule la France peut se considérer directement visée.
 
 A titre personnelle, la position du Pape est  **un défi pour mes convictions.** Je reste persuadé que la dissuasion n’est légitime que si sa mise en oeuvre est limitée dans le temps et accompagne un effort de désarmement. Mais je suis complètement d’accord avec à la position du chef de l’Etat : un désarmement unilatéral de la France ne peut en aucune façon être un facteur de paix.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La prolifération nucléaire peut être un facteur de stabilité" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La prolifération nucléaire peut être un facteur de stabilité" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Kenneth Waltz remet en cause l'idée communément admise qu'un plus grand nombre d'états nucléaires implique forcément un plus grand risque de guerre nucléaire. Il défend l'idée qu'**une propagation lente est plus bénéfique pour la paix qu'une propagation rapide ou pas de propagation.**
@@ -10757,7 +10757,7 @@ Enfin la paix de la guerre froide peut être expliquée différement que par le 
 [^5]: Séan Molloy, 2006, &quot;The Hidden History of Realism - A Genealogy of Power Politics&quot;&lt;br/&gt;
    Palgrave Macmillan, New York City, United States of America</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La transformation des armées françaises après la guerre froide est un échec" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La transformation des armées françaises après la guerre froide est un échec" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La guerre du Golfe est un facteur determinant dans la prise de conscience du besoin de reformer le modèle d'armée français.
@@ -10772,7 +10772,7 @@ On est arrivé à atteindre l'EFR, mais les armées sont condamnée à un **mod�
 
 - Audition de Michel Goya à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="La vulnérabilité de l'armée française se trouve dans la faiblesse de l'arrière" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="La vulnérabilité de l'armée française se trouve dans la faiblesse de l'arrière" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La société française manque de résilience. L'ennemi sait qu'il suffit de tuer quelques soldats français pour avoir un impact politique et stratégique dépassant largement le gain tactique.
@@ -10793,7 +10793,7 @@ La reconstitution de cette capacité exige **un budget et un commandement dédi�
 
 - Audition de Michel Goya à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Le combattant a besoin d'une éthique personnelle" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Le combattant a besoin d'une éthique personnelle" type="text/x-markdown" revision="0" bag="default">
 <pre>Preuve de l'importance de l'éthique, le ministère des armées a crée **le 10 janvier 2020 un comité d’éthique de la défense.**
 
 &gt;*C’est la boussole qui subsiste lorsque le droit disparaît.*
@@ -10821,12 +10821,12 @@ Voir [[L’éthique des forces armées françaises]].
 
 Après le combat, l’éthique est la seule valeur capable de réunir les adversaires, au-delà de leurs dissensions.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Le Japon abondonne progressivement le pacifisme" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Le Japon abondonne progressivement le pacifisme" type="text/x-markdown" revision="0" bag="default">
 <pre>**En 2014, le Japon réévalue l’article 9 de sa constitution et estime avoir droit à l’autodéfense collective.** C'est la porte ouverte à une participation plus large à des opérations extérieures.
 
 Shinzo Abe, conforté par les dernières élections de 2019, ambitionne de modifier la constitution pour permettre un emploi conventionnel des forces armées.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Le XXe siècle a cherché la paix en augmenter le coût de la guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Le XXe siècle a cherché la paix en augmenter le coût de la guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>L’avénement de la dissuasion écarte le spectre des conflits inter-étatique et repousse la violence vers des conflits périphériques ou infra-étatique. En ce sens [[La prolifération nucléaire peut être un facteur de stabilité]].
 
 En parallèle, le développement de l’ordre international tend à rendre la guerre inter-étatique hors la loi et la tirer vers une dimension supra-nationale en augmentant son **coût politique**.
@@ -10835,17 +10835,17 @@ La mondialisation et l’interdépendance qui en résulte contribue également �
 
 Cet état de fait s'inscrit dans une tendance de fond : [[L'histoire va dans le sens d'une reduction de la violence et de la guerre]]. Cependant [[Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre]].</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les citoyens occidentaux ne sont pas interessé par les questions de défense" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les citoyens occidentaux ne sont pas interessé par les questions de défense" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 La réduction des guerres inter-étatiques éloigne le citoyen des préoccupation de défense. On constate une proportionnalité entre menace perçue et intérêt pour les armées qui est inconciliable avec le long terme nécessaire au développement d’un outil de défense cohérent.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les civils deviennent les principales victimes de la guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les civils deviennent les principales victimes de la guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>[[Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre]]. L'augmentation des conflits irréguliers fait des civils principales victimes de la guerre.
 
 En 1950, 8% des victimes de guerres étaient des civils, en 1990 cette proportion est passée à 92%.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les enjeux des outre-mers français sont à la fois politiques et économiques" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les enjeux des outre-mers français sont à la fois politiques et économiques" type="text/x-markdown" revision="0" bag="default">
 <pre>J'identifie **trois enjeux majeurs.**
 
 Avant tout il faut simplement considérer la géographie ([[Présence de la France dans le monde entier]]). Cette présence s'accompagne d'une obligation pour l'Etat : **affirmer sa souverraineté et garantir la sécurité** de ses citoyens. C'est pour moi le premier enjeu.
@@ -10856,22 +10856,22 @@ Enfin j'identifie un troisième grand enjeu des outremers. Les outres-mers sont 
 
 Finalement je dirais que ces enjeux stratégiques **dépassent une simple analyse en terme de bénéfices financiers immédiats.**</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les Etats-Unis ne sont pas une thalassocratie" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les Etats-Unis ne sont pas une thalassocratie" type="text/x-markdown" revision="0" bag="default">
 <pre>L'économie américaine dépend de la mer, comme toutes les économies mondialisés. Mais elle ne mérite pas d'être considéré comme une [[Thalassocratie (déf.)]]. Leur flotte de commerce est comparativement réduite, et la majorité de leur énergie vient directement des Amériques. L'ouverture de leur économie (ratio commerce extérieur / PIB) est plus faible que les celle des pays européens. Enfin leur croissance est avant tout tiré par leur marché intérieur.
 
 Plus qu'une thalassocratie, je dirais que les Etats-Unis sont **thalassokrator: le maître des océans** (formule de l'historien Strabon) Ils entretiennent en effet un niveau de permanence sur toutes les mers du monde sans commune mesure avec les autres pays. </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les Etats-Unis sont un obstacle à la construction européenne" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les Etats-Unis sont un obstacle à la construction européenne" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Dans le domaine de la défense, leur priorité de créer un marché pour les entreprises américaines.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les nouvelles routes de la soie ont un volet militaire" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les nouvelles routes de la soie ont un volet militaire" type="text/x-markdown" revision="0" bag="default">
 <pre>La constitution chinoise prévoit l’obligation de protéger les citoyens. Le développement des implantations chinoises à l’étranger dans le cadre de la [[Belt and Road Initiative (BRI)]] s’accompagnent d’une légitimité à intervenir militairement et à prépositionner des forces. Aujourd’hui il s’agit principalement de SMP.
 
 La plupart des infrastructures financées peuvent également avoir un usage militaire, notamment en tant que point d'appui maritime.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Les trois axes de la diplomatie gaulienne" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Les trois axes de la diplomatie gaulienne" type="text/x-markdown" revision="0" bag="default">
 <pre>Entre 1945 et 1968, de Gaulle fait le **passage d’une ambition de puissance (perdue) à une volonté de grandeur** qui s’articule suivant 3 axes :
 
 - **influence et coopération avec le Sud** : poursuite et accélération de la décolonisation, réconciliation avec le monde arabe (critique d’Israël en 1967 pendant la guerre des 6 jours), reconnaissance de la Chine et rupture avec Taïwan en 1964 ;
@@ -10880,7 +10880,7 @@ La plupart des infrastructures financées peuvent également avoir un usage mili
 
 Cette politique est complétement renversée lors du [[Virage de la diplomatie française dans les années 2000]].</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Malgré les apparences, la RN est sur une trajectoire contrainte" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Malgré les apparences, la RN est sur une trajectoire contrainte" type="text/x-markdown" revision="0" bag="default">
 <pre>**Les signaux positifs** et les communications encourageantes sur les ambitions mondiales de la RN sont nombreux. Ils vont de la reconquête de la capacité PATMAR par l'achat de P8 à la mise en service de deux porte-aéronefs. Je pense que nous sommes cependant sur des dynamiques tout à fait différentes
 
 Autour de moi, j'ai pu constater des **déficits tactiques dus à un manque d'opportunités d'entraînement** dans mon domaine de spécialité. Les avaries ont un impact sur les programmes beaucoup plus important qu'en France. Les 6 T45 naviguent moins que les 2 FDA françaises.
@@ -10891,7 +10891,7 @@ Ces difficultés s'inscrivent plus largement dans une **remise en cause du coût
 
 Je pense donc que cette dynamique de déclin de long terme est véritablement différente de la situation en France.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Missiles hypersoniques" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Missiles hypersoniques" type="text/x-markdown" revision="0" bag="default">
 <pre>- Définition : **vitesse supérieure à Mach 5** (environ 6000 km/h)
 	- Central au renouveau du concept [[A2-AD (déf.)]]
 	- Partie importante de la propagande chinoise et russe
@@ -10919,7 +10919,7 @@ Je pense donc que cette dynamique de déclin de long terme est véritablement di
 - **Aster block 1NT** pour mieux répondre à cette menace
 - **Projet Twister** (horizon 2030) : objectif de répondre à toutes les menaces aériennes</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Notre modèle d'armée doit répondre aux conflits prévisibles" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Notre modèle d'armée doit répondre aux conflits prévisibles" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La définition d'un modèle d'armée est une décision stratégique, qui ne peut que reposer sur des hypothèses d'emploi. Le contexte actuel est qu'[[Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre]].
@@ -10942,7 +10942,7 @@ La difficulté est que les emplois improbables sont ceux qui sont associés au r
 - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.
 - Audition de Michel Goya à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Nous avons besoin de héros" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Nous avons besoin de héros" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Qu'est ce qu'un héros ? Figure de la mythologie mi-homme mi-dieu / homme capable de porter les peules ?
@@ -10951,7 +10951,7 @@ La société comtemporaine ne permet plus le développement de vrais héros. Seu
 
 Voir : [[Sujets de l’épreuve écrite de culture générale du concours de l'Ecole de guerre]]</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Nous vivons une fin de cycle marquée par l'affaiblissement des piliers de stabilité" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Nous vivons une fin de cycle marquée par l'affaiblissement des piliers de stabilité" type="text/x-markdown" revision="0" bag="default">
 <pre>L'affaiblissement des piliers de stabilité et du multilatéralisme ne fait aucun doute depuis la décennie 2010 :
 
 - retraits américains des grands traités de maîtrise des armements (FNI, Ciel ouvert) ou échec des re-négociations de *New Start* ;
@@ -10973,14 +10973,14 @@ Martin Motte décrit la période actuelle comme la fin de cycles de durée diff�
 - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.
 - Audition de Martin Motte à l'Assemblée Nationale, 16 juillet 2020.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Opération Barkhane (2014- )" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Opération Barkhane (2014- )" type="text/x-markdown" revision="0" bag="default">
 <pre>L’Etat malien ne profite pas des bons résultats de l'[[Opération Barkhane (2014- )]] pour rétablir une administration légitime, et il devient évident qu’il faut une nouvelle action.
 
 Barkhane est déclenchée en juillet 2014, avec des effectifs qui oscillent entre 3000 et 5000 hommes. Elle est dissuasive pour l’adversaire qui n’ose plus s’attaquer aux lieux de pouvoir, mais produit peu d’effets visibles. **En moyenne, un djihadiste est abattu tous les deux jours pour un investissement de 1 à 2 millions d’euros par jour.**
 
 La longue durée de l’opération la rend extrêmement vulnérable, et s’accompagne d’une exigence de perfection.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Opération Limousin (1968-1972)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741014" modified="20200929162741014" title="Opération Limousin (1968-1972)" type="text/x-markdown" revision="0" bag="default">
 <pre>Cette campagne est le **premier engagement de l’armée française dans une campagne de contre insurrection à l’étranger.** C’est également l’un des rares succès dans ce domaine. En 1972, une visite du président Pompidou permet de déclarer la mission remplie, et de retirer les forces françaises.
 
 ## Action coordonnée
@@ -10991,7 +10991,7 @@ La stratégie française face au FROLINAT est l’engagement d’un faible volum
 
 C’est bien le maillage du territoire par les nouvelles forces de sécurité tchadiennes qui font que le FROLINAT perd le contact avec la population, ce qui mènera à sa défaite.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Opération Satanique (1985)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Opération Satanique (1985)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Ordonnée par François Mittérand 
 - Objectif : sabotage par la DGSE du navire amiral de Greepeace (le Rainbow Warrior)
 
@@ -11011,19 +11011,19 @@ C’est bien le maillage du territoire par les nouvelles forces de sécurité tc
 - France condamnée à : excuses officielles et 7 millions de dollars de dommages et interêts
 </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Opération Serval (2013-2014)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Opération Serval (2013-2014)" type="text/x-markdown" revision="0" bag="default">
 <pre>Devant le peu d’évolution, la France déclenche Serval en janvier 2013. **4 GTIA sont déployés sur un mois,** avec une mission claire de destruction des forces organisées de l’adversaire. Il s’agit du **plus important déploiement français depuis 1990,** et de la première fois depuis 1978 que l’adversaire est défini clairement en Afrique.
 
 Fin avril 2013, un tiers des djihadistes sont morts et leurs bases sont détruites. C’est un succès militaire, avec uniquement 10 morts coté français.
 </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Ordre de bataille - Marine indienne (2020)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Ordre de bataille - Marine indienne (2020)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Objectif d'un ratio 60%/40% entre platteformes d'eaux bleues et d'eaux brunes
 
 - SM : 1 SNA / 1 SNLE / 15 SSK
 - BS : 1 PA / 11 destroyers / 14 frigates</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Ordre de bataille - Marine russe (2020)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Ordre de bataille - Marine russe (2020)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Unités disponibles uniquement 
 - 25 SM (dont 10 SNLE / 9 SNA)
 - 30 bâtiments de surface (3 croiseurs / 7 destroyers / 4 frégates)
@@ -11032,7 +11032,7 @@ Fin avril 2013, un tiers des djihadistes sont morts et leurs bases sont détruit
 - Aucun lancement de surface neuf de plus de 4500T depuis la fin de la guerre froide 
 - Point fort indéniablement les SM</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Organisation de l'AEM outre-mer" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Organisation de l'AEM outre-mer" type="text/x-markdown" revision="0" bag="default">
 <pre>## Zone maritime Polynésie Française
 
 - DDG : Haut commissaire 
@@ -11042,7 +11042,7 @@ Fin avril 2013, un tiers des djihadistes sont morts et leurs bases sont détruit
 
 - DDG : ALPACI</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Préparation de l’école de guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Préparation de l’école de guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>## Lectures 
 
 Le **compendium du CHEM** resume tous les enjeux de la Défense dans un seul document facile à étudier.
@@ -11065,14 +11065,14 @@ Les lectures suivantes permettent d'avoir un bon panorama de tous les sujets d'a
 - [[Accroches de ma présentation]]
 </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Présence de la France dans le monde entier" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Présence de la France dans le monde entier" type="text/x-markdown" revision="0" bag="default">
 <pre>- 2,6 millions de citoyens français dans les territoires d'outremer
 - 1,8 millions de français inscrits sur les registres à l’étranger
 
 - Seconde ZEE
 - Plus grand plateau continental </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Présentation personnelle (version finale 2020)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Présentation personnelle (version finale 2020)" type="text/x-markdown" revision="0" bag="default">
 <pre>#EDG 
 
 Amiral, commandants, madame,
@@ -11098,7 +11098,7 @@ Amiral, je me présente aujourd’hui avec l’ambition de pouvoir continuer à 
 [[Accroches de ma présentation]]
 </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Présentation personnelle (version initiale 2020)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Présentation personnelle (version initiale 2020)" type="text/x-markdown" revision="0" bag="default">
 <pre>#EDG 
 
 Amiral, xxx autorité civile xxx, commandants,
@@ -11123,12 +11123,12 @@ Mes atouts sont probablement ma jeunesse et ma motivation tempérées par la rig
 
 Amiral, xxx autorité civile xxx, commandants, je me tiens à votre disposition pour poursuivre cet échange.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Profesionalisation des armées" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Profesionalisation des armées" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Aux US en 1973</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Prolifération nucléaire (déf.)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Prolifération nucléaire (déf.)" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 La prolifération nucléaire désigne l’augmentation du nombre d’Etats dotés de l’arme nucléaire (**prolifération horizontale**) ou l’augmentation du nombre d’armes nucléaires (**prolifération verticale**).
@@ -11139,7 +11139,7 @@ La prolifération nucléaire a été extrêmement lente, moins qu'un doublement 
    Adelphi Papers, Number 171, London Institute for Strategic Studies
    https://www.mtholyoke.edu/acad/intrel/waltz1.html</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Questions de préparation au grand oral" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Questions de préparation au grand oral" type="text/x-markdown" revision="0" bag="default">
 <pre>## Questions géopolitiques
 
 ### Théorie de la géopolitique
@@ -11588,7 +11588,7 @@ Vandier : démocratie faible comme risque pour la dissuasion
 
 #### @WIP Que pensez vous de la chasse à cour ?</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Rapport à la mort" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Rapport à la mort" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP
 
 Jusqu'au XXe siècle les conflits ont été caractérisés par l'impuissance individuelle, qui ne permettait pas une réflexion profonde sur la mort donnée et reçue. Les batailles ont rapidement été mortifère et la résignation une posture normale (Marignan 30k morts / Verdun 350k morts).
@@ -11599,10 +11599,10 @@ La mort était une présence quotidienne accentuant la résignation (la moitié 
 
 *Les nouveaux conflits, juridiquement plus encadrés et plus médiatisés donnent une part prépondérante à l'individu. Le soldat se retrouve seul face au dilemmes tuer ou mourir, sauver ou périr et doit s'appuyer sur une éthique personnelle.*</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Siège de la France au CSNU" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Siège de la France au CSNU" type="text/x-markdown" revision="0" bag="default">
 <pre>Permit par l'effet multiplicateur de la puissance maritime</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Spécificité éthique du militaire" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Spécificité éthique du militaire" type="text/x-markdown" revision="0" bag="default">
 <pre>- Accepter de donner la mort
 	- Autorisation au nom d’un mandat conféré par le dieu séculier qu’est la Nation
 	- Mais devient ainsi réprouvé par le dieu spirituel
@@ -11611,7 +11611,7 @@ La mort était une présence quotidienne accentuant la résignation (la moitié 
 	- Quand engager la vie de ses hommes
 	- Quel juste niveau de force pour la mission</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Statut de la Polynésie Française" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Statut de la Polynésie Française" type="text/x-markdown" revision="0" bag="default">
 <pre>## Point de vue européen : Pays et Territoires d'Outre-Mer (PTOM)
 - Dépendance d’un pays de l’UE n’étant pas partie de l’union elle-même
 
@@ -11625,13 +11625,13 @@ La mort était une présence quotidienne accentuant la résignation (la moitié 
 - Tahiti (LO de 2004): large autonomie politique (président / assemblée mais représentant de l’Etat HCR)
 - Etat (nationalité / justice / monnaie / sécurité / immigration / université…) et communes gardent leurs attributions </pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Succession au trône britannique" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Succession au trône britannique" type="text/x-markdown" revision="0" bag="default">
 <pre>- Changement en 2011 : passage d'une primogéniture mâle à une **primogéniture simple**
 - Changementalors que le Prince William n'avait pas encore d'enfants (la couronne pouvait donc passer à sa fille potentielle, ce qui a causé une polémique)
 
 - **Ordre de succession** actuel au trône : prince Charles / prince William / enfants de William (Georges, Charlotte et Louis)</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Sujets de l’épreuve écrite de culture générale du concours de l'Ecole de guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Sujets de l’épreuve écrite de culture générale du concours de l'Ecole de guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>#EDG
 
 ## Sujets à dominante militaire
@@ -11680,18 +11680,18 @@ Le philosophe américain Michael Walzer affirmait lors des bombardements améric
 
 « Résistance et obéissance, voilà les deux vertus du citoyen. Par l’obéissance, il assure l’ordre, par la résistance, il assure la liberté ».Alain - Propos sur le pouvoir. Cette dichotomie vous semble-t-elle conciliable avec votre engagement d’officier ?</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Territorialisation de la mer" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Territorialisation de la mer" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 Le XXe siècle a vu la mer se transformer d'une zone de circulation à une zone de production.
 
 Voir [[Technologie comme réduction du temps et de l'espace]]</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Thalassocratie (déf.)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Thalassocratie (déf.)" type="text/x-markdown" revision="0" bag="default">
 <pre>- Ethymologie : thalassa (la mer) / kratos (pouvoir)
 - Se dit d'une puissance politique fondée sur la domination de la mer</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Thomas Hobbes, Leviathan" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Thomas Hobbes, Leviathan" type="text/x-markdown" revision="0" bag="default">
 <pre>#littérature
 
 Thomas Hobbes. 1651. _Leviathan_.
@@ -11703,14 +11703,14 @@ Ouvrage fondamental dans la vision occidentale du monde : [[La philosophie occid
 - [[Etat de Nature (Hobbes)]]
 - [[Distinction entre ennemi intérieur et extérieur (Hobbes)]]</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="TIAN (Traité d’Interdiction des Armes Nucléaires)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="TIAN (Traité d’Interdiction des Armes Nucléaires)" type="text/x-markdown" revision="0" bag="default">
 <pre>- 122 pays ont participé aux négociations (environ 2/3 ONU)
 - Proposé à la signature en 2017
 - Eté 2020 : 84 signataires dont 44 ratifiés
 
 - Besoin de 50 ratification pour que le traité s’applique</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Traité de l'Elysée (1963)" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Traité de l'Elysée (1963)" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 - Signé par de Gaulle et Adenaueur 
@@ -11719,14 +11719,14 @@ Ouvrage fondamental dans la vision occidentale du monde : [[La philosophie occid
 
 - Mauvaise réaction des Etats-Unis</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Trois ambitions stratégiques de Beaufre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Trois ambitions stratégiques de Beaufre" type="text/x-markdown" revision="0" bag="default">
 <pre>#WIP 
 
 - Comprendre le sens de l'histoire
 - Anticiper les grands boulversements
 - Demeurer maître de son destin</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre" type="text/x-markdown" revision="0" bag="default">
 <pre>&gt; *La grande guerre et la vraie paix sont mortes ensemble.*
 &gt; Beauffre : *Introduction à la stratégie* ; 1965. 
 
@@ -11746,7 +11746,7 @@ Qu'ils soient proxys ou groupes armés, les principaux adversaires de la France 
 
 Ainsi **depuis 1945, 99% des militaires français morts au combat tombent face à des organisations irrégulières** et non des Etats.</pre>
 </div>
-<div created="20200929161723768" modified="20200929161723768" title="Virage de la diplomatie française dans les années 2000" type="text/x-markdown" revision="0" bag="default">
+<div created="20200929162741018" modified="20200929162741018" title="Virage de la diplomatie française dans les années 2000" type="text/x-markdown" revision="0" bag="default">
 <pre>## Un virage à 90°
 
 Après avoir dénoncé la guerre en Irak, la politique étrangère française vit un **grand revirement en 2003.** L’élargissement de l’UE en 2004 est un affaiblissement relatif qui accentue cette tendance. 
