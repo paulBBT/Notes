@@ -6,7 +6,9 @@
       "fields": {
         "type": "application/javascript",
         "title": {"source": "basename"},
-        "type": "text/x-markdown"
+        "type": "text/x-markdown",
+        "created": {"source": "created"},
+        "modified": {"source": "modified"}
       }
     }
   ]
