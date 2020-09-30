@@ -1,6 +1,6 @@
 Les ambitions chinoises sont importantes, à minima devenir la première puissance économique mondiale, malgré les [[Faiblesses de la Chine]]. Elle poursuit avec [[Belt and Road Initiative (BRI)]] sa mise sous tutelle de nombreux pays et organisations. [[La Chine a abandonné officiellement le Pacifisme]], notamment dans le domaine naval (([[Evolution et ambiguïtés de la stratégie navale chinoise]])). 
 
-Depuis le [[Pivot vers l'Asie]], les USA poursuivent une logique de containement contre la Chine. Les [[Retraits américains des grands traités de maîtrise des armements]], ou le [[Retrait américain d'Afghanistan]] sont ainsi conçu pour permettre plus de marges de manoeuvre.
+Depuis le [[Pivot vers l'Asie]], les USA poursuivent une logique de containement contre la Chine. Les [[Retraits américains des grands traités de limitation des armements]], ou le [[Retrait américain d'Afghanistan]] sont ainsi conçu pour permettre plus de marges de manoeuvre.
 
 ## Hypothèse initiale
 

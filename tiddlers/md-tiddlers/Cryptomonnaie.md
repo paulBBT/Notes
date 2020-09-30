@@ -1,8 +1,3 @@
-created: 20200509141307915
-modified: 20200930150920155
-title: Cryptomonnaie
-type: text/vnd.mddlywiki
-
 ## BITCOIN
 
 Il s’agie d’une cryptomonnaie inventée en 2008 par Satochi Nakamoto (personne ou groupe ?). C’est une monnaie digitale, décentralisé, dont les transactions sont vérifiées par un réseau. 

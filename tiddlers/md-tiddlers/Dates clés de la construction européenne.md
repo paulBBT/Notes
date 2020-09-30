@@ -1,8 +1,3 @@
-created: 20200511111416077
-modified: 20200930150920877
-title: Dates clés de la construction européenne
-type: text/vnd.mddlywiki
-
 * 1950 : CECA (6 pays proche économiquement et culturellement / ennemi soviétique clair / allié US clair)
 * **1957 : CEE (et CEEA)**
 * **1972 : extension au Royaume-Uni**

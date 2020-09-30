@@ -1,15 +1,10 @@
-created: 20200523134009361
-modified: 20200930150920206
-title: COVID-19 et privation de liberté
-type: text/vnd.mddlywiki
-
 **Seul un juge des libertés peut normalement décider d’une privation de liberté, et uniquement sur une base individuelle.**
 
-Le [[conseil d’Etat|Conseil d’Etat]] a validé les mesures de confinement en se basant **uniquement sur la théorie jurisprudentielle des [[circonstances exceptionnelles|Mesures d’exception]].** Le [[défenseur des droits|Défenseur des droits]] Jacques Toubon ne s’est pas prononcé. le [[conseil constitutionnel|Conseil constitutionnel]] n’a lui pas été saisi.
+Le [[Conseil d’Etat]] a validé les mesures  de confinement prises lors de la crise du [[COVID-19]] en se basant **uniquement sur la théorie jurisprudentielle des circonstances exceptionnelles** (voir [[Mesures d’exception]]). Le [[Défenseur des droits]] Jacques Toubon ne s’est pas prononcé. le [[Conseil constitutionnel]] n’a lui pas été saisi.
 
 On peut qualifier la prise de ces mesures d’exception en France comme **l’aboutissement de la logique du « coup d’état permanent »** des institutions de la Ve république dénoncé par François Mitterand. Le chef de l’Etat et sa majorité parlementaire soumise a dans les faits tous les pouvoirs.
 
-La réalité a rejoint le [[rêve politique de la Peste|Rêve politique de la Peste]] de Michel Foucault.
+La réalité a rejoint le [[Rêve politique de la Peste]] de Michel Foucault.
 
 ## Deux poids deux mesures
 

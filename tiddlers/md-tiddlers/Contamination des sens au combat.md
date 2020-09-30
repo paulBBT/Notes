@@ -1,10 +1,3 @@
-created: 20200512094836873
-famille: zettel
-modified: 20200930150921021
-tags: TODO
-title: Contamination des sens au combat
-type: text/vnd.mddlywiki
-
 ## La perte de repères
 
 Un soldat sans repères perd sa légitimité. Il vit un **effondrement de sa capacité de  distinction entre bien et mal,** et une modification (consciente ou pas) du comportement.

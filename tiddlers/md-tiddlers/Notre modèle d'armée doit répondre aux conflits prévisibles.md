@@ -1,6 +1,6 @@
 #WIP 
 
-La définition d'un modèle d'armée est une décision stratégique, qui ne peut que reposer sur des hypothèses d'emploi. Le contexte actuel est qu'[[Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre]].
+La définition d'un modèle d'armée est une décision stratégique, qui ne peut que reposer sur des hypothèses d'emploi. Le contexte actuel est qu'[[Une nouvelle conflictualité émerge du recul des formes conventionnelles de la guerre]].
 
 Le modèle actuel est celui de l'après guerre froide, mais [[La transformation des armées françaises après la guerre froide est un échec]]. La question est maintenant de prévoir pour le modèle de demain.
 

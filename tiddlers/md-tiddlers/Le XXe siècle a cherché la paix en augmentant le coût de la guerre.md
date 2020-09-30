@@ -4,4 +4,4 @@ En parallèle, le développement de l’ordre international tend à créer une s
 
 La mondialisation et l’interdépendance qui en résulte contribue également à augmenter le **coût économique** d’une guerre.
 
-Cet état de fait s'inscrit dans une tendance de fond : [[L'histoire va dans le sens d'une reduction de la violence et de la guerre]]. Cependant [[Une nouvelle conflictualité emerge du recul des formes conventionnelles de la guerre]].
+Cet état de fait s'inscrit dans une tendance de fond : [[L'histoire va dans le sens d'une reduction de la violence et de la guerre]]. Cependant [[Une nouvelle conflictualité émerge du recul des formes conventionnelles de la guerre]].

@@ -4,4 +4,4 @@ Graham Allison. (2017). _Destined for War: Can America and China Escape Thucydid
 
 ---
 
-- [[L'affrontement entre la Chine et les Etats-Unis est inéluctable]]
+- [[L'affrontement entre la Chine et les Etats-Unis semble inéluctable]]

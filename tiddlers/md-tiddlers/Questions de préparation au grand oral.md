@@ -1,23 +1,33 @@
-## Questions géopolitiques
+# Questions géopolitiques
 
-### Théorie de la géopolitique
+---
 
-#### Qu’est-ce qu’une thalassocratie ? 
+## Théorie de la géopolitique
+
+---
+
+### Qu’est-ce qu’une thalassocratie ? 
 
 [[Thalassocratie (déf.)]]
 
 On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Unis, cependant [[Les Etats-Unis ne sont pas une thalassocratie]] Je pense qu'il n'y pas de thalassocratie en ce moment dans le monde.
 
-#### @WIP Quand et pourquoi les USA ont-ils remplacé le R-U comme première puissance maritime mondiale ?
+---
 
-#### @WIP La mondialisation nous affaiblit-elle militairement ?
+### @WIP Quand et pourquoi les USA ont-ils remplacé le R-U comme première puissance maritime mondiale ?
+
+---
+
+### @WIP La mondialisation nous affaiblit-elle militairement ?
 
 Mondialisation : deux effets contradictoires
 - augementation des relations bilatérales : augmentation du cout de la guerre
 - augmentation des relations multilatérales : diminution du cout d'opportunité d'une guerre
 - = > favorise les conflits locaux et réduit les conflits globaux
 
-#### @WIP Pourquoi Bonaparte disait-il que « la politique de toutes les puissances est dans leur géographie » ? 
+---
+
+### @WIP Pourquoi Bonaparte disait-il que « la politique de toutes les puissances est dans leur géographie » ? 
 
 Determinisme géographique  
 Idée de Mahan pour la puissance maritime / cardinal de Richelieu 
@@ -28,28 +38,46 @@ Remise en cause au 20e en faveur des paramètres interne (sociaux et autres)
 
 Balancier dans les grands angles d'analyse des RI
 
-### Système international et gouvernance mondiale
+---
 
-#### @WIP Pensez-vous que le système international de 1945, c’est-à-dire celui de l’ONU et des Etats puissants, soit encore adapté au monde du XXI ème siècle, où le nombre d’acteurs étatiques s’est accru et de nouveaux acteurs sont apparus (multinationales, G20,…) ?
+## Système international et gouvernance mondiale
 
-#### @WIP Le CSNU ne reflète plus la réalité stratégique mondiale. Par exemple l’Inde, puissance nucléaire et bientôt pays le plus peuplé du monde, n’y est pas présente de manière permanente. Une réforme du CSNU est-elle envisageable tant pour ses membres que sur le droit de véto ?  
+---
 
-#### @WIP Pensez vous que la France « mérite » sa place de membre permanent du CSNU ? Si elle pouvait la donner, à qui ?
+### @WIP Pensez-vous que le système international de 1945, c’est-à-dire celui de l’ONU et des Etats puissants, soit encore adapté au monde du XXI ème siècle, où le nombre d’acteurs étatiques s’est accru et de nouveaux acteurs sont apparus (multinationales, G20,…) ?
 
-#### @WIP Pouvez vous me citer cinq pays qui ne sont pas signataires de la convention de Montego Bay ?
+---
+
+### @WIP Le CSNU ne reflète plus la réalité stratégique mondiale. Par exemple l’Inde, puissance nucléaire et bientôt pays le plus peuplé du monde, n’y est pas présente de manière permanente. Une réforme du CSNU est-elle envisageable tant pour ses membres que sur le droit de véto ?  
+
+---
+
+### @WIP Pensez vous que la France « mérite » sa place de membre permanent du CSNU ? Si elle pouvait la donner, à qui ?
+
+---
+
+### @WIP Pouvez vous me citer cinq pays qui ne sont pas signataires de la convention de Montego Bay ?
 
 Convention de MB -> 1982
 17 non signataires : Andorre, Azerbaïdjan, Érythrée, Israël, Kazakhstan, Kirghizistan, Pérou, Saint-Marin, Soudan du Sud, Syrie, Tadjikistan, Timor oriental, Turquie, Turkménistan, Ouzbékistan, Vatican, Venezuela.  
 15 non ratifiés : Afghanistan, Bhoutan, Burundi, Cambodge, États-Unis, République centrafricaine, Colombie, Salvador, Éthiopie, Corée du Nord, Libye, Liechtenstein, Rwanda, Émirats arabes unis, Iran
 Chine : caveat mer de chine
 
-### L’Europe et l’UE
+---
 
-#### @WIP Pensez-vous que le projet européen soit mort ?
+## L’Europe et l’UE
 
-#### @WIP La crise de 2008 a accéléré la baisse des budgets militaires européens entamée lors de la chute du mur de Berlin, 20 ans plus tôt. Quels sont, selon vous, les principaux facteurs qui conduisent à un réinvestissement européen dans la défense ?
+---
 
-#### @WIP Quelle vision avez-vous de l’Allemagne, en particulier sur les sujets de défense ?
+### @WIP Pensez-vous que le projet européen soit mort ?
+
+---
+
+### @WIP La crise de 2008 a accéléré la baisse des budgets militaires européens entamée lors de la chute du mur de Berlin, 20 ans plus tôt. Quels sont, selon vous, les principaux facteurs qui conduisent à un réinvestissement européen dans la défense ?
+
+---
+
+### @WIP Quelle vision avez-vous de l’Allemagne, en particulier sur les sujets de défense ?
 
 #### @WIP Comment envisagez-vous le Brexit sur le plan défense ?
 

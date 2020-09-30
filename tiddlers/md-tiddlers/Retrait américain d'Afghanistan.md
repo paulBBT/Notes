@@ -2,4 +2,4 @@ En mars 2020, Mark Esper a annoncé avoir entamé un dialogue avec les talibans 
 
 Il a clairement annoncé dans son allocution que les défis de long terme des USA sont en premier lieu la Chine, en second lieu la Russie.
 
-Voir [[L'affrontement entre la Chine et les Etats-Unis est inéluctable]].
+Voir [[L'affrontement entre la Chine et les Etats-Unis semble inéluctable]].

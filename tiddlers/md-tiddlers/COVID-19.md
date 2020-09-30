@@ -1,11 +1,6 @@
-created: 20200511112052828
-modified: 20200930150920232
-title: COVID-19
-type: text/vnd.mddlywiki
-
 La crise du COVID-19 est unique, c’est la première pandémie dans une économie complètement mondialisée.
 
-Elle pose avant tout la question de notre [[rapport à la mort|COVID-19 et rapport à la mort]]. Le développement sans précédent du télétravail, mais aussi la volonté d’utiliser des applications de traçage, font que la crise va sûrement accélérer la [[numérisation de nos existences|Numérisation de nos existences]].
+Elle pose avant tout la question de notre rapport à la mort (voir [[COVID-19 et rapport à la mort]]). Le développement sans précédent du télétravail, mais aussi la volonté d’utiliser des applications de traçage, font que la crise va sûrement accélérer la [[Numérisation de nos existences]].
 
 ## Rhétorique guerrière et mesures d’exception
 
@@ -31,12 +26,14 @@ La crise va certainement déboucher sur une critique de la mondialisation, et un
 
 ## Mesures exceptionnelles
 
-Les [[mesures de privation de liberté|COVID-19 et privation de liberté]] sont un exemple de la [[toute-puissance apparente et paradoxale des gouvernements|COVID-19 et paradoxe du pouvoir des gouvernements]] révélée par la crise.
+Les [[Mesures de privation de liberté prises pendant l'épidémie de COVID-19]] sont un exemple de la toute-puissance apparente et paradoxale des gouvernements révélée par la crise (voir [[COVID-19 et paradoxe du pouvoir des gouvernements]]).
 
 ## Perspective de vaccin
 
 Il est idiot d’attendre un vaccin sans même savoir si il est possible d’en réaliser un... Nous n’avons ainsi pas découvert de vaccin contre le virus du SIDA découvert en 1983, ou de vaccin absolu contre la grippe saisonière !
 
-<div class="bbtPdP">
-[[Dominique Strauss-Khan]] : [[L’être, l’avoir et le pouvoir dans la crise ; 10 avril 2020, www.leclubdesjuristes.com|Article : L’être, l’avoir et le pouvoir dans la crise]]
-</div>
+--- 
+
+## Références
+
+- Dominique Strauss-Khan. 10 avril 2020. _L’être, l’avoir et le pouvoir dans la crise_. www.leclubdesjuristes.com. 
