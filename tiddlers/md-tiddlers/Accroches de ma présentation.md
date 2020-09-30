@@ -1,6 +1,4 @@
-#EDG 
-
-## Questions personnelles
+# Questions personnelles
 
 ### Vous dites : la Marine a fait de moi, expliquez nous.
 
@@ -26,7 +24,7 @@ Prix littéraires de la rentrée :
 
 ---
 
-## Questions sur mes expériences 
+# Questions sur mes expériences 
 
 ### Quels sont les enjeux ultramarins de la France  ?
 

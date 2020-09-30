@@ -1,5 +1,11 @@
-#WIP
+Fukuyama développe une thèse déjà publié en 1989 dans la revue National Digest. Il s’agit d’actualiser les idées d’Hegel dans le contexte de l’après guerre froide.
 
-Pendant que les occidentaux parlaient de la fin de l'histoire, l'armée française était **engagé dans des conflits d'une grande violence.** Un sentiment de deconnexion profond a alors pu se créer entre les militaires et le reste de la société.
+**La progression de l'humanité comprise comme un combat entre idéologies va se terminer. Fukuyama prévoit l'avénement d'un monde unifié par la démocratie libérale.**
 
-Lien avec la deconnexion pendant l'Indo et l'Algérie ?
+Pendant cette période, les armées françaises étaient cependant engagées dans des conflits extremements violents. Il en a resulté une déconnexion profonde entre les militaires et les partisans des dividendes de la Paix. Quel lien avec la déconnexion de l'Indochine et l'Algérie ?
+
+---
+
+## Références
+
+- Francis Fukuyama. (1992). _The End of History and the Last Man_.

@@ -1,3 +1,10 @@
+## Angles d'analyse classiques en RI
+
+Deux approches classiques dans l’études des relations internationales :
+
+- facteurs internes contre facteurs externes,
+- poids des organisations contre poids des individus dans la motivation des actions des états.
+
 ## Lectures 
 
 Le **compendium du CHEM** resume tous les enjeux de la Défense dans un seul document facile à étudier.
