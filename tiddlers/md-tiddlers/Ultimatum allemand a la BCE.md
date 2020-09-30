@@ -1,0 +1,9 @@
+created: 20200710155016320
+modified: 20200930150920843
+tags: 
+title: Ultimatum allemand à la BCE
+type: text/vnd.mddlywiki
+
+Dans un arrêt du 5 mai 2020 du tribunal constitutionnel de Karlsruhe, **la cour donne trois mois à la BCE pour justifier le //Quantitative Easing//.** Pour les juges, cette politique outrepasse les prérogatives de la BCE qui purement monétaires (limiter et maîtriser l’inflation) et pas économiques.
+
+Cet ultimatum laisse entrevoir deux options extrêmes : une germanisation de [[l’euro|L'Euro]] qui pousse les pays du Sud hors de l’UE, ou une montée du sentiment anti-UE en Allemagne pouvant pousser à claquer la porte.
