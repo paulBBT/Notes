@@ -1,7 +1,23 @@
 {
   "tiddlers": [
     {
-      "path": "../tiddlers/$__SiteSubtitle.tid",
+      "file": "../tiddlers/$__SiteSubtitle.tid",
+      "isTiddlerFile": "true"
+    },
+    {
+      "file": "../tiddlers/$__BBT_styles.tid",
+      "isTiddlerFile": "true"
+    },
+    {
+      "file": "../tiddlers/$__BBT_template_retroliens.tid",
+      "isTiddlerFile": "true"
+    },
+    {
+      "file": "../tiddlers/$__DefaultTiddlers.tid",
+      "isTiddlerFile": "true"
+    },
+    {
+      "file": "../tiddlers/$__SiteTitle.tid",
       "isTiddlerFile": "true"
     }
   ],
