@@ -1,29 +1,29 @@
 {
   "tiddlers": [
     {
-      "file": "../tiddlers/$__SiteSubtitle.tid",
+      "file": "$__SiteSubtitle.tid",
       "isTiddlerFile": "true"
     },
     {
-      "file": "../tiddlers/$__BBT_styles.tid",
+      "file": "$__BBT_styles.tid",
       "isTiddlerFile": "true"
     },
     {
-      "file": "../tiddlers/$__BBT_template_retroliens.tid",
+      "file": "$__BBT_template_retroliens.tid",
       "isTiddlerFile": "true"
     },
     {
-      "file": "../tiddlers/$__DefaultTiddlers.tid",
+      "file": "$__DefaultTiddlers.tid",
       "isTiddlerFile": "true"
     },
     {
-      "file": "../tiddlers/$__SiteTitle.tid",
+      "file": "$__SiteTitle.tid",
       "isTiddlerFile": "true"
     }
   ],
   "directories": [ 
     {
-      "path": "../tiddlers/md-tiddlers",
+      "path": "md-tiddlers",
       "isTiddlerFile": "true",
       "fields": {
         "type": "text/x-markdown",
