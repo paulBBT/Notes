@@ -1,22 +1,6 @@
 {
   "tiddlers": [
     {
-      "path": "../tiddlers/$__BBT_styles.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "path": "../tiddlers/$__BBT_template_retroliens.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "path": "../tiddlers/$__DefaultTiddlers.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "path": "../tiddlers/$__SiteTitle.tid",
-      "isTiddlerFile": "true"
-    },
-    {
       "path": "../tiddlers/$__SiteSubtitle.tid",
       "isTiddlerFile": "true"
     }
