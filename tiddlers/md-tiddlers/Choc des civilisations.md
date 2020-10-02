@@ -6,7 +6,7 @@ Huntington fait le constat de la fin des affrontements autour de critères polit
 
 Dans la réalité, on observe effectivement la multiplication des revendications identitaires, des Rohingas à la Catalogne. De nombreux pays se replient également sur un nationalisme ethnique (Turquie, Chine...).
 
-Voir [[Retour du nationalisme aggressif]].
+Voir [[Retour d'un nationalisme aggressif]].
 
 ---
 

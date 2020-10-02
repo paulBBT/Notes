@@ -1,7 +1,2 @@
-created: 20200526162851698
-modified: 20200930150920341
-tags: 
-title: Individualisme
-type: text/vnd.mddlywiki
-
-{{Citation : Tocqueville à propos de l’individualisme}}
+>*Ce sentiment qui dispose chaque citoyen à s’isoler de la masse.*<br/>
+>Alexis de Tocqueville, « De la démocratie en Amérique ». 

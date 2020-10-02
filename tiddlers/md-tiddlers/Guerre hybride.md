@@ -14,7 +14,7 @@ La guerre hybride est un conséquence de l’apparition de nouvelles formes de c
 
 La théorisation est attribuée au chef d'état major des armées russes, le général Guerassimov (Géorgie 2008, Crimée 2014).
 
-Le concept chinois de [[Guerre hors limites]] est assez proche.
+Le concept chinois de [[La guerre hors limites]] est assez proche.
 
 ## Prise en compte
 

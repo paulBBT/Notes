@@ -1,9 +1,3 @@
-created: 20200512084322724
-modified: 20200930150921170
-title: Protection de l’environnement dans la guerre
-type: text/vnd.mddlywiki
-zone.ajoutrelation: 
-
 ## Environnement comme victime des conflits
 
 Le 6 novembre est la Journée mondiale de la préservation de l’environnement en temps de guerre.

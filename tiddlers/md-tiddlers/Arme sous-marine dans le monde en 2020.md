@@ -8,4 +8,4 @@ Les grandes tendances en 2020 sont :
 - Le marché de la seconde main est vivant, et dynamique.
 - L’export voit l’émergence de nouveaux acteurs : Japon et Corée.
 
-Il reste complexe d’évaluer le niveau des sous-marinades (voir [[Difficultés à évaluer le niveau des marines]]).
+Il reste complexe d’évaluer le niveau des sous-marinades (voir [[Difficultés à évaluer la valeur des marines]]).

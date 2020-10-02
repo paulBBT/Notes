@@ -1,9 +1,3 @@
-created: 20200523130038702
-modified: 20200930150920959
-tags: 
-title: Radar quantique
-type: text/vnd.mddlywiki
-
 Le Institute of Science and Technology Austria a fait la démonstration en 2020 d’un prototype de radar quantique.
 
 ## Comment fonctionne un radar quantique ?

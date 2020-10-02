@@ -1,6 +1,6 @@
 Le PA est considéré comme le meilleur capital ship depuis la bataille de Pearl Harbor et les batailles majeures de la guerre du Pacifique. Il fait face aujourd’hui à de nombreux défis.
 
-La question est celle du [[Compromis entre densité technologique et masse de manoeuvre]].
+La question est celle du [[Compromis entre masse de manoeuvre et densité technologique]].
 
 ## Coût exorbitant
 

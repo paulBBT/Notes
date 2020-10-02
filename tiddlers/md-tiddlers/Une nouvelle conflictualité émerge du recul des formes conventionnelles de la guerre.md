@@ -7,7 +7,7 @@
 
 On peut observer paradoxalement une **augmentation des confrontations**, c'est à dire des affrontements sous le seuil de la guerre ouverte. La confrontation impose la capacité de faire pression et **dépasse donc le cadre militaire.** 
 
-Voir [[Guerre hors limites]] et [[Guerre hybride]].
+Voir [[La guerre hors limites]] et [[Guerre hybride]].
 
 Le contexte de dissuasion mutuelle favorise la politique du fait accompli (Crimée, mer de Chine méridionale). 
 

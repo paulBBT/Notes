@@ -1,1 +1,0 @@
-Permit par l'effet multiplicateur de la puissance maritime

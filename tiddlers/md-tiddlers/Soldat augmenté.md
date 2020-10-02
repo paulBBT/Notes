@@ -10,7 +10,7 @@ Aujourd’hui, c’est « l’augmentation additionnelle » soit fonctionnant sa
 
 L’action militaire a toujours **promu l’efficacité du groupe sur l’efficacité de l’individu.** Une augmentation n’a de sens que si elle est au service du collectif.
 
-La [[Densification de l’Etre]] peut être vue comme une alternative à l’augmentation.
+La [[Densification de l'Etre]] peut être vue comme une alternative à l’augmentation.
 
 >*La force de la cité n’est ni dans ses remparts, ni dans ses vaisseaux, mais dans le caractère de ses hommes.*<br/>
 >Thucydide, « La guerre du Péloponèse ». 

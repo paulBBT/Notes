@@ -8,7 +8,7 @@ Les USA ont initialement fait l’hypothèse que la participation chinoise à un
 
 ## Une seconde guerre froide pour Graham Allison
 
-Pour Allison, l’opposition entre la Chine et les USA peut dégénérer dans une nouvelles guerre froide, qui **ferrait de nouveau de l’Europe à la fois un enjeu principal et une zone tampon d’affrontement.** Il évoque la guerre du Péloponèse pour en déduire sa conception du [[Piège de Thucydide]].
+Pour Allison, l’opposition entre la Chine et les USA peut dégénérer dans une nouvelles guerre froide, qui **ferrait de nouveau de l’Europe à la fois un enjeu principal et une zone tampon d’affrontement.** Il évoque la guerre du Péloponèse pour en déduire sa conception du Piège de Thucydide.
 
 Le CEMA français s'inscrit dans cette logique en affirmant que la guerre froide entre la Chine et les Etats-Unis est inéluctable :
 

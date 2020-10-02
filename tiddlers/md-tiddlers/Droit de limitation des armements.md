@@ -8,4 +8,4 @@ Emmanuel Macron a rappelé dans son discours à l’Ecole de Guerre du 7 févrie
 
 ## Position américaine
 
-La maison blanche a précisé sa position dans un communiqué officiel du **7 mai 2020 : une limitation efficace des armements doit inclure la Chine.** Ce communiqué peut permettre d’éclairer les [[Retraits américains des traités de limitation des armements]].
+La maison blanche a précisé sa position dans un communiqué officiel du **7 mai 2020 : une limitation efficace des armements doit inclure la Chine.** Ce communiqué peut permettre d’éclairer les [[Retraits américains des grands traités de limitation des armements]].

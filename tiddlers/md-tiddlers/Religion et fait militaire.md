@@ -1,8 +1,3 @@
-created: 20200510211155038
-modified: 20200930150920640
-title: Religion et fait militaire
-type: text/vnd.mddlywiki
-
 ## Similitude
 
 Les deux domaines impliquent une vocation qui s’accompagne d’une dimension passionnelle, implique un idéal, un engagement absolu qui appelle à l’abnégation. L’accomplissement et le dépassement de soi sont des marques de transcendance.
@@ -19,4 +14,5 @@ La mort et la transcendance sont intrinséquement liées à la vie du soldat, la
 
 La pratique de la religion est avant tout une expérience personnelle qui peut parfaitement coexister, en toute harmonie, avec le service des armes.
 
-{{Citation : de Montluc à propos de la religion}}
+>*Mon âme est à Dieu, ma vie est à l’État, ma conscience est à moi.*<br/>
+>Devise de Blaise de Montluc (1550).

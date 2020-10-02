@@ -10,7 +10,7 @@ Seuls 36 des 44 pays ayant des réacteurs nucléaires l’ont ratifié, **ce tra
 
 ## 1997 : Traité d'Ottawa
 
-Voir [[Traité d’Ottawa]].
+Voir [[Traité d’Ottawa (1997)]].
 
 ## 2010 : accord NEW START
 
@@ -24,6 +24,6 @@ Les objectifs de ce traité sont atteints en 2018, mais **son renouvellement apr
 
 ## 2017 : traité d’interdiction des forces nucléaires
 
-Voir [[Traité d’Interdiction des Armes Nucléaires (TIAN)]].
+Voir [[TIAN (2017)]].
 
 Voir [[Retraits américains des grands traités de limitation des armements]].

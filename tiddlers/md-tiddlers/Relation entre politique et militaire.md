@@ -1,9 +1,5 @@
-created: 20200512095222122
-modified: 20200930150921047
-title: Relation entre politique et militaire
-type: text/vnd.mddlywiki
-
-{{Citation : Clausewitz à propos du but de la guerre}}
+>*L’intention politique est la fin et la guerre le moyen, et l’on ne peut concevoir le moyen indépendamment de la fin.*<br/>
+>Karl von Clausewitz.
 
 ## Des tensions prévisibles
 

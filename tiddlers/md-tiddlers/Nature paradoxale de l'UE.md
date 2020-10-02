@@ -1,6 +1,7 @@
 ## Nature de l’Union Européenne
 
-{{Citation : Dominique Giuliani à propos de l’UE}}
+>*L’Europe n’est ni un Etat, ni un Empire.*<br/>
+>Dominique Giuliani. 
 
 L’UE est fondamentalement une **construction hybride partiellement fédérale et partiellement intergouvernementale** (voir [[Dates clés de la construction européenne]]). Par conception, l’UE n’a pas de culture militaire. Elle a été conçue pour limiter les ambitions de puissance.
 

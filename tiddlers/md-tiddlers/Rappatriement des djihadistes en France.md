@@ -1,8 +1,3 @@
-created: 20200510210833350
-modified: 20200930150920242
-title: Rappatriement des djihadistes en France
-type: text/vnd.mddlywiki
-
 ## Des difficultés multiples
 
 Il est **extrêmement complexe de quantifier l’embrigadement** ou l’attachement à une idéologie. Il faut de plus prendre en compte la dissimulation.

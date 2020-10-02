@@ -13,11 +13,11 @@ La difficulté de compréhension des résultats est finalement avant tout une qu
 ## Limites éthiques et juridiques
 
 Les responsabilités sont difficiles à établir. Quelle est la personnalité juridique d’un robot ?
-Le licite ne se confond pas avec l’éthique : si l’on peut attendre une forme de légalité dans les réactions programmées de systèmes autonomes, il semble en revanche beaucoup plus délicat de les doter de la faculté d’apprécier une situation en fonction d’éléments d’ambiance et de traits de comportement. Voir [[Difficultés éthiques des robots de combat]].
+Le licite ne se confond pas avec l’éthique : si l’on peut attendre une forme de légalité dans les réactions programmées de systèmes autonomes, il semble en revanche beaucoup plus délicat de les doter de la faculté d’apprécier une situation en fonction d’éléments d’ambiance et de traits de comportement. Voir [[Les robots de combat posent une question éthique]].
 
 ## Secteur privé
 
-Le développement de l’IA se fait surtout par le secteur privé (voir [[Dualité public/privé dans le cyber]]), le contrôle est difficile et il ne paraît pas possible de garantir que les inventions seront utilisées au bénéfice de l’humanité.
+Le développement de l’IA se fait surtout par le secteur privé (voir [[Dualité public-privé dans le cyber]]), le contrôle est difficile et il ne paraît pas possible de garantir que les inventions seront utilisées au bénéfice de l’humanité.
 
 ## Augmentation des inégalités et adaptation à l’IA
 

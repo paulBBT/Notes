@@ -10,4 +10,4 @@ Il considère que la fragilité de la nature humaine, et notre incapacité à y 
 >*Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.*<br/>
 >Blaise Pascal, pensée B139. 
 
-Voir [[Travail et loisir]].
+Voir [[Equilibre entre travail et loisir]].
