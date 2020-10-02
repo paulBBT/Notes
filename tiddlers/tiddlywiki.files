@@ -1,10 +1,9 @@
 {
   "directories": [ 
     {
-      "path": "",
+      "path": "md-tiddlers",
       "isTiddlerFile": "true",
       "fields": {
-        "type": "application/javascript",
         "title": {"source": "basename"},
         "type": "text/x-markdown",
         "created": {"source": "created"},
