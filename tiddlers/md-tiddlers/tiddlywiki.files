@@ -1,7 +1,7 @@
 {
   "directories": [ 
     {
-      "path": "md-tiddlers",
+      "path": "",
       "isTiddlerFile": "true",
       "fields": {
         "title": {"source": "basename"},
