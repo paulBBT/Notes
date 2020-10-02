@@ -1,8 +1,3 @@
-created: 20200511151830836
-modified: 20200930150920814
-title: Niveau de vie des militaires
-type: text/vnd.mddlywiki
-
 Le niveau de vie des militaires contribue à définir leur place au sein de la Nation. 
 
 Fin janvier 2020, lors des ses voeux aux associations, le CEMA a rappelé que le niveau de vie d’un foyer avec un militaire était **inférieur de 25 à 30% à un foyer équivalent avec un fonctionnaire de niveau équivalent.**

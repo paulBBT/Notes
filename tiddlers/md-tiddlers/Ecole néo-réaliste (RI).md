@@ -2,4 +2,4 @@ L'école dite du réalisme structurel ou néo-réalisme, fondée par [[Kenneth W
 
 Les Etats serrait plongés dans une **anarchie perpétuelle,** ils ont donc comme objectif la protection de leur sécurité et de leur souveraineté. Cette anarchie est différente et indépendante de l'[[Etat de Nature (Hobbes)]], elle est lié à la structure même de l'organisation internationale.
 
-[[Critique de la théorie néo-réaliste]]
+Voir [[Critique de la théorie néo-réaliste]] / [[Ecole réaliste (RI)]].

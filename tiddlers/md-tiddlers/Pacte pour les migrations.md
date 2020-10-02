@@ -1,9 +1,3 @@
-created: 20200511111519125
-famille: zettel
-modified: 20200930150920772
-title: Pacte pour les migrations
-type: text/vnd.mddlywiki
-
 L’ONU a présenté en décembre 2018 le Pacte mondial pour des migrations sûres, ordonnées, et régulières. 
 
 ## Principaux arguments

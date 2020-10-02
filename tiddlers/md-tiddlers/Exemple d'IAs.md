@@ -1,8 +1,3 @@
-created: 20200509140358250
-modified: 20200930150920192
-title: Exemple d'IAs
-type: text/vnd.mddlywiki
-
 ## Google Brain
 
 Google Brain est un projet d’IA collaborative qui utilise jusqu’à 16 000 agents différents. En 2012, l’IA reconnaît tout seul un chat après l’observation de 10 millions de photos.

@@ -1,12 +1,6 @@
-created: 20200522163056171
-modified: 20200930150921164
-tags: 
-title: Droit de limitation des armements
-type: text/vnd.mddlywiki
-
 Le droit de limitation des armements est une des trois branches du droit des conflits armés.
 
-Il repose sur de [[grands traités|Principaux traités de désarmement]]. 
+Il repose sur les [[Principaux traités de limitation des armements]]. 
 
 ## Position française
 
@@ -14,4 +8,4 @@ Emmanuel Macron a rappelé dans son discours à l’Ecole de Guerre du 7 févrie
 
 ## Position américaine
 
-La maison blanche a précisé sa position dans un communiqué officiel du **7 mai 2020 : une limitation efficace des armements doit inclure la Chine.** Ce communiqué peut permettre d’éclairer les [[retraits américains|Retraits américains des traités de limitation des armements]].
+La maison blanche a précisé sa position dans un communiqué officiel du **7 mai 2020 : une limitation efficace des armements doit inclure la Chine.** Ce communiqué peut permettre d’éclairer les [[Retraits américains des traités de limitation des armements]].

@@ -1,6 +1,1 @@
-created: 20200511172938410
-modified: 20200930150920757
-title: Format de l’USN
-type: text/vnd.mddlywiki
-
 En 2019, le Pentagone estime qu’il faut 355 navires pour mettre en oeuvre les plans prévus pour la guerre (pour mémoire 600 pendant les années 1980).

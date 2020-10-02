@@ -1,22 +1,17 @@
-created: 20200512085135534
-modified: 20200930150921160
-title: Droit de la mer
-type: text/vnd.mddlywiki
-
 ## Historique
 
 Avant le XVIIe, les frontières restent proches de la côte pour des raisons pratiques. La première définition des eaux territoriales est la portée d’un boulet de canon depuis la côte.
 On peut ensuite observer une opposition entre deux visions :
 
-* **« Mare Liberum » en 1609 : le hollandais Grotius défend la liberté de navigation,**
-* **« Mare Clausum » en 1635 : l’anglais Seldon postule que la mer doit appartenir à la puissance apte à la contrôler.**
+- **« Mare Liberum » en 1609 : le hollandais Grotius défend la liberté de navigation,**
+- **« Mare Clausum » en 1635 : l’anglais Seldon postule que la mer doit appartenir à la puissance apte à la contrôler.**
 
 ## Un effort de régulation et de territorialisation au XXe siècle
 
 Cet effort est lié au développement de la technique, qui permet d’aller plus loin et de contrôler mieux ce qui se passe en mer. Il s’agit de protéger mais aussi d’exploiter :
 
-* **1914 : première convention SOLAS** (Safety Of Life At Sea) suite au naufrage du Titanic en 1912 ;
-* 1929 : Monaco fixe la longueur du mille marin.
+- **1914 : première convention SOLAS** (Safety Of Life At Sea) suite au naufrage du Titanic en 1912 ;
+- 1929 : Monaco fixe la longueur du mille marin.
 
 ## Convention de Montego Bay
 

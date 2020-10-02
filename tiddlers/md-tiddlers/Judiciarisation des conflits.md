@@ -1,8 +1,3 @@
-created: 20200512084501868
-modified: 20200930150921317
-title: Judiciarisation des conflits
-type: text/vnd.mddlywiki
-
 ## Symptôme
 
 On observe au XXIe siècle un recours systématique au droit, là où il n’est pas nécessaire et où l’éthique devrait suffire.

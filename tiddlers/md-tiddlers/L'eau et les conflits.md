@@ -1,8 +1,3 @@
-created: 20200511105529524
-modified: 20200930150920049
-title: L'eau et les conflits
-type: text/vnd.mddlywiki
-
 ## L’eau dans le monde
 
 2,5% de l’eau est potable (1% est en surface, 1,5% en sous-terrain). Huit pays possèdent 60% des réserves mondiales en eaux (Brésil, Russie, Chine, Canada, Inde, USA, Indonésie, Colombie). **43 pays sont en stress hydrique.**
@@ -30,6 +25,6 @@ L’eau, comme le reste de la Nature, peut enfin être une victime de la guerre.
 
 **En 1672/1673, Louis XIV est retardé par l’inondation des polders hollandais.**
 
-Les [[conventions de Genève de 1949|Protection de l’environnement dans la guerre]] prévoit l’interdiction de destruction d’infrastructures hydrauliques (barrages, centrales hydrauélectriques, réservoirs de stockage, usines de dessalement ou d’assainissement, conduite d’eau potable…). Cela n’empêche pas en 1979 les VM d’empoisonner les nappes phréatiques pour freiner la progression chinoise. Les infrastructures hydrauliques sont aujourd’hui une vulnérabilité cyber.
+Les conventions de Genève de 1949 (voir [[Protection de l’environnement dans la guerre]]) prévoit l’interdiction de destruction d’infrastructures hydrauliques (barrages, centrales hydrauélectriques, réservoirs de stockage, usines de dessalement ou d’assainissement, conduite d’eau potable…). Cela n’empêche pas en 1979 les VM d’empoisonner les nappes phréatiques pour freiner la progression chinoise. Les infrastructures hydrauliques sont aujourd’hui une vulnérabilité cyber.
 
 Sans frapper directement des infrastructures hydraulique, les ponts sont des objectifs.

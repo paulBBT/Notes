@@ -1,5 +1,12 @@
 #WIP 
 
-Concepts : friction, trinité roi/peuple/Etat, guerre instrument de la politique, annéantissement de l'ennemi et bataille décisive, centre de gravité (Schwerpunkt), avantage de la défensive.
+Concepts : 
 
-Etudie également la petite guerre et préfigure la guerre totale.
+- Friction, 
+- Trinité roi/peuple/Etat, 
+- Guerre instrument de la politique, 
+- Annéantissement de l'ennemi (préfigure la [[Guerre totale]]), 
+- Bataille décisive, 
+- Centre de gravité (Schwerpunkt), 
+- Avantage de la défensive
+- Petite guerre.

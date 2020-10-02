@@ -27,4 +27,4 @@ Pour l'[[Ecole réaliste (RI)]], la volonté de puissance est naturelle aux unit
 * Soft Power : capacité d’une entité politique à imposer sa volonté par l’influence, en utilisant d’autres moyens que ceux du Hard Power.
 * Smart Power : pour Joseph Nye il s’agit de la combinaison de coercition et d’influence.
 
-Voir [[Lien entre capacite d’influence et force]].
+Voir [[Lien entre capacité d’influence et force]].

@@ -1,8 +1,3 @@
-created: 20200510210530582
-modified: 20200930150920491
-title: Islam en France
-type: text/vnd.mddlywiki
-
 ## Deux lectures différentes
 
 Le sujet peut-être considéré sous deux angles principaux : les musulmans comme ensemble d'individus dont chacun ne représente que lui-même ou monde musulman comme ensemble d'individus animé collectivement, depuis l'origine, par un projet conquérant.

@@ -6,6 +6,6 @@ Les débats ont été longtemps focalisés sur les drones. Le pilotage n’est c
 
 ## Robots autonomes
 
-L’ajout d’[[IA (déf.)]] complexifie le problèmes, de l’autonomie au robot tueur (un peu fantaisiste à court terme).
+L’ajout d’[[Définitions autour de l'IA]] complexifie le problèmes, de l’autonomie au robot tueur (un peu fantaisiste à court terme).
 
 On peut cependant ancrer la discussion autour de la distinction entre **éthique artificielle au sein des systèmes et éthique roboticienne du concepteur / utilisateur.**

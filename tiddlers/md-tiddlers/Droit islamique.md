@@ -1,8 +1,3 @@
-created: 20200510210501118
-modified: 20200930150920496
-title: Droit islamique
-type: text/vnd.mddlywiki
-
 ## Hadith
 
 Le Coran très peu normatif. Les Hadith sont la source du droit islamique dès le 8e siècle. Le système est donc fortement jurisprudenciel. 

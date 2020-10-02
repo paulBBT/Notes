@@ -1,23 +1,18 @@
-created: 20200511110251707
-modified: 20200930150921262
-title: Monde bipolaire
-type: text/vnd.mddlywiki
-
 ## Caractère exceptionnel de la guerre froide
 
 La guerre froide est une situation unique dans l’histoire des RI mais qui influence fortement notre vision du monde. Elle est caractérisée par une **double logique d’affrontement et de regroupement** dans tous les domaines :
 
-* Politiquement, le fait nucléaire ne permet pas de gagner mais oblige à se placer sous la protection d’un puissant ;
-* Idéologiquement, l’idéologie remplace la nation dans le jeu international ;
-* Socio-économiquement, chaque organisation est différente et possède une dissidence rêvant de l’autre camp.
+- Politiquement, le fait nucléaire ne permet pas de gagner mais oblige à se placer sous la protection d’un puissant ;
+- Idéologiquement, l’idéologie remplace la nation dans le jeu international ;
+- Socio-économiquement, chaque organisation est différente et possède une dissidence rêvant de l’autre camp.
 
 ## Annonce des nouvelles conflictualités
 
-Le déport des affrontements sur les théatres périphérique a jeté les bases de [[l'instabilité actuelle|Recul des formes conventionnelles de la guerre]].
+Le déport des affrontements sur les théatres périphérique a jeté les bases de l'instabilité actuelle (voir [[Une nouvelle conflictualité émerge du recul des formes conventionnelles de la guerre]]).
 
 ## Un monde vraiment bipolaire ?
 
-A partir de 1967 on assiste à une **coexistence pacifique et un partage du monde.** Le déplacement des conflits au sud et les écarts de puissance trop importants sont des limites aux grandes puissances. Bertrand Badie parle [[d'oligarchie|Système Westphalien]].
+A partir de 1967 on assiste à une **coexistence pacifique et un partage du monde.** Le déplacement des conflits au sud et les écarts de puissance trop importants sont des limites aux grandes puissances. Bertrand Badie parle d'oligarchie (voir [[Système Westphalien]]).
 
 Les US participent à un concert des nations dès la création du G6 en 1975 en raison de leur faiblesse relative (dollar dévalué en 1971 et 1973 / débacle du Vietnam / scandale du Watergate).
 

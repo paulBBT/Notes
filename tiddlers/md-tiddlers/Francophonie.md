@@ -1,8 +1,3 @@
-created: 20200511110750003
-modified: 20200930150920834
-title: Francophonie
-type: text/vnd.mddlywiki
-
 ## Organisation mondiale de la Francophonie
 
 Un secrétaire générale est élu pour 4 ans par les chefs d’états et de gouvernements, actuellement Louise Mushikiwabo (Rwanda) depuis janvier 2019.

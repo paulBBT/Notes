@@ -1,8 +1,3 @@
-created: 20200511105258899
-modified: 20200930150920395
-title: Deux classes moyennes
-type: text/vnd.mddlywiki
-
 ## Emergence d’une nouvelle classe
 
 Déjà définie en 1830 par Samuel Coleridge sous le néologisme de Clerisy, cette nouvelle classe moyenne est également **mise en évidence par Piketty sous le nom de Gauche Brahmin** (du nom de la caste de prêtre dans la société indienne).
@@ -21,6 +16,8 @@ L’écologie est pour ce nouveau clergé un élément important : opportunité 
 
 La transition écologique et ses conséquences pratiques sont à la source de nombreux affrontements : gilets jaunes avec le prix de l’essence, manifestations au Chili en 2019 (20 morts et 1200 blessés), manifestations au Canada. 
 
-<div class="bbtPdP">
-[[Joel Kotkin]] : [[The Two Middle Classes ; 27 février 2020, quillette.com.|Article : The Two Middle Classes]]
-</div>
+---
+
+## Références 
+
+- Joel Kotkin. (27 février 2020). _The Two Middle Classes_. www.quillette.com.

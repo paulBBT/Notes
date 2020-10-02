@@ -1,8 +1,3 @@
-created: 20200510211553134
-modified: 20200930150921004
-title: Honneur
-type: text/vnd.mddlywiki
-
 ## Un sentiment
 
 Il s’agit du sentiment que l’on a de sa dignité morale, la fierté vis-à-vis de soi et des autres.

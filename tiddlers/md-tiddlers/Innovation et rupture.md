@@ -1,11 +1,13 @@
-created: 20200522155049610
-modified: 20200930150920106
-tags: 
-title: Innovation et rupture
-type: text/vnd.mddlywiki
+>*L’inspiration n’est le plus souvent qu’une réminiscence.*<br/>
+>Napoléon. 
 
-{{Citation : Napoléon à propos de l'inspiration}}
+>*Si vous voulez des idées neuves, lisez un vieux livre.*<br/>
+>Pavlov .
 
-{{Citation : Pavlov à propos de l'inspiration}}
+L’innovation radicale, au contraire de la rupture, permet une forte augmentation de l’efficacité sans imposer de profonds changements organisationnels. 
 
-L’innovation radicale, au contraire de la rupture, permet une forte augmentation de l’efficacité sans imposer de profonds changements organisationnels. (Michel Goya ; 2020, DSI n°146 (janvier/février).)
+---
+
+## Références
+
+- Michel Goya. (2020). DSI n°146 (janvier/février).

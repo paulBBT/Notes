@@ -1,12 +1,7 @@
-created: 20200511111201036
-modified: 20200930150920886
-title: L'Euro
-type: text/vnd.mddlywiki
-
 ## Genèse
 
-* 1970 : Rapport Werner pour une Union Economique et Monétaire
-* 1999 : première mise en circulation
+- 1970 : Rapport Werner pour une Union Economique et Monétaire
+- 1999 : première mise en circulation
 
 ## L'euro a déjoué toutes les prédictions pessimistes
 
@@ -33,6 +28,6 @@ La convergence des taux d’intérêts et d'inflation est réelle, mais la conve
 ## Pour plus de convergence
 
 Pour continuer à progresser vers plus de convergence, il faut :
-* finir l'union bancaire,
-* mettre en place d’un ministre des finances de la zone euro
-* mettre en place un budget de zone euro.
+- finir l'union bancaire,
+- mettre en place d’un ministre des finances de la zone euro
+- mettre en place un budget de zone euro.

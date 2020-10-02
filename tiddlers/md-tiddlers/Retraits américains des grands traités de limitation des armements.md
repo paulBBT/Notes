@@ -4,4 +4,4 @@ En mai 2020, les américains ont également annoncés se retirer du traité Ciel
 
 Echec des négociations sur le prolongement de NEW START.
 
-Voir [[Principaux traités de maîtrise des armements]].
+Voir [[Principaux traités de limitation des armements]].

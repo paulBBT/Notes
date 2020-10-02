@@ -1,9 +1,3 @@
-created: 20200511110335196
-famille: zettel
-modified: 20200930150921256
-title: Doctrine Rumsfeld - Cebrowski
-type: text/vnd.mddlywiki
-
 ## Division du monde en deux
 
 La doctrine constate la **division du monde entre les pays intégrés à la mondialisation (Functionning Core) et une zone dont les gouvernements sont corrompus ou non alignés aux USA (Disconnected Gap).**
@@ -18,5 +12,5 @@ La possibilité de création d’un Kurdistan éloigne la Turquie des USA.
 
 ## Diffusion au grand public
 
-* Article du colonel Ralf Peters
-* Thomas Barnett : The Pentagone new map ; 2004 (livre de l’assistant de l’amiral Cebrowski)
+- Article du colonel Ralf Peters
+- Thomas Barnett : The Pentagone new map ; 2004 (livre de l’assistant de l’amiral Cebrowski)

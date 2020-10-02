@@ -1,10 +1,4 @@
-created: 20200525144037042
-modified: 20200930150920486
-tags: 
-title: Distinction des ordres
-type: text/vnd.mddlywiki
-
-[[Blaise Pascal]] distingue quatre ordres de noblesse croissante :
+Blaise Pascal distingue quatre ordres de noblesse croissante :
 
 * **ordre économique, technique et scientifique ;**
 * **ordre politique et juridique ;**

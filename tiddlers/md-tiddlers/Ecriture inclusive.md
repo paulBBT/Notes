@@ -1,8 +1,3 @@
-created: 20200511103314362
-modified: 20200930150920360
-title: Ecriture inclusive
-type: text/vnd.mddlywiki
-
 ## Règle du masculin sur le féminin en français
 
 **Cette règle est mise en place en 1643 par l’Académie Française à ses débuts. **

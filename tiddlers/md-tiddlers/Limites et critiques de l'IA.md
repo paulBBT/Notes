@@ -1,8 +1,3 @@
-created: 20200509140717074
-modified: 20200930150920184
-title: Limites et critiques de l'IA
-type: text/vnd.mddlywiki
-
 ## Confirmation des biais humains
 
 Les techniques actuelles font que les réponses proposées par les IA faibles que nous maîtrisons sont aussi bonnes que les données d’entrée. Tay de Microsoft est  par exemple devenu raciste après 24h. 
@@ -22,8 +17,8 @@ Le licite ne se confond pas avec l’éthique : si l’on peut attendre une form
 
 ## Secteur privé
 
-Le développement de l’IA se fait surtout par le secteur [[privé|Dualité public/privé dans le cyber]], le contrôle est difficile et il ne paraît pas possible de garantir que les inventions seront utilisées au bénéfice de l’humanité.
+Le développement de l’IA se fait surtout par le secteur privé (voir [[Dualité public/privé dans le cyber]]), le contrôle est difficile et il ne paraît pas possible de garantir que les inventions seront utilisées au bénéfice de l’humanité.
 
 ## Augmentation des inégalités et adaptation à l’IA
 
-Pour Laurent Alexandre, la différence d’accès à une [[utilisation efficace de l’IA|Quotien d'adaptation à l'IA]] va creuser les inégalités.
+Pour Laurent Alexandre, la différence d’accès à une utilisation efficace de l’IA (voir [[Quotien d'adaptation à l'IA]]) va creuser les inégalités.

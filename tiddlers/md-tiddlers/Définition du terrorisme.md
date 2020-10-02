@@ -1,11 +1,6 @@
-created: 20200511102115523
-modified: 20200930150920259
-title: Définition du terrorisme
-type: text/vnd.mddlywiki
-
 ## Définition du terrorisme
 
-Il existe plus de 300 définitions au niveau international, qui ont de plus [[évoluées dans le temps|Changement de nature du terrorisme]]. Le consensus est impossible car terroriste et résistant doivent pouvoir être distingués alors que rien ne les distingue sur le plan des actions (WWII, ETA, IRA…).
+Il existe plus de 300 définitions au niveau international, qui ont de plus évoluées dans le temps (voir [[Changement de nature du terrorisme]]). Le consensus est impossible car terroriste et résistant doivent pouvoir être distingués alors que rien ne les distingue sur le plan des actions (WWII, ETA, IRA…).
 
 On peut retenir que le terrorisme est **un acte de violence et de communication.**
 

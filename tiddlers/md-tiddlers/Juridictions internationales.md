@@ -1,10 +1,5 @@
-created: 20200512084422204
-modified: 20200930150921225
-title: Juridictions internationales
-type: text/vnd.mddlywiki
-
-* TPI créé pour les crimes nazis (crime de guerre, crime contre l’humanité) puis TPIY, TPIR, TS Sierra Leone ou Liban.
-* Aujourd’hui, CPI mais pas ratifiée par CH, IN, RU, US…
-* CIJ : siège à La Haye et règle les différents juridiques entre États (frontières, etc.)
-* CEDH : juridiction supranationale pour le respect de la convention européenne de sauvegarde des DDH (y compris RU, etc.)
-* CJUE : veille à l’application du droit de l’union de façon uniforme.
+- TPI créé pour les crimes nazis (crime de guerre, crime contre l’humanité) puis TPIY, TPIR, TS Sierra Leone ou Liban.
+- Aujourd’hui, CPI mais pas ratifiée par CH, IN, RU, US…
+- CIJ : siège à La Haye et règle les différents juridiques entre États (frontières, etc.)
+- CEDH : juridiction supranationale pour le respect de la convention européenne de sauvegarde des DDH (y compris RU, etc.)
+- CJUE : veille à l’application du droit de l’union de façon uniforme.

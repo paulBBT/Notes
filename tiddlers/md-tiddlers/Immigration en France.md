@@ -1,9 +1,3 @@
-created: 20200522161905621
-modified: 20200930150920778
-tags: 
-title: Immigration en France
-type: text/vnd.mddlywiki
-
 ## Rapport parlementaire sur les bénéfices de l’immigration du 22 janvier 2020
 
 Ce rapport conclue que **l’immigration n’a pas eu d’effet sur l’économie française, ni positive, ni négative.**

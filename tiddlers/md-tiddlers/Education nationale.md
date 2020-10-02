@@ -1,8 +1,3 @@
-created: 20200511105036675
-modified: 20200930150920789
-title: Education nationale
-type: text/vnd.mddlywiki
-
 Le ministère de l’Education Nationale représente en 2019 **1,15 million de personnes, dont 870 000 enseignants, pour 12,87 millions d’élèves (1 professeur pour 15 élèves en moyenne)** et 61 900 écoles et établissements d’enseignement secondaires. L’enseignement supérieur représente 90 000 professeurs pour 2,7 milions d’étudiants.
 
 La France a des résultats aux test PISA dans la moyenne alors qu’elle investit sensiblement plus que la moyenne des pays participants.
