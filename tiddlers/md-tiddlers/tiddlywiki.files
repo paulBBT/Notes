@@ -4,8 +4,8 @@
       "path": "",
       "isTiddlerFile": "true",
       "fields": {
-        "title": {"source": "basename"},
         "type": "text/x-markdown",
+        "title": {"source": "basename"},
         "created": {"source": "created"},
         "modified": {"source": "modified"}
       }
