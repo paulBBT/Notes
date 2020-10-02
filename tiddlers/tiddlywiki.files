@@ -1,7 +1,7 @@
 {
   "directories": [ 
     {
-      "path": "../md-tiddlers",
+      "path": "../tiddlers/md-tiddlers",
       "isTiddlerFile": "true",
       "fields": {
         "type": "text/x-markdown",
