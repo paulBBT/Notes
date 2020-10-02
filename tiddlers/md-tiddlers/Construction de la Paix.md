@@ -7,8 +7,6 @@ La paix se construit et ne se décrète pas, elle est un devoir politique. Un é
 
 Les républiques associant le peuple aux décisions sont pour Kant naturellement plus favorable à la paix.
 
----
-
  ## Références
  
  - Emmanuel Kant. (1795). _Vers la paix pérpétuelle_.

@@ -4,8 +4,6 @@ C’est une des limites de la théorie marxiste : le travail ne crée pas de val
 
 *Commentaire personnel : le besoin d’un observateur pour définir une valeur me rappelle la mécanique quantique !*
 
----
-
 ## Références
 
 - Thomas Sowell. (2015 : 5ième édition). _Basic Economics : a common sense guide to the economy_.

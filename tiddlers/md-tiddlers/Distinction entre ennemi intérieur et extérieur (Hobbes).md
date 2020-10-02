@@ -4,8 +4,6 @@ Pour Hobbes l’ennemi est une relation d’hostilité qui peut être rationnell
 
 La ou l’ennemi extérieur est irréductible, **l’Etat doit mettre en place l’organisation permettant de réduire autant que possible l’ennemi intérieur.** Hobbes souligne néanmoins que l’ennemi quel qu’il soit ne peut être éliminé complètement.
 
----
-
 ## Références
 
 - [[Hobbes, Leviathan]]

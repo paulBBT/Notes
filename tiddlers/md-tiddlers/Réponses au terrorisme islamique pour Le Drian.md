@@ -6,8 +6,6 @@ Jean-Yves Le Drian détaille une réponse au terrorisme islamique qui doit se fa
 - idéologique ;
 - politique et économique (l’assèchement du recrutement passe par une meilleure distribution des fruits de la croissance).
 
----
-
 ## Références
 
 - Jean-Yves Le Drian. (2016). _Qui est l'ennemi ?_.

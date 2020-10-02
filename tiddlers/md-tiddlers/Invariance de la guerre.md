@@ -6,8 +6,6 @@ Aristote, Mackinder (voir [[Théorie du Heartland]], Marx ou Bouthoul arguent po
 
 Kant (voir [[Etat de Nature des Etats (Kant)]]), Spinoza (voir [[Conatus]]) et l'[[Ecole réaliste (RI)]] penchent pour l’hypothèse naturelle.
 
----
-
 ## Références 
 
 - Gaston Bouthoul. (1962). _Le Phénomène Guerre_.

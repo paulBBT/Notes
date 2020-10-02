@@ -1,5 +1,5 @@
 created: 20200929150502497
-modified: 20200929150731442
+modified: 20201002163610096
 tags: $:/tags/Stylesheet
 title: $:/BBT/styles
 type: text/vnd.tiddlywiki
@@ -8,3 +8,5 @@ strong {
    background-color:#ffffcc; 
    font-weight: bold;
 }
+
+.bbtPdP { border-top: 1px solid #c0c0c0; font-size: 12px; }

@@ -2,8 +2,6 @@ Hobbes décrit les hommes comme n'obéissent qu'à leur droit naturel : chacun e
 
 C'est l'Etat qui permet d'organiser la vie en dehors de cette "lutte de tous contre tous".
 
----
-
 ## Références
 
 - [[Hobbes, Leviathan]]

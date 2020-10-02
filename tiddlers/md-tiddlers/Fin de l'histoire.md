@@ -4,8 +4,6 @@ Fukuyama développe une thèse déjà publié en 1989 dans la revue National Dig
 
 Pendant cette période, les armées françaises étaient cependant engagées dans des conflits extremements violents. Il en a resulté une déconnexion profonde entre les militaires et les partisans des dividendes de la Paix. Quel lien avec la déconnexion de l'Indochine et l'Algérie ?
 
----
-
 ## Références
 
 - Francis Fukuyama. (1992). _The End of History and the Last Man_.

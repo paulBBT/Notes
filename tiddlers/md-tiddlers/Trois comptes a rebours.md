@@ -4,8 +4,6 @@ La solution pour l’Europe est pour Védrine de se désaligner des USA, de conc
 
 Voir [[Démographie africaine et aide au développement]].
 
----
-
 ## Références
 
 - Hubert Védrine. (2019). _Comptes à rebours_.

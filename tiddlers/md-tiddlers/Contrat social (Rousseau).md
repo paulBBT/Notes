@@ -4,8 +4,6 @@ La volonté générale ne saurait être la somme des volontés individuelles.
 
 Il faut créer une religion d’Etat, ou religion civique.
 
----
-
  ## Références
  
  - Jean-Jacques Rousseau. (1762). _Du contrat social ou principes du droit politique_.

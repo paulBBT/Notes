@@ -4,8 +4,6 @@ Pendant la guerre froide, l'Inde s'est associée au mouvement des non-alignés d
 
 La politique étrangère indienne est donc basée sur le concept SAGAR : *Security And Growth for All in the Region*.
 
---- 
-
 ## Références
 
 Dr Gurpreet S. Khurana, _Fondements de la stratégie navale de l'Inde_, Etudes marine n°17 (janvier 2020), Centre d'études stratégiques de la Marine.

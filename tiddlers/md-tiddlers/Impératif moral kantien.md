@@ -2,8 +2,6 @@ Kant chercher à arracher l’homme à son égoïsme et à l’intérêt particu
 
 Cet impératif moral est critiqué comme une morale désincarnée, accessible uniquement à un pur esprit.
 
----
-
 ## Références 
 
 - Emmanuel Kant. (1788). _Critique de la raison pratique_.

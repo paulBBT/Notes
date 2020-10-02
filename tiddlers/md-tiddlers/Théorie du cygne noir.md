@@ -4,8 +4,6 @@ Pour Taleb, certains événements particulièrement improbables, voir absurdes d
 
 Dans l’ouvrage, Taleb reprend l’exemple de la [[Dinde de Bertrand Russell]]. 
 
----
-
 ## Références
 
 - Nassim Nicholas Taleb. (2007). _The Black Swan_. Random House.

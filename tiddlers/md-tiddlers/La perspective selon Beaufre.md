@@ -8,8 +8,6 @@ On peut résumer ce processus en trois phases :
 - Anticiper les grands boulversements
 - Demeurer maître de son destin
 
----
-
 ## Références
 
 - André Beaufre. (1967). _Batir l’avenir_. Calman Lévy, Paris.
