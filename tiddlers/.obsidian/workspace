@@ -14,17 +14,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a121d6a9176e413b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "md-tiddlers/Ecole réaliste (RI).md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -98,6 +87,7 @@
   },
   "lastOpenFiles": [
     "md-tiddlers/Questions de préparation au grand oral.md",
+    "md-tiddlers/Invariance de la guerre.md",
     "md-tiddlers/Ecole réaliste (RI).md",
     "md-tiddlers/Asie centrale.md",
     "Notes personnelles/2020-09-22.md",
@@ -105,7 +95,6 @@
     "Notes personnelles/2020-09-24.md",
     "Notes personnelles/2020-09-25.md",
     "Notes personnelles/2020-09-28.md",
-    "Notes personnelles/2020-09-29.md",
-    "md-tiddlers/Paradoxes de la mondialisation.md"
+    "Notes personnelles/2020-09-29.md"
   ]
 }

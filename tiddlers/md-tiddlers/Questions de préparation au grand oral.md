@@ -14,9 +14,13 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 
 ---
 
-### @WIP Quand et pourquoi les USA ont-ils remplacé le R-U comme première puissance maritime mondiale ?
+### Quand et pourquoi les USA ont-ils remplacé le R-U comme première puissance maritime mondiale ?
 
 - Avant WWII : Rule Britannia
+- WWII : 	
+	- Essort prodigieux de la marine de guerre (qui finit à plus de 4 millions de tonnes loin devant) et de la marine de commerce (qui transportera 268 millions de tonnes de matériel en Atlantique)
+	- Affaiblissement durable des capacités et du leadership britanniques
+- Guerre froide cimente la place des US
 
 ---
 
@@ -54,9 +58,19 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 
 ### @WIP Pensez-vous que le système international de 1945, c’est-à-dire celui de l’ONU et des Etats puissants, soit encore adapté au monde du XXI ème siècle, où le nombre d’acteurs étatiques s’est accru et de nouveaux acteurs sont apparus (multinationales, G20,…) ?
 
+- Affaiblissement des institutions internationales est le résultat mécanique de l'action d'une partie de ses membres qui ne croient plus au multilatéralisme
+- L'Etat reste le seul cadre légitime des relations internationales
+- Plus que le nombre d'acteurs étatiques (presque 200 Etats) et transnationaux c'est donc un vrai déficit de volonté politique
+
 ---
 
-### @WIP Le CSNU ne reflète plus la réalité stratégique mondiale. Par exemple l’Inde, puissance nucléaire et bientôt pays le plus peuplé du monde, n’y est pas présente de manière permanente. Une réforme du CSNU est-elle envisageable tant pour ses membres que sur le droit de véto ?  
+### Le CSNU ne reflète plus la réalité stratégique mondiale. Par exemple l’Inde, puissance nucléaire et bientôt pays le plus peuplé du monde, n’y est pas présente de manière permanente. Une réforme du CSNU est-elle envisageable tant pour ses membres que sur le droit de véto ?  
+
+- Affaiblissement des institutions internationales : besoin de refondation
+- Finalement extrême difficulté d'un réforme de ce type : qui est inclus à quel niveau ? quel processus de décision ?
+	- Véto seul façon de garder les plus grandes puissances
+	- Trop d'acteurs implique paralysie
+- A titre personnel : attaché à la place de la France et donc sensible à un effet potentiel de retrogradation
 
 ---
 
@@ -94,7 +108,18 @@ Voir [[Droit de la mer]].
 
 ---
 
-### @WIP Comment envisagez-vous le Brexit sur le plan défense ?
+### Comment envisagez-vous le Brexit sur le plan défense ?
+
+- Relation avec les britanniques sur un cadre extérieur à l'Union
+	- Déclaration de Chekkers (1995) : intérêts vitaux mutuels et rapprochement des dissuasions
+	- Accords de Lancaster House (2010) : 
+		- Ops : CEJF
+		- Nucléaire : capacités de simulation 
+		- Capacitaire
+- Pas de sécurité en Europe sans le Royaume Uni
+	- Dans le top 3 avec ALL/FR
+	- Lien le plus étroit : opérations en ATL
+- A titre personnel, je regrette leur départ : la necessaire coopération militaire avec le RU complexifie et affaiblit le message d'une ambition de puissance au niveau européen
 
 ---
 
@@ -149,7 +174,13 @@ L'Allemagne a une peur panique de l'inflation qui est perçue comme la cause pri
 
 ---
 
-### @WIP Pensez-vous que l’action en Libye, lors de l’opération Harmattan, présente des points de similitude avec l’intervention américaine en Irak en 2003 ?
+### Pensez-vous que l’action en Libye, lors de l’opération Harmattan, présente des points de similitude avec l’intervention américaine en Irak en 2003 ?
+
+- La principale similitude est d'être un modèle d'intervention courte / stabilisation longue
+- A part ca différent :
+	- Mode d'action principalement à distance (dans la crise et dans sa suite)
+	- Déclenchement de la guerre : pas de mensonge / manipulation - pas préventif
+	- Soutien d'une faction locale contre une autre 
 
 ---
 
@@ -280,7 +311,13 @@ Kosovo + initiative MAP US en 2004
 
 ---
 
-### @WIP Que vous inspire la crise avec la Corée du Nord sur la capacité nucléaire au XXIième siècle ?
+### Que vous inspire la crise avec la Corée du Nord sur la capacité nucléaire au XXIième siècle ?
+
+- Echec et une fragilisation du TNP, que la France considère comme un pilier majeur de stabilité
+- Deux visions des RI :
+	- Influence prédominante des facteurs extérieurs (Ecole néo-réaliste : Kenneth Waltz [[La prolifération nucléaire peut être un facteur de stabilité]]) : peut être un peu rassuré
+	- Influence prédominante des facteurs intérieurs (possibilité du dirigeant fou) : facteur de risque majeur
+- Démonstration de l'efficacité de la dissuasion
 
 ---
 
@@ -419,6 +456,10 @@ Gouvernance / Protection de nos intérêts vitaux / Capacité à saisir les oppo
 ---
 
 ### @WIP Que penser de la Proliferation Security Initiative ?
+
+- Programme de coopération internationale lancé par Bush en 2003 
+- Objectif : lutter contre le trafic d'ADM et de leurs vecteurs
+- Partenariat plus qu'un traité ou une organisation
 
 ---
 
@@ -753,6 +794,8 @@ Lire Thibault Lavernhe !
 
 ### @WIP Le modèle « no boots on the ground » est-il l’avenir ?
 
+- Correspond à deux profondes aspirations de nos sociétés occidentales 
+
 ---
 
 ### @WIP Sommes-nous plus efficace seuls ou en coalition ?
@@ -963,6 +1006,10 @@ Vandier : démocratie faible comme risque pour la dissuasion
 - Sans le risque pris par les détenteurs du capital en investissant il n'y a plus de croissance
 - C'est donc au final un problème de mobilité des capitaux 
 - Nécessaire besoin d'alignement à minima au niveau européen pour rester compétitif
+
+---
+
+### @VIP Faut il privatiser complétement la SNCF ?
 
 ---
 
