@@ -1,9 +1,9 @@
-## Angles d'analyse classiques en RI
+## Angles d'analyse classiques
 
-Deux approches classiques dans l’études des relations internationales :
-
-- facteurs internes contre facteurs externes,
-- poids des organisations contre poids des individus dans la motivation des actions des états.
+- Injustice individuelle contre intérêt collectif 
+- Dans l’études des relations internationales en particulier :
+	- facteurs internes contre facteurs externes
+	- poids des organisations contre poids des individus dans la motivation des actions des états
 
 ## Lectures 
 

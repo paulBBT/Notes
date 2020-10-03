@@ -17,7 +17,11 @@ Cet effort est lié au développement de la technique, qui permet d’aller plus
 
 En 1982 cette convention **permet de sortir du droit coutumier,** c’est la consécration de la territorialisation.
 
-Les USA n'ont pas ratifié cette convention, de même que le Pérou qui réclame 200 nautiques de mers territoriales.
+Tous les pays ne sont pas partie de la convention :
+
+- 17 non signataires : Andorre, Azerbaïdjan, Érythrée, **Israël,** Kazakhstan, Kirghizistan, **Pérou (qui réclame 200 nautiques de mers territoriales),** Saint-Marin, Soudan du Sud, **Syrie,** Tadjikistan, Timor oriental, **Turquie,** Turkménistan, Ouzbékistan, **Saint Siège,** Venezuela ;
+- 15 non ratifiés : Afghanistan, Bhoutan, Burundi, Cambodge, **États-Unis,** République centrafricaine, Colombie, Salvador, Éthiopie, **Corée du Nord, Libye,** Liechtenstein, Rwanda, **Émirats arabes unis, Iran.**
+- La Chine a signé et ratifié la convention avec un caveat sur la mer de Chine.
 
 Il existe encore de nombreux conflits, parfois proches : Algérie / Espagne / Italie, France / Espage, Liban / Israël.
 

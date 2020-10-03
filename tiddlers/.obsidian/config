@@ -8,6 +8,31 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
-  }
+    "word-count": true,
+    "daily-notes": true,
+    "outline": true,
+    "translucency": false
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "hotkeys": {
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowUp"
+      }
+    ]
+  },
+  "alwaysUpdateLinks": true
 }

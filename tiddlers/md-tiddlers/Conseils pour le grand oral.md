@@ -11,16 +11,23 @@
 - La nuance est obligatoire. Bannir les expressions trop tranchées et les formules trop fortes. En général se méfier des adverbes...
 - Utiliser des mots clairs : ma certitude / ma conviction / doute.
 
+## Attitude
+
+- L'épreuve est un test d'agilité d'esprit, le jury appréciera la recherche de beaux gestes. **Attention cependant à se que l’aisance ne devienne pas un défaut !** 
+- **Ne jamais laisser penser que la question n'est pas bonne !** Ne pas commenter les questions par exemple : *Cette question est pertinente car...*
+- Au final, le jury doit avoir l'impression d'intimider à minima le candidat (comme les entraineurs qui doivent avoir l'impression d'entrainer !).
+- Maîtriser son langage corporel / non-verbal. 
+- Ne pas sourire trop tôt, certainement pas pendant la présentation.
+- Attention à la gestuelle des mains : en devenant de plus en plus à l'aise elle a tendance à se modifier jusqu'à sortir du cadre requis.
+
 ## Conseils généraux
 
 - Il faut analyser le jury et en tirer des orientations de travail : en 2020 par exemple aucun spécialiste de la dissuasion.
 - Il est impératif de maîtriser les sujets d'actualité au moment de l'oral. Mettre en place un crible basé sur Les Echos, Cols Bleus, Armées d'aujourd'hui. Attention cependant, la presse aujourd'hui est très polémique (presse d'idée dans une société de conversation). **Il faut à chaque lecture se poser la question de la problématique de fond, et de qu'est ce que j'en pense ?**
 - **Le jury du grand oral a accès aux notes des oraux techniques.** Les oraux techniques servent à la fois "d'épreuves de motivation" en montrant que le candidat a travaillé pour acquérir le socle minimum requis, mais aussi à dégrossir le grand oral.
-- Maîtriser son langage corporel / non-verbal. Attention à la gestuelle des mains : en devenant de plus en plus à l'aise elle a tendance à se modifier jusqu'à sortir du cadre requis.
 - Certains jury peuvent proposer des mises en situation, comme des jeux de rôles ou il faut répondre à un journaliste. Dans ce cas ne pas oublier de répondre au mieux dans le sens de l'institution.
 - Devant une question particulièrement complexe, ne pas hésiter à prendre quelques secondes de réflexion.
 - **Ne pas avoir de complexe pour demander aide et conseils aux anciens.**
-- L'épreuve est un test d'agilité d'esprit, le jury appréciera la recherche de beaux gestes. **Attention cependant à se que l’aisance ne devienne pas un défaut !** Ne pas commenter les questions par exemple : *Cette question est pertinente car...*
 -  Pour les questions déstabilisantes, essayer de faire un pas de coté pour définir les vrais enjeux et ouvrir le sujet.
 -  Ne pas utiliser de tournure impersonnelle : "on" est un con !
 
@@ -33,5 +40,6 @@
 - **Travailler toutes les perches tendues dans la préparation !** Le jury va les saisir et cela permet de bien bétonner au moins 5 à 10 minutes de l'épreuve.
 - Attention à ne pas être trop catégorique dans les domaines de seconde partie de carrière, essayer de faire passer que l'on est conscient que cela n'engage à rien...
 - Il faut être vendeur, sans paraître trop se vendre... Subtil équilibre. Globalement au fur et à mesure de la présentation les avis extérieurs divergent et il faut essayer de s’arrêter sur une présentation entre les deux.
+- Attention de ne pas utiliser de tournures et de vocabulaire écrit.
 
 [[Questions de préparation au grand oral]]

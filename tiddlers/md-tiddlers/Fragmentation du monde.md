@@ -3,3 +3,5 @@
 On observe un **affaiblissement général des alliances** ([[Retraits américains des grands traités de limitation des armements]]).
 
 Les **sentiments indépendantiste et régionalistes** progressent dans le monde entier (BREXIT, Catalogne).
+
+Voir [[Paradoxes de la mondialisation]].
