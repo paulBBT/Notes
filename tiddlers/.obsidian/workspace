@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce877153d992db04",
+        "id": "0b68b0ed8aa5482b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes personnelles/2020-09-25.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Isra"
+                "query": "ONU"
               }
             }
           }
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Notes personnelles/2020-09-25.md"
+              }
             }
           },
           {
@@ -68,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes personnelles/2020-09-25.md"
+              }
             }
           }
         ]
@@ -78,15 +85,15 @@
     "width": 213
   },
   "lastOpenFiles": [
-    "Notes personnelles/_TODO.md",
+    "Notes personnelles/2020-09-25.md",
+    "Notes personnelles/2020-09-24.md",
+    "Notes personnelles/Archives/2020-09-23.md",
     "Notes personnelles/2020-09-23.md",
-    "Notes personnelles/Archives/2020-09-22.md",
-    "Notes personnelles/2020-09-22.md",
-    "Israël.md",
-    "Conflit israélo-arabe.md",
-    "md-tiddlers/Enjeux énergetiques en Mediterranee.md",
-    "Untitled.md",
-    "(WIP) Syrie.md",
-    "md-tiddlers/(WIP) J'estime que servir la dissuasion est moralement défendable.md"
+    "Organisation des Nations Unies (ONU).md",
+    "md-tiddlers/Le XXe siècle a cherché la paix en augmentant le coût de la guerre.md",
+    "WIP L'UE a un problème d'image.md",
+    "Affaiblissement des piliers de stabilité et remise en cause du multilatéralisme.md",
+    "md-tiddlers/La guerre est hors la loi.md",
+    "ONU.md"
   ]
 }
