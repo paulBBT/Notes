@@ -15,4 +15,6 @@ L'enjeu est de savoir **qui deviendra le hub énergétique de la MEDOR : Turquie
 
 Pour l’Europe, il s’agit plutôt d’une opportunité d’émancipation vis-à-vis du gaz russe. Le projet de gazoduc EastMed est ainsi soutenu par l’UE (3000 km sous marins) mais limité (10 millions de m3). Ce débit reste faible par rapport à TurkishStream et NordStream (55 millions de m3) qui acheminent le gaz russe.
 
+## Tensions avec la Turquie
+
 La Turquie passe en 2020 un accord avec la Lybie (voir [[La Lybie depuis la guerre de 2011]]) qui ne reconnait pas les souverainetés des autres acteurs.

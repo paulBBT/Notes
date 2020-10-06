@@ -4,17 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2553459deee87e19",
+        "id": "ce877153d992db04",
         "type": "leaf",
         "active": true,
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes personnelles/2020-09-22.md",
-            "mode": "source"
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confrontation"
+                "query": "Isra"
               }
             }
           }
@@ -50,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 198
   },
   "right": {
     "id": "09fd9dfd2a3aa4a8",
@@ -65,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Notes personnelles/2020-09-22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -75,28 +68,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes personnelles/2020-09-22.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 213
   },
   "lastOpenFiles": [
+    "Notes personnelles/_TODO.md",
+    "Notes personnelles/2020-09-23.md",
+    "Notes personnelles/Archives/2020-09-22.md",
     "Notes personnelles/2020-09-22.md",
-    "(WIP) Le système de pensée chinois place la Chine au centre.md",
-    "(WIP) Guerre commerciale entre les Etats-Unis et la Chine.md",
-    "Les Etats-Unis se sentent menacés par la Chine.md",
-    "md-tiddlers/L'affrontement entre la Chine et les Etats-Unis peut sembler inéluctable.md",
-    "md-tiddlers/La Chine a abandonné officiellement le Pacifisme.md",
-    "La Chine va devenir la première puissance mondiale.md",
-    "md-tiddlers/L'affrontement entre la Chine et les Etats-Unis semble inéluctable.md",
+    "Israël.md",
+    "Conflit israélo-arabe.md",
+    "md-tiddlers/Enjeux énergetiques en Mediterranee.md",
     "Untitled.md",
-    "md-tiddlers/Principaux traités de maîtrise des armements.md"
+    "(WIP) Syrie.md",
+    "md-tiddlers/(WIP) J'estime que servir la dissuasion est moralement défendable.md"
   ]
 }
