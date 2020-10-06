@@ -15,6 +15,10 @@ Les lectures suivantes permettent d'avoir un bon panorama de tous les sujets d'a
 - Synthèse hebdomadaire du bureau STRATPOL de l'EMM,
 - Lettre des ambassades de Washington et Berlin.
 
+Sur les sujets de fond :
+
+- Notes de la fondation pour la recherche stratégique (https://frstrategie.org/publications/notes).
+
 ## Grand oral
 
 - [[Conseils pour le grand oral]] 

@@ -26,4 +26,4 @@ Les objectifs de ce traité sont atteints en 2018, mais **son renouvellement apr
 
 Voir [[TIAN (2017)]].
 
-Voir [[Retraits américains des grands traités de limitation des armements]].
+Voir [[Retraits américains des grands traités de maîtrise des armements]].
