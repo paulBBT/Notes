@@ -18,3 +18,5 @@ Pour l’Europe, il s’agit plutôt d’une opportunité d’émancipation vis-
 ## Tensions avec la Turquie
 
 La Turquie passe en 2020 un accord avec la Lybie (voir [[La Lybie depuis la guerre de 2011]]) qui ne reconnait pas les souverainetés des autres acteurs.
+
+Voir [[Droit de la mer]].

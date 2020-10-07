@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0b68b0ed8aa5482b",
+        "id": "903134cacbc81c33",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes personnelles/2020-09-25.md",
+            "file": "md-tiddlers/Ecole constructiviste (RI).md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-09-25.md"
+                "file": "md-tiddlers/Ecole constructiviste (RI).md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-09-25.md"
+                "file": "md-tiddlers/Ecole constructiviste (RI).md"
               }
             }
           }
@@ -82,18 +82,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213
+    "width": 213,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Ecole constructiviste (RI).md",
+    "md-tiddlers/Ecole libérale (RI).md",
     "Notes personnelles/2020-09-25.md",
-    "Notes personnelles/2020-09-24.md",
-    "Notes personnelles/Archives/2020-09-23.md",
-    "Notes personnelles/2020-09-23.md",
-    "Organisation des Nations Unies (ONU).md",
-    "md-tiddlers/Le XXe siècle a cherché la paix en augmentant le coût de la guerre.md",
-    "WIP L'UE a un problème d'image.md",
-    "Affaiblissement des piliers de stabilité et remise en cause du multilatéralisme.md",
-    "md-tiddlers/La guerre est hors la loi.md",
-    "ONU.md"
+    "Rôle de l'attaché militaire.md",
+    "Untitled.md",
+    "md-tiddlers/Théories des relations internationales.md",
+    "md-tiddlers/Ecole réaliste (RI).md",
+    "md-tiddlers/Définition de la puissance en RI.md",
+    "md-tiddlers/Invariance de la guerre.md",
+    "Théories des relations internationales.md"
   ]
 }
