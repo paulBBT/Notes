@@ -1,6 +1,6 @@
-#WIP 
-
 La France est le **seul pays de l'Union Européene** a être présent dans la zone Indo-Pacifique. Elle constitue une alternative pour éviter d'être entraîner trop mécaniquement dans l'affrontement entre la Chine et la Etats-Unis.
+
+La stratégie française est d'avoir des relations avec les grands pays de la zone, complémentaires de la relation avec la Chine. Concernant cette dernière les trois objectifs de la France sont : **plus de réciprocité dans les relations commerciales, un effort sur le climat et la biodiversité, et une vision commune de l'Eurasie et des routes de la soie** (voir [[Belt and Road Initiative (BRI)]]).
 
 ---
 

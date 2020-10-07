@@ -6,6 +6,6 @@
 
 ## Implication turque
 
-En 2020, **la Turquie fait transporter plusieurs milliers de rebelles syriens** pour soutenir les troupes d’Al-Sarraj contre l’avancée d’Haftar sur Tripoli. La Turquie fournit également des drones et du matériel. L’implication turque est probablement financée par le Qatar (voir [[Situation de la Turquie en 2020]]). 
+En 2020, **la Turquie fait transporter plusieurs milliers de rebelles syriens** pour soutenir les troupes d’Al-Sarraj contre l’avancée d’Haftar sur Tripoli. La Turquie fournit également des drones et du matériel. L’implication turque est probablement financée par le Qatar. 
 
 Seul le déploiement d’avions par la Russie en complément de ceux déjà présent des UAE permet d’instaurer un nouveau statu quo.

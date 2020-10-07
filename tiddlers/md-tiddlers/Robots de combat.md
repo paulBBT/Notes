@@ -9,4 +9,7 @@
 
 - **Capacité à travailler efficacement dans un environnement difficile** (par exemple robot de Shark Robotics qui est entré dans Notre Dame de Paris pour arroser directement l’intérieur)
 
-Voir : [[Les robots de combat posent une question éthique]]
+Voir : 
+
+- [[Les robots de combat posent une question éthique]]
+- [[Positions des grandes puissances sur les SALA]]
