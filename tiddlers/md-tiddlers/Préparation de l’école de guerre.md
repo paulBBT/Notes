@@ -17,7 +17,8 @@ Les lectures suivantes permettent d'avoir un bon panorama de tous les sujets d'a
 
 Sur les sujets de fond :
 
-- Notes de la fondation pour la recherche stratégique (https://frstrategie.org/publications/notes).
+- notes de la fondation pour la recherche stratégique (FRS - https://frstrategie.org/publications/notes),
+- notes de l'Institut de Recherche de l'Ecole de Guerre (IRSEM - https://www.irsem.fr/publications-de-l-irsem.html).
 
 ## Grand oral
 

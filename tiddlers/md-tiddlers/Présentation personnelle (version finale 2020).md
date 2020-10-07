@@ -1,5 +1,3 @@
-#EDG 
-
 Amiral, commandants, madame,
 
 Je suis le capitaine de corvette Paul B. Je viens d’avoir 32 ans, je suis marié depuis 12 ans maintenant, et père de 4 enfants. Je me ressource en famille, j’aime lire, trouver et écouter de vieux vinyles et bien manger. 

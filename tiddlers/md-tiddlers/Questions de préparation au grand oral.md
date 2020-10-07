@@ -1005,6 +1005,7 @@ Vandier : démocratie faible comme risque pour la dissuasion
 - Trop rémunérer le capital augmente les inégalités
 - Sans le risque pris par les détenteurs du capital en investissant il n'y a plus de croissance
 - C'est donc au final un problème de mobilité des capitaux 
+- Les inégalités n'augmentent que si la rémunération du capital est plus rapide que la croissance (voir [[Piketty et les inégalités]])
 - Nécessaire besoin d'alignement à minima au niveau européen pour rester compétitif
 
 ---

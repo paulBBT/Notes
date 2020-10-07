@@ -7,7 +7,7 @@ Preuve de l'importance de l'éthique, le ministère des armées a crée **le 10 
 
 L’éthique du combattant se fonde sur l’[[Ethique de civilisation]] dans lequel le soldat grandit et ses convictions propres (religieuses, philosophiques, éducatives…). Elle doit être influencée par l’éthique professionnelle des forces armées.
 
-Voir [[Ethique de conviction ou de responsabilité]].
+Voir [[Ethique de conviction ou éthique de responsabilité]].
 
 ## Une nécessité
 

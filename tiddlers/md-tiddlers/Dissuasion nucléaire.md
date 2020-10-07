@@ -18,4 +18,5 @@ Voir :
 	- [[La position du Pape François sur la dissuasion est une rupture avec la diplomatie traditionnelle du Saint Siège]]
 - [[Prolifération nucléaire (déf.)]]
 	- [[La prolifération nucléaire peut être un facteur de stabilité]]
+	- [[Les armes nucléaires tactiques sont un danger pour la dissuasion]]
 - [[(WIP) J'estime que servir la dissuasion est moralement défendable]]

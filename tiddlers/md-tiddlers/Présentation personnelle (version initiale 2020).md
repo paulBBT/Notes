@@ -1,5 +1,3 @@
-#EDG 
-
 Amiral, xxx autorité civile xxx, commandants,
 
 Je suis le capitaine de corvette Paul B. Je suis marié, depuis 12 ans maintenant, et père de 4 enfants entre 10 et 3 ans. J’ai à cœur de passer mon temps libre principalement en famille. J’aime lire, trouver et écouter de vieux vinyles et cuisiner.
