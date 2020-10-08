@@ -17,6 +17,10 @@
       "isTiddlerFile": "true"
     },
     {
+      "file": "$__config_markdown_renderWikiTextPragma.tid",
+      "isTiddlerFile": "true"
+    },  
+    {
       "file": "$__SiteTitle.tid",
       "isTiddlerFile": "true"
     }

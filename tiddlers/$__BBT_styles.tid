@@ -10,3 +10,7 @@ strong {
 }
 
 .bbtPdP { border-top: 1px solid #c0c0c0; font-size: 12px; }
+
+ul > li {
+  line-height: 1;
+}

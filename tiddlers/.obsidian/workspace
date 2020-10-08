@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "md-tiddlers/Euro.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "md-tiddlers/Euro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -73,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "md-tiddlers/Euro.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -86,6 +79,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/Euro.md",
     "md-tiddlers/L'Euro.md",
     "md-tiddlers/Cyber (déf.).md",
     "Notes personnelles/2020-09-28.md",
@@ -94,7 +88,6 @@
     "md-tiddlers/Primaute du droit européen sur les droits nationaux.md",
     "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
     "md-tiddlers/Industries d'armements.md",
-    "Industries d'armements.md",
-    "md-tiddlers/Dissuasion nucléaire.md"
+    "Industries d'armements.md"
   ]
 }
