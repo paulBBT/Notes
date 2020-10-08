@@ -11,7 +11,7 @@ Voir :
 	- [[Problème des frontières pour l'UE]]
 	- [[Libre circulation en Europe]]
 	- [[Primauté du droit européen sur les droits nationaux]]
-- [[L'Euro]]
+- [[Euro]]
 - [[WIP L'UE a un problème d'image]]
 - [[La défense européenne]]
 	- [[Evolutions de la défense européenne]]

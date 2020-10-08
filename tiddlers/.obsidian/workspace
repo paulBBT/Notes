@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c923284f43147d41",
+        "id": "16133e57a03059f6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Cyber (déf.).md",
+            "file": "md-tiddlers/Euro.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/Cyber (déf.).md"
+                "file": "md-tiddlers/Euro.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/Cyber (déf.).md"
+                "file": "md-tiddlers/Euro.md"
               }
             }
           }
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/L'Euro.md",
     "md-tiddlers/Cyber (déf.).md",
     "Notes personnelles/2020-09-28.md",
     "L'UE avance vers plus d'unité en matière d'armement.md",
@@ -94,7 +95,6 @@
     "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
     "md-tiddlers/Industries d'armements.md",
     "Industries d'armements.md",
-    "md-tiddlers/Dissuasion nucléaire.md",
-    "md-tiddlers/L'affrontement entre la Chine et les Etats-Unis peut sembler inéluctable.md"
+    "md-tiddlers/Dissuasion nucléaire.md"
   ]
 }
