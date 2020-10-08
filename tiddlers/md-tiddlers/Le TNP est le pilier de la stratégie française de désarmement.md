@@ -7,7 +7,7 @@ La position française en matière de désarmement s'articule autour de quatre a
 - travaux de vérificaiton du désarmement,
 - réduction des risques de conflits et renfort de la stabilité.
 
-La France refuse par ailleurs de s'associer aux traités de maîtrise des armements tant que les arsenaux ne sont pas comparables (comme la Chine). Elle est cependant favorable à une prolongation de New Start.
+La France refuse par ailleurs de s'associer aux traités de maîtrise des armements tant que les arsenaux ne sont pas comparables (comme la Chine). Elle est cependant favorable à une prolongation du [[Traité New Start (2010)]].
 
 --- 
 

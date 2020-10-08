@@ -657,7 +657,7 @@ Contexte de création du Service universel au moment des écrits de Lyautey
 
 ### Quel est le budget de la France ?
 
-En 2019 : environ 230 miliards de recettes pour 340 milliards de dépenses. L'éducation (enseignement scolaire plus supérieur) représente environ 100 milliards.
+[[Budget de la France]]
 
 ---
 

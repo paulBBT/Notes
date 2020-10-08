@@ -19,4 +19,5 @@ Voir :
 - [[Prolifération nucléaire (déf.)]]
 	- [[La prolifération nucléaire peut être un facteur de stabilité]]
 	- [[Les armes nucléaires tactiques sont un danger pour la dissuasion]]
+	- [[Placement d’armes de destruction massive en orbite]]
 - [[(WIP) J'estime que servir la dissuasion est moralement défendable]]

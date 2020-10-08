@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fabca88aea52bac9",
+        "id": "c923284f43147d41",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes personnelles/2020-09-28.md",
+            "file": "md-tiddlers/Cyber (déf.).md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cycle"
+                "query": "budget"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-09-28.md"
+                "file": "md-tiddlers/Cyber (déf.).md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-09-28.md"
+                "file": "md-tiddlers/Cyber (déf.).md"
               }
             }
           }
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/Cyber (déf.).md",
     "Notes personnelles/2020-09-28.md",
-    "md-tiddlers/Robots de combat.md",
-    "md-tiddlers/Position des grandes puissances sur les SALA.md",
-    "md-tiddlers/La Lybie depuis la guerre de 2011.md",
-    "Notes personnelles/2020-10-06.md",
-    "Notes personnelles/2020-10-05.md",
-    "Notes personnelles/2020-10-04.md",
-    "Notes personnelles/2020-10-03.md",
-    "Notes personnelles/2020-09-29.md",
-    "Relation entre la France et la Russie.md"
+    "L'UE avance vers plus d'unité en matière d'armement.md",
+    "md-tiddlers/Union Européenne (UE).md",
+    "md-tiddlers/Primaute du droit européen sur les droits nationaux.md",
+    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
+    "md-tiddlers/Industries d'armements.md",
+    "Industries d'armements.md",
+    "md-tiddlers/Dissuasion nucléaire.md",
+    "md-tiddlers/L'affrontement entre la Chine et les Etats-Unis peut sembler inéluctable.md"
   ]
 }

@@ -1,0 +1,21 @@
+Voir :
+
+- [[Dates clés de la construction européenne]]
+- [[Nature paradoxale de l'UE]]
+	- [[L'Europe n'est pas une puissance]]
+		- Souveraineté européenne
+			- [[La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne]]
+			- [[(WIP) Une vraie souveraineté européenne ne peut se concevoir qu'au dépens des souverainetés des Etats membres]]
+			- [[(WIP) Les Etats-Unis sont un obstacle à la construction européenne]]
+			- [[L'UE avance vers plus d'unité en matière d'armement]]
+	- [[Problème des frontières pour l'UE]]
+	- [[Libre circulation en Europe]]
+	- [[Primauté du droit européen sur les droits nationaux]]
+- [[L'Euro]]
+- [[WIP L'UE a un problème d'image]]
+- [[La défense européenne]]
+	- [[Evolutions de la défense européenne]]
+	- [[Défense européenne sous un angle économique]]
+	- [[Opérations européennes]]
+- [[Influences européennes en matière de collectivités territoriales]]
+- [[Relation franco-allemande]]

@@ -1,7 +1,9 @@
-- Balkans
-- Karabakh
+- Promotion de l'Islam politique aux Balkans
+- Implication en Syrie
+- Implication en Lybie (voir [[La Lybie depuis la guerre de 2011]], [[Enjeux énergetiques en Mediterranée]], et la vision stratégique Blue Homeland de l'amiral Gurdeniz)
+- [[Conflit au Nagorno-Karabakh]]
 
-Voir [[La Lybie depuis la guerre de 2011]] et [[Enjeux énergetiques en Mediterranée]].
+Etrangement, le président Erdrogan ne défend pas la minorité musulmane Ouïghour en Chine.
 
 ## Un problème de politique intérieure
 

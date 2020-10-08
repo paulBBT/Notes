@@ -8,7 +8,7 @@ La Chine depuis son adhésion à l'OMC en 2001 est passée successivement au sta
 
 Pour Allison, l’opposition entre la Chine et les USA peut dégénérer dans une nouvelle guerre froide, qui **ferrait de nouveau de l’Europe à la fois un enjeu principal et une zone tampon d’affrontement.** Il évoque la guerre du Péloponèse pour en déduire sa conception du Piège de Thucydide. Comme Athènes se sentant menacée par Sparte, [[Les Etats-Unis se sentent menacés par la Chine]].
 
-Les frictions sont pour l'instant principalement limitées à la [[(WIP) Guerre commerciale entre les Etats-Unis et la Chine]].
+Les frictions sont pour l'instant principalement limitées à la [[(WIP) Guerre commerciale entre les Etats-Unis et la Chine]]. Peter Bayer fait cependant le constat que **la guerre froide à déjà commencée et prone un alignement de bloc de l'UE derrière les Etats-Unis.**
 
 ## Position française
 
@@ -27,4 +27,4 @@ La crise du [[COVID-19]] est instrumentalisé par Trump contre la Chine pour cac
 ## Références
 
 - [[Allison, Destined for War]].
-- - Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.
+- Audition du CEMA (Gal Lecointre) à l'Assemblée Nationale, 16 juillet 2020.
