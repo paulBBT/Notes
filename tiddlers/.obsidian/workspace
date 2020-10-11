@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes personnelles/2020-10-11.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Notes personnelles/2020-10-11.md"
+              }
             }
           },
           {
@@ -68,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes personnelles/2020-10-11.md"
+              }
             }
           }
         ]
@@ -79,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "md-tiddlers/Euro.md",
-    "md-tiddlers/L'Euro.md",
-    "md-tiddlers/Cyber (déf.).md",
-    "Notes personnelles/2020-09-28.md",
-    "L'UE avance vers plus d'unité en matière d'armement.md",
-    "md-tiddlers/Union Européenne (UE).md",
-    "md-tiddlers/Primaute du droit européen sur les droits nationaux.md",
-    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
-    "md-tiddlers/Industries d'armements.md",
-    "Industries d'armements.md"
+    "Notes personnelles/2020-10-11.md",
+    "Notes personnelles/2020-10-09.md",
+    "Notes personnelles/2020-10-06.md",
+    "Notes personnelles/_TODO.md",
+    "Notes personnelles/2020-09-29.md",
+    "Notes personnelles/2020-10-03.md",
+    "Notes personnelles/2020-10-04.md",
+    "Notes personnelles/2020-10-05.md",
+    "Notes personnelles/2020-10-08.md",
+    "2020-10-11.md"
   ]
 }
