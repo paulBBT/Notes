@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes personnelles/2020-10-11.md",
+            "file": "Notes personnelles/2020-10-13.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-10-11.md"
+                "file": "Notes personnelles/2020-10-13.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-10-11.md"
+                "file": "Notes personnelles/2020-10-13.md"
               }
             }
           }
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notes personnelles/2020-10-13.md",
+    "Notes personnelles/2020-10-12.md",
     "Notes personnelles/2020-10-11.md",
     "Notes personnelles/2020-10-09.md",
     "Notes personnelles/2020-10-06.md",
@@ -93,8 +95,6 @@
     "Notes personnelles/2020-09-29.md",
     "Notes personnelles/2020-10-03.md",
     "Notes personnelles/2020-10-04.md",
-    "Notes personnelles/2020-10-05.md",
-    "Notes personnelles/2020-10-08.md",
-    "2020-10-11.md"
+    "Notes personnelles/2020-10-05.md"
   ]
 }
