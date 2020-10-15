@@ -35,7 +35,7 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 	- Multiplication des opportunités
 		- [[Guerre hybride]] / [[La guerre hors limites]]
 		- Augmentation des vulnérabilités de l'adversaire
-- Si tout le mondeest affaiblit, personne n'est affaiblit
+- Si tout le monde est affaiblit, personne n'est affaiblit
 
 ---
 
@@ -46,9 +46,10 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 	- Idée très en vogue au 19e 
 	- Mahan en fait une de ses thèses principales pour la puissance maritime
 	- La conduite d'un Etat est principalement dictée par sa géographie : besoin d'accès aux ressources, besoin d'accès à une facade maritime, présence d'axes commerciaux majeurs...
-	- Influence de facteurs extérieurs => Ecole réaliste qui fait des états des acteurs rationnels
+	- Influence de facteurs extérieurs => [[Ecole réaliste (RI)]] qui fait des états des acteurs rationnels
 - Remise en cause au 20e en faveur des paramètres interne (sociaux et autres)
-- Balancier dans les grands angles d'analyse des RI
+	- Voir [[Ecole constructiviste (RI)]]
+- Balancier dans les grands angles d'analyse des RI   
 
 ---
 
@@ -56,7 +57,7 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 
 ---
 
-### @WIP Pensez-vous que le système international de 1945, c’est-à-dire celui de l’ONU et des Etats puissants, soit encore adapté au monde du XXI ème siècle, où le nombre d’acteurs étatiques s’est accru et de nouveaux acteurs sont apparus (multinationales, G20,…) ?
+### Pensez-vous que le système international de 1945, c’est-à-dire celui de l’ONU et des Etats puissants, soit encore adapté au monde du XXI ème siècle, où le nombre d’acteurs étatiques s’est accru et de nouveaux acteurs sont apparus (multinationales, G20,…) ?
 
 - Affaiblissement des institutions internationales est le résultat mécanique de l'action d'une partie de ses membres qui ne croient plus au multilatéralisme
 - L'Etat reste le seul cadre légitime des relations internationales
@@ -66,6 +67,7 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 
 ### Le CSNU ne reflète plus la réalité stratégique mondiale. Par exemple l’Inde, puissance nucléaire et bientôt pays le plus peuplé du monde, n’y est pas présente de manière permanente. Une réforme du CSNU est-elle envisageable tant pour ses membres que sur le droit de véto ?  
 
+- Construction enracinée dans un héritage
 - Affaiblissement des institutions internationales : besoin de refondation
 - Finalement extrême difficulté d'un réforme de ce type : qui est inclus à quel niveau ? quel processus de décision ?
 	- Véto seul façon de garder les plus grandes puissances
@@ -74,7 +76,15 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 
 ---
 
-### @WIP Pensez vous que la France « mérite » sa place de membre permanent du CSNU ? Si elle pouvait la donner, à qui ?
+### Pensez vous que la France « mérite » sa place de membre permanent du CSNU ? Si elle pouvait la donner, à qui ?
+
+- Siège héritage unique 
+- Il rejoint l'ambition de peser sur les affaires du monde, et créé un devoir
+- Légitimité assisse sur la dissuasion principalement, mais notre puissance maritime y contribue
+- La question est celle de la réforme pour être plus juste et representatif
+	- Traité d'Aix La Chapelle prévoit que la France aide l'Allemagne a obtenir un siège sans concéder le siège français
+	- On pourrait s'interroger sur la place britannique, souvent moins indépendante...
+- La proposition allemande évoquée en 2018 d'un siège européen au dépens de la France me parait être difficilement acceptable mais pour l'expérience de pensée, si je devais absolument me defaire de notre siège pourquoi pas
 
 ---
 
@@ -90,6 +100,15 @@ Voir [[Droit de la mer]].
 
 ### @WIP Pensez-vous que le projet européen soit mort ?
 
+- Le projet européen me parait avant tout être l'ambition d'un ère civilisationnelle de paix et de prospérité
+- On peut distinguer plusieurs grandes phases : 
+	- une phase de construction économique d'abord
+	- une phase d'élargissement rapide qui a conduit à une dilution du politique au profit du technique ; ce manque d'ambition politique est pour moi central dans le desintérêt et la lassitude des peuples
+	- les changements du monde soulignés par la revue stratégique de 2017 sont la source d'une nouvelle prise de conscience 
+- Ambition d'autonomie, d'indépendance et de puissance
+- Axe fort de la diplomatie du PR / éléctrochoc du BREXIT
+- Je pense donc que nous sommes au début d'une nouvelle étape
+
 ---
 
 ### Le départ du Royaume-Uni va-t-il changer la politique économique de l'UE ?
@@ -100,11 +119,12 @@ Voir [[Droit de la mer]].
 
 ---
 
-### @WIP La crise de 2008 a accéléré la baisse des budgets militaires européens entamée lors de la chute du mur de Berlin, 20 ans plus tôt. Quels sont, selon vous, les principaux facteurs qui conduisent à un réinvestissement européen dans la défense ?
+### La crise de 2008 a accéléré la baisse des budgets militaires européens entamée lors de la chute du mur de Berlin, 20 ans plus tôt. Quels sont, selon vous, les principaux facteurs qui conduisent à un réinvestissement européen dans la défense ?
 
----
-
-### @WIP Quelle vision avez-vous de l’Allemagne, en particulier sur les sujets de défense ?
+- Prise de conscience d'un changement du monde souligné par la revue stratégique de 2017
+	- Russie hybride / fait accompli
+	- Chine
+	- Retrait US / affaiblissement de la posture
 
 ---
 
@@ -127,7 +147,9 @@ Voir [[Droit de la mer]].
 
 ---
 
-### @WIP Avec le départ de la Grande-Bretagne, va-t-on enfin aller vers une défense européenne ?
+### Avec le départ de la Grande-Bretagne, va-t-on enfin aller vers une défense européenne ?
+
+- Concomitant d'un prise de conscience plus profonde
 
 ---
 
@@ -166,11 +188,25 @@ L'Allemagne a une peur panique de l'inflation qui est perçue comme la cause pri
 
 ---
 
-### @WIP Quelles sont les principales influences étrangères en Afrique et leur évolution ?
+### Quelles sont les principales influences étrangères en Afrique et leur évolution ?
+
+Voir [[Compétition des grandes puissances en Afrique]]
 
 ---
 
-### @WIP Quel regard portez-vous sur le Maghreb et ses perspectives d’évolution ?
+### Quel regard portez-vous sur le Maghreb et ses perspectives d’évolution ?
+
+- Globalement des économies fragiles frappées par le COVID (et la crise du tourisme associée) et menacées par le terrorisme
+- Maroc : 
+	- roi Mohammed VI plutot réformateur depuis son accession au trone en 1999
+	- Baisse du pouvoir d'achat
+	- Question du Sahara occidental (entité non autonome au sens de l'ONU)
+- Algérie : 
+	- grandes difficultés d'une économie de rente pétrolière 
+	- Marche du Hirak jusqu'aux limitations liés au COVID
+- Tunisie : 
+	- nouvelle constitution de 2014 symbole des printemps arabes
+- Partenaires indispensables pour garantir la stabilité du voisinage européen (terrorisme / migrations / puissance mili)
 
 ---
 
@@ -184,7 +220,14 @@ L'Allemagne a une peur panique de l'inflation qui est perçue comme la cause pri
 
 ---
 
-### @WIP Quels sont nos intérêts dans le Golfe de Guinée ?
+### Quels sont nos intérêts dans le Golfe de Guinée ?
+
+- 70 000 ressortissants français
+- Francophonie / enjeu d'influence
+- Sécurité maritime dans une zone pétrolifère 
+- Eco assez limité part relativement faible du marché en général
+- Accord de coopération / militaires avec les riverains
+- Zone de départ de drogues vers l'Europe
 
 ---
 
@@ -195,6 +238,15 @@ L'Allemagne a une peur panique de l'inflation qui est perçue comme la cause pri
 ---
 
 ### @WIP L’armement de l’Egypte par la France est-il un facteur de stabilité ? une simple opportunité pour placer notre matériel ?
+
+- La France a décidé de faire de L'Egypte d'al-sissi un partenaire stratégique dans une lutte globale contre le terrorisme
+	- Soutien à Haftar en Lybie
+	- Traque aux frères musulmans
+- Logique de blocs au sein de l'islam sunnite : contre les frères musulmans
+- Contribue necessairement à la stabilité de la région
+- Critiques :	
+	- Expression autoritaire voir violente du pouvoir
+	- Quid de l'après ? quelle stabilité interne pour le gouv ?
 
 ---
 
@@ -840,7 +892,17 @@ Trafalgar ?
 
 ---
 
-### @WIP 27 ans de mission Corymbe, quels buts, quel bilan ?
+### 27 ans de mission Corymbe, quels buts, quel bilan ?
+
+- Quasi-permanence depuis 1990 (dépassé le 150)
+- Inscrit dans la coopération avec des pays alliés
+- Volets principaux
+	- Pré-positionnement RESEVAC
+	- Soutien aux forces françaises dans la région
+	- Lutte contre la piraterie et le brigandage pour protéger nos intérêts
+	- Coopération et diplomatie navale
+- Licorne en 2004 a montré la pertinence 
+- MDAT GoG signe de l'implication de la France dans le long terme
 
 ---
 

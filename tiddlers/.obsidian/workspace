@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes personnelles/2020-10-13.md",
+            "file": "md-tiddlers/Questions de préparation au grand oral.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e63b320f554a815b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md-tiddlers/Situation économique en Algérie en 2020.md",
             "mode": "source"
           }
         }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "budget"
+                "query": "Accroches"
               }
             }
           }
@@ -64,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-10-13.md"
+                "file": "md-tiddlers/Questions de préparation au grand oral.md"
               }
             }
           },
@@ -74,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-10-13.md"
+                "file": "md-tiddlers/Questions de préparation au grand oral.md"
               }
             }
           }
@@ -86,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/Questions de préparation au grand oral.md",
+    "md-tiddlers/Situation économique en Algérie en 2020.md",
+    "md-tiddlers/Préparation de l’école de guerre.md",
+    "md-tiddlers/Accroches de ma présentation.md",
     "Notes personnelles/2020-10-13.md",
+    "md-tiddlers/Ecole constructiviste (RI).md",
     "Notes personnelles/2020-10-12.md",
     "Notes personnelles/2020-10-11.md",
     "Notes personnelles/2020-10-09.md",
-    "Notes personnelles/2020-10-06.md",
-    "Notes personnelles/_TODO.md",
-    "Notes personnelles/2020-09-29.md",
-    "Notes personnelles/2020-10-03.md",
-    "Notes personnelles/2020-10-04.md",
-    "Notes personnelles/2020-10-05.md"
+    "Notes personnelles/2020-10-06.md"
   ]
 }
