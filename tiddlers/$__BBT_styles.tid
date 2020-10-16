@@ -1,19 +1,7 @@
-strong {
-   background-color:#ffffcc; 
-   font-weight: bold;
-}
+strong {background-color:#ffffcc; font-weight: bold;}
 
-.bbtPdP { 
-  border-top: 1px solid #c0c0c0; 
-  font-size: 12px; 
-}
+.bbtPdP {border-top: 1px solid #c0c0c0; font-size: 12px;}
 
-hr {
-  height:1px;
-  border-width:0;
-  background-color:#c0c0c0;
-}
+hr {height:1px; border-width:0; background-color:#c0c0c0;}
 
-ul > li {
-  line-height: 1;
-}
+ul > li {line-height: 1;}

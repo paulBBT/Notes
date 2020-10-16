@@ -6,6 +6,7 @@
       {
         "id": "56c9d7ed9d46adcb",
         "type": "leaf",
+        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,11 +20,10 @@
       {
         "id": "f039a178eba10b50",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
+            "file": "md-tiddlers/L'autonomie de l'Europe est l'objectif de notre génération.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
+                "file": "Notes personnelles/2020-10-04.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
+                "file": "Notes personnelles/2020-10-04.md"
               }
             }
           }
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
-    "L'autonomie de l'Europe est l'objectif de notre génération.md",
     "Notes personnelles/2020-10-04.md",
+    "L'autonomie de l'Europe est l'objectif de notre génération.md",
+    "Unanimité des décisions européennes en politique étrangère.md",
+    "md-tiddlers/Union Européenne (UE).md",
+    "Crise climatique.md",
+    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
     "md-tiddlers/Les Etats-Unis sont un obstacle à la construction européenne.md",
     "Souveraineté européenne.md",
-    "md-tiddlers/Union Européenne (UE).md",
     "md-tiddlers/(WIP) Les Etats-Unis sont un obstacle à la construction européenne.md",
-    "md-tiddlers/Indépendance de la Nouvelle Calédonie.md",
-    "Lutter contre le séparatisme islamique impose de refonder l'assimilation.md",
-    "md-tiddlers/Lutte contre le séparatisme islamisme.md"
+    "md-tiddlers/Indépendance de la Nouvelle Calédonie.md"
   ]
 }

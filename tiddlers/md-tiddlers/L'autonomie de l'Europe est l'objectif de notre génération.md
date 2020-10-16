@@ -20,4 +20,8 @@ L'autonomie de l'Europe doit se centrer sur trois objectifs principaux :
 
 Il s'agit d'un des axes d'efforts français : [[La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne]].
 
-##
+## Opportunité
+
+Après une phase molle, sous le signe de la [[Fin de l'histoire]], l'UE est aujourd'hui en position de se réinventer. Le BREXIT et l'affaiblissement du lien transatlantique doivent être autant d'opportunités !
+
+Le plan de relance post-COVID de 1800 milliards d'euros est un signe encourageant.
