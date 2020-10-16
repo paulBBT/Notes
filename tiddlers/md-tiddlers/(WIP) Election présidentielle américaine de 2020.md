@@ -1,0 +1,1 @@
+- Augmentation de la proportion de la population qui croit qu’un recours à la violence est necessaire et prévisible si l’autre parti gagne (33-36%)

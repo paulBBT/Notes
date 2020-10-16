@@ -2,6 +2,7 @@
 - Implication en Syrie
 - Implication en Lybie (voir [[La Lybie depuis la guerre de 2011]], [[Enjeux énergetiques en Mediterranée]], et la vision stratégique Blue Homeland de l'amiral Gurdeniz)
 - [[Nagorno-Karabakh]]
+- 01 octobre 2020 : Erdrogan revendique que « Jérusalem est notre ville », pour lui l'aspect physique de la vielle ville a été imaginé par Soliman le magnifique
 
 Etrangement, le président Erdrogan ne défend pas la minorité musulmane Ouïghour en Chine.
 

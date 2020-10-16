@@ -6,7 +6,7 @@ Elle pose avant tout la question de notre rapport à la mort (voir [[COVID-19 et
 
 La plupart des chefs d’Etats occidentaux utilise le vocabulaire de la guerre. Une véritable économie de guerre n’a cependant pas été mise en place.
 
-Cette crise, et les mesures prises par les gouvernements pour y faire face, rend floue la limite entre démocratie et régime autoritaire. Ces derniers exercent un pouvoir justifié par la capacité à garantir l’ordre social, ils peuvent ressortir renforcés d’une bonne gestion de crise. Au contraire les gouvernements démocratiques ne peuvent qu’être affaiblis par la limitation des libertés individuelles nécessaire pour faire face.
+Les [[Mesures de privation de liberté prises pendant l'épidémie de COVID-19]] sont un exemple de la toute-puissance apparente et paradoxale des gouvernements révélée par la crise (voir [[COVID-19 et paradoxe du pouvoir des gouvernements]]).
 
 ## Difficultés économiques
 
@@ -23,10 +23,6 @@ Le coronavirus est également vécu comme une crise de souveraineté. Le virus m
 Les USA sont notamment paru affaibli, dans l’incapacité de prendre le leadership de la gestion de crise. Ils ont cependant contribué à cristalliser les tensions sur l’opposition avec la Chine. Rappelle l’exemple d’Athènes qui colporte le bruit que les spartiates ont empoisonné ses puits alors qu’elle est touchée par la peste !
 
 La crise va certainement déboucher sur une critique de la mondialisation, et une volonté de plus d’autonomie dans le domaine de la santé au moins.
-
-## Mesures exceptionnelles
-
-Les [[Mesures de privation de liberté prises pendant l'épidémie de COVID-19]] sont un exemple de la toute-puissance apparente et paradoxale des gouvernements révélée par la crise (voir [[COVID-19 et paradoxe du pouvoir des gouvernements]]).
 
 ## Perspective de vaccin
 

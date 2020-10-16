@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "56c9d7ed9d46adcb",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes personnelles/2020-10-04.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "f039a178eba10b50",
+        "id": "cd28aaf79a40a494",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Colonisation.md",
+            "file": "Notes personnelles/2020-10-06.md",
             "mode": "source"
           }
         }
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "démocratie"
+                "query": "guerre économique"
               }
             }
           }
@@ -77,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/Colonisation.md"
+                "file": "Notes personnelles/2020-10-06.md"
               }
             }
           },
@@ -87,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/Colonisation.md"
+                "file": "Notes personnelles/2020-10-06.md"
               }
             }
           }
@@ -99,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Colonisation.md",
-    "md-tiddlers/L'autonomie de l'Europe est l'objectif de notre génération.md",
-    "Notes personnelles/2020-10-04.md",
-    "L'autonomie de l'Europe est l'objectif de notre génération.md",
-    "Unanimité des décisions européennes en politique étrangère.md",
-    "md-tiddlers/Union Européenne (UE).md",
-    "Crise climatique.md",
-    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
-    "md-tiddlers/Les Etats-Unis sont un obstacle à la construction européenne.md",
-    "Souveraineté européenne.md"
+    "Notes personnelles/2020-10-06.md",
+    "md-tiddlers/Guerre économique.md",
+    "Guerre économique.md",
+    "BREXIT.md",
+    "Untitled.md",
+    "md-tiddlers/Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT.md",
+    "md-tiddlers/Crise de la démocratie.md",
+    "md-tiddlers/Démocratie.md",
+    "Crise de la démocratie.md",
+    "md-tiddlers/Intérêt de la bourgeoisie.md"
   ]
 }

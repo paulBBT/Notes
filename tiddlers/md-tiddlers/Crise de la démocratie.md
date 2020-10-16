@@ -1,0 +1,8 @@
+- Facteurs concourants :
+	- Nationalisation de la politique et augmentation de l'enjeu des grandes éléctions
+	- Réduction des cycles éléctoraux
+	- Réduction des marges de victoire
+	- Système éléctoral ne representant pas les préférences (voir [[Penser un meilleur système éléctoral]])
+	- Augmentation des inégalités (voir [[Piketty et les inégalités]] et [[Intérêts de la bourgeoisie]])
+	- Uniformisation des partis et polarisation de la vie politique (voir [[(WIP) L'extréme polarisation de la vie publique est un danger majeur pour nos démocraties]])
+	- Déclin des médias de qualité

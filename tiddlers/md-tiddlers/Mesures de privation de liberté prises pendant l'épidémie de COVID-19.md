@@ -6,8 +6,11 @@ On peut qualifier la prise de ces mesures d’exception en France comme **l’ab
 
 La réalité a rejoint le [[Rêve politique de la Peste]] de Michel Foucault.
 
-## Deux poids deux mesures
+## Efficacité des confinements
 
-Le débat public a été limité car réduit à un **seul camp du bien** : on peut être soit pour le confinement, soit pour la mort de nombreuses personnes. Tout se passe comme si on ne pouvait être que bon ou mauvais citoyen.
+Le cas argentin est la preuve du manque d'efficacité des mesures de confinement. Après 200 jours :
 
-Dans de nombreux autres domaines critiques la discussion n’est pas autant réduite : **la lutte contre le cancer (400 000 cas par an en France causant 150 000 décès)** ne conduit pas à l’interdiction totale du tabac et de l’alcool ! La lutte contre la pollution, ou la malbouffe, ou la faim ne provoque pas la prise de décision aussi radicales.
+- plus haute mortalité au monde,
+- 55% d'inflation,
+- 41% de taux de pauvreté,
+- 80% de la population aurait des séquelles psychologiques.
