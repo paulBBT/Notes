@@ -996,11 +996,7 @@ Trafalgar ?
 
 ### Connaissez vous Jérôme Fourquet ? Il est l'auteur de _L'archipel français, naissance d'une France divisée_. Pensez vous que la France soit en voie d'archipélisation ?
 
-Jérôme Fourquet a publié son ouvrage _L'archipel français, naissance d'une France divisée_ en 2014. Sans arrières pensées idéologiques, il mène une **étude scientifique, basée sur des faits** et les statistiques de l'INSEE. 
-
-Je pense que sa démonstration n'est pas contestable. **Elle rejoint d'autres travaux,** comme _Les territoires perdus de la République_ de Georges Bensoussan.
-
-Le président Macron a lui-même abordé la question lors de son discours au Panthéon pour les 150 ans de la troisième république, et a demandé au gouvernement de préparer des mesures contre le séparatisme.
+[[Le constat d'une France divisée est incontestable]]
 
 ---
 

@@ -1,4 +1,4 @@
->L'Europe, ces dernières décennies s'est construite comme un espace formidable d'ouverture, d'amitié, de paix et de délitement de la souveraineté. Nous sommes le marché le plus ouvert, le plus naïf.*
+>*L'Europe, ces dernières décennies s'est construite comme un espace formidable d'ouverture, d'amitié, de paix et de délitement de la souveraineté. Nous sommes le marché le plus ouvert, le plus naïf.*
 >Emmanuel Macron, discours aux ambassadeurs en 2019.
 
 >*Je crois que nous avons très longtemps commis l'erreur de laisser le mot de souveraineté aux nationalistes.*
@@ -9,6 +9,12 @@ Le Président Macron a fait de la [[Souveraineté (déf.)]] européenne une des 
 Cette ambition pour l'Europe doit se décliner en injonctions à repenser nos frontières pour sortir de la gestion de crise à répétition, à revigorer la défense européenne, et à rechercher l'indépendance numérique. Il ambitionne également refonder la [[Relation entre la France et la Russie]].
 
 On peut faire l'objection qu'[[(WIP) Une vraie souveraineté européenne ne peut se concevoir qu'au dépens des souverainetés des Etats membres]]. Il faut également savoir [[Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT]].
+
+Le Président a proposé en septembre 2020 un [[Mécanisme de protection des éléctions européennes contre les influences extérieures]] qui est une déclinaison dans le [[Cyber (déf.)]] de cette volonté de souveraineté. 
+
+---
+
+Voir [[L'autonomie de l'Europe est l'objectif de notre génération]].
 
 ---
 

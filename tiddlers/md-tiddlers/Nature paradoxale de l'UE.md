@@ -7,6 +7,8 @@ L’UE est fondamentalement une **construction hybride partiellement fédérale 
 
 Les principales difficultés de l'UE sont des questions politiques non tranchées : [[La défense européenne]], [[Problème des frontières pour l'UE]]...
 
+Le président Macron propose de réduire cette difficulté par une construction "par cercles de convergence", à géométrie variable.
+
 ## Paradoxe
 
 C’est l’élargissement de l’UE qui empêche son agilité. 

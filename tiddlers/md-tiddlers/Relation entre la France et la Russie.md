@@ -1,7 +1,6 @@
 -  Depuis la fin de la guerre froide : défiance et succession de malentendus
 -  **Pas de stabilité en Europe sans la Russie**
--  Mais pas de naïveté
-
+-  Mais pas de naïveté : respect et exigence
 - Antagoniser la Russie la pousse à l'isolement ou dans les bras de la Chine
 
 >*Nous ne créerons pas les conditions du projet profond de recréation de la civilisation européenne que j'évoquais tout à l'heure. Parce qu'on ne peut pas le faire sans repenser notre lien avec la Russie très profondément, très profondément.*<br/>

@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "16133e57a03059f6",
+        "id": "56c9d7ed9d46adcb",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes personnelles/2020-10-04.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "f039a178eba10b50",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Questions de préparation au grand oral.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e63b320f554a815b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "md-tiddlers/Situation économique en Algérie en 2020.md",
+            "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
             "mode": "source"
           }
         }
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Accroches"
+                "query": "démocratie"
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/Questions de préparation au grand oral.md"
+                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
               }
             }
           },
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/Questions de préparation au grand oral.md"
+                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
               }
             }
           }
@@ -97,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "md-tiddlers/Questions de préparation au grand oral.md",
-    "md-tiddlers/Situation économique en Algérie en 2020.md",
-    "md-tiddlers/Préparation de l’école de guerre.md",
-    "md-tiddlers/Accroches de ma présentation.md",
-    "Notes personnelles/2020-10-13.md",
-    "md-tiddlers/Ecole constructiviste (RI).md",
-    "Notes personnelles/2020-10-12.md",
-    "Notes personnelles/2020-10-11.md",
-    "Notes personnelles/2020-10-09.md",
-    "Notes personnelles/2020-10-06.md"
+    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
+    "L'autonomie de l'Europe est l'objectif de notre génération.md",
+    "Notes personnelles/2020-10-04.md",
+    "md-tiddlers/Les Etats-Unis sont un obstacle à la construction européenne.md",
+    "Souveraineté européenne.md",
+    "md-tiddlers/Union Européenne (UE).md",
+    "md-tiddlers/(WIP) Les Etats-Unis sont un obstacle à la construction européenne.md",
+    "md-tiddlers/Indépendance de la Nouvelle Calédonie.md",
+    "Lutter contre le séparatisme islamique impose de refonder l'assimilation.md",
+    "md-tiddlers/Lutte contre le séparatisme islamisme.md"
   ]
 }
