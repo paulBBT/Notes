@@ -1,0 +1,4 @@
+- Priorité d'un commandant : **se préparer, préparer ses officiers et son unité au combat**
+	- Court terme tactique / long terme préparation au commandement des jeunes
+	- Théorique et pratique
+	- Culture guerrière / excellence
