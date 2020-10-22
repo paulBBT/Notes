@@ -6,6 +6,7 @@
       {
         "id": "0636cdfa2a84b812",
         "type": "leaf",
+        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -14,18 +15,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "9d3fbb07e8e73eef",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -53,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Relations entre "
+                "query": "Nord Stream"
               }
             }
           }
@@ -77,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
+                "file": "Notes personnelles/2020-10-09.md"
               }
             }
           },
@@ -87,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
+                "file": "Notes personnelles/2020-10-09.md"
               }
             }
           }
@@ -99,15 +88,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notes personnelles/2020-10-09.md",
+    "md-tiddlers/Relations entre la France et la Russie.md",
+    "Projet Nord Stream 2.md",
+    "Untitled.md",
+    "md-tiddlers/Russie.md",
+    "md-tiddlers/Relation entre la France et la Russie.md",
     "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
     "Relations entre la France et la Russie.md",
-    "md-tiddlers/Russie.md",
     "md-tiddlers/Union Européenne (UE).md",
-    "Notes personnelles/2020-10-09.md",
-    "md-tiddlers/Royaume-Uni.md",
-    "md-tiddlers/Cyberdéfense dans les armées britanniques.md",
-    "md-tiddlers/Organisation des Nations Unies (ONU).md",
-    "md-tiddlers/Traité New Start (2010).md",
-    "md-tiddlers/Relation entre la France et la Russie.md"
+    "md-tiddlers/Royaume-Uni.md"
   ]
 }

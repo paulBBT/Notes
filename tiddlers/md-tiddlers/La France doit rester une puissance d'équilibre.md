@@ -13,7 +13,7 @@
 
 La position internationale française doit par ailleurs être de **promouvoir le multilatéralisme et d'être une troisième voie. La France doit être, reste et se reconstruire comme puissance d'équilibre.** Cela implique de ne pas s'aligner par principe, et de conserver de la souplesse : une *indépendance indispensable de notre diplomatie et d'autonomie stratégique.*
 
-Cette position se décline concrétement en Asie (voir [[La France a l'ambition d'être une puissance d'équilibre dans la zone Indo-Pacifique]]), dans la [[Relation entre la France et la Russie]], ou en matière de désarmement (voir [[Le TNP est le pilier de la stratégie française de désarmement]]).
+Cette position se décline concrétement en Asie (voir [[La France a l'ambition d'être une puissance d'équilibre dans la zone Indo-Pacifique]]), dans la [[Relations entre la France et la Russie]], ou en matière de désarmement (voir [[Le TNP est le pilier de la stratégie française de désarmement]]).
 
 ---
 

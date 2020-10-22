@@ -6,7 +6,7 @@
 
 Le Président Macron a fait de la [[Souveraineté (déf.)]] européenne une des axes principaux de la politique étrangère française. Il le déclare dès le début de son quiquenat lors du **Discours de la Sorbonne.**
 
-Cette ambition pour l'Europe doit se décliner en injonctions à repenser nos frontières pour sortir de la gestion de crise à répétition, à revigorer la défense européenne, et à rechercher l'indépendance numérique. Il ambitionne également refonder la [[Relation entre la France et la Russie]].
+Cette ambition pour l'Europe doit se décliner en injonctions à repenser nos frontières pour sortir de la gestion de crise à répétition, à revigorer la défense européenne, et à rechercher l'indépendance numérique. Il ambitionne également refonder la [[Relations entre la France et la Russie]].
 
 On peut faire l'objection qu'[[(WIP) Une vraie souveraineté européenne ne peut se concevoir qu'au dépens des souverainetés des Etats membres]]. Il faut également savoir [[Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT]].
 
