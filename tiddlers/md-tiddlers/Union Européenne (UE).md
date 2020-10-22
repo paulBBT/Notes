@@ -22,3 +22,4 @@ Voir :
 - [[Relation franco-allemande]]
 - [[Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT]]
 - [[Mécanisme de protection des éléctions européennes contre les influences extérieures]]
+- [[Adhésion de la Turquie à l’UE]]

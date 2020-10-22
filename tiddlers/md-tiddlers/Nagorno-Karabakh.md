@@ -21,8 +21,17 @@
 	- Pour Emmanuel Macron un « fait très grave » qui « change la donne »
 - Participation de F16 turcs aux frappes azéris
 - Raisons de politique intérieure et affrontement avec la Russie (voir [[Erdrogan mène une politique néo-ottomane]])
+- [[La Canada a suspendu ses livraisons de composants militaires à la Turquie]]
+- Eloigne probablement les perspectives d’[[Adhésion de la Turquie à l’UE]]
 
 ## Soutien israélien
 
 - Azerbaijan est également soutenu par Israël
-- Rotation d'avions gros porteurs pour achat de drônes
+- Accord de 2012 : fourniture d’armes modernes contre approvisionnement en pétrole (40% de la consommation israélienne)
+- Rotation d'avions gros porteurs probablement pour le transport de **drones kamikaze Harop**
+- **Utilisation d’armes à sous-munitions de fabrication israélienne** d’après *Amnesty International*
+
+## Soutien russe
+
+- Le manque de soutien concret russe à l’Arménie peut être interprété comme une conséquence du changement de régime de 2018 et la volonté de rapprochement de l’OTAN.
+- La Russie reste très **concernée par la possibilité de faire de la zone un refuge pour le terrorisme islamique.** 

@@ -8,3 +8,6 @@ Voir :
 - [[Les intérêts des Etats-Unis ne sont pas ceux des européens]]
 - [[La politique d'Erdrogan affaiblit le lien avec les Etats-Unis]]
 - [[(WIP) Election présidentielle américaine de 2020]]
+- [[Election présidentielle américaine de 2020]]
+- [[Format de l’USN]]
+- [[Positions des grandes puissances sur les SALA]]
