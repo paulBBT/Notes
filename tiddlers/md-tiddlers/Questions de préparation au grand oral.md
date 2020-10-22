@@ -33,7 +33,7 @@ On parle aujourd'hui principalement de thalassocratie pour définir les Etats-Un
 		- La France ne produit par exemple aucun composant éléctroniques
 		- Tendance de fond qui était déjà en place lors de WWII
 	- Multiplication des opportunités
-		- [[Guerre hybride]] / [[La guerre hors limites]]
+		- [[Action hybride]] / [[La guerre hors limites]]
 		- Augmentation des vulnérabilités de l'adversaire
 - Si tout le monde est affaiblit, personne n'est affaiblit
 

@@ -4,13 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "84c4bc23323a440b",
+        "id": "0636cdfa2a84b812",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes personnelles/2020-10-09.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "9d3fbb07e8e73eef",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes personnelles/2020-10-06.md",
+            "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
             "mode": "source"
           }
         }
@@ -40,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liberté d'expres"
+                "query": "Relations entre "
               }
             }
           }
@@ -64,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-10-06.md"
+                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
               }
             }
           },
@@ -74,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-10-06.md"
+                "file": "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md"
               }
             }
           }
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Notes personnelles/2020-10-06.md",
-    "Rôle du commandant.md",
-    "Untitled.md",
+    "md-tiddlers/La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne.md",
+    "Relations entre la France et la Russie.md",
+    "md-tiddlers/Russie.md",
+    "md-tiddlers/Union Européenne (UE).md",
+    "Notes personnelles/2020-10-09.md",
+    "md-tiddlers/Royaume-Uni.md",
+    "md-tiddlers/Cyberdéfense dans les armées britanniques.md",
+    "md-tiddlers/Organisation des Nations Unies (ONU).md",
     "md-tiddlers/Traité New Start (2010).md",
-    "md-tiddlers/Liberté d'expression.md",
-    "md-tiddlers/Censure.md",
-    "md-tiddlers/Guerre économique.md",
-    "Guerre économique.md",
-    "BREXIT.md",
-    "md-tiddlers/Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT.md"
+    "md-tiddlers/Relation entre la France et la Russie.md"
   ]
 }

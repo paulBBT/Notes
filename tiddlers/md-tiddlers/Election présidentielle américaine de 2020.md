@@ -1,1 +1,0 @@
-- Similitude entre les deux candidats dans l’aversion au déploiement de troupes

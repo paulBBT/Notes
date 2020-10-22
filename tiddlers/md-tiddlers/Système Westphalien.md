@@ -1,6 +1,6 @@
 ## L’âge de la souveraineté
 
-L’ordre actuel est fondé sur la **Paix de Westaphalie (1648 - fin de la guerre de 30 ans)** qui reconnait les concepts de **souveraineté et de territorialité.** La [[Souveraineté (déf.)]] implique la compétition, la puissance (voir [[Définition de la puissance en RI]] devient la capacité à imposer sa volonté. Le primat de la puissance conduit à une surmilitarisation. L’apparition de l’Etat se fait en symbiose avec cette vision agressive du monde. A partir de 1789, un lien se crée entre citoyenneté et conscription.
+L’ordre actuel est fondé sur la **Paix de Westaphalie (1648 - fin de la guerre de 30 ans)** qui reconnait les concepts de **souveraineté et de territorialité.** La [[Souveraineté (déf.)]] implique la compétition, la puissance (voir [[Puissance en RI (déf.)]] devient la capacité à imposer sa volonté. Le primat de la puissance conduit à une surmilitarisation. L’apparition de l’Etat se fait en symbiose avec cette vision agressive du monde. A partir de 1789, un lien se crée entre citoyenneté et conscription.
 
 ## Empire ou oligarchie
 

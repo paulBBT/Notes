@@ -8,9 +8,10 @@
 
 ## Dans le monde
 
-- **Russie : Zircon (SS-N-33)** 
+- **Russie : Zirkon (SS-N-33)** 
 	- Portée 1000km / vitesse maximale Mach 9 
 	- Test (janvier 2020) sur une cible à 500km en étant tirée depuis l’Amiral Gorshkov (premier de série du projet 22350)
+	- Test (octobre 2020) sur un plastron maritime mobile
 	- Déployable à terme sur sous-marin
 	- Double vocation croisière / anti-navire
 	- Kindjal (portée 2000km / vitesse maximale Mach 10) déjà en développement

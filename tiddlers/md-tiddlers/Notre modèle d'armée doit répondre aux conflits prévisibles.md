@@ -8,7 +8,7 @@ Le modèle actuel est celui de l'après guerre froide, mais [[La transformation 
 
 Michel Goya identifie : **trois emplois probables : actions auprès des populations (intérieures et extérieures), confrontation entre états, guerre contre des organisations armées.** Le CEMA rejoint cette analyse, pour lui le plus probable est la multiplication de l'action hybride.
 
-Pour être efficace dans ce scénario, il parait intéressant d'améliorer nos capacités de combat en [[Guerre hybride]], hors [[(WIP) Le secret est incompatible avec la démocratie]].
+Pour être efficace dans ce scénario, il parait intéressant d'améliorer nos capacités de combat en [[Action hybride]], hors [[(WIP) Le secret est incompatible avec la démocratie]].
 
 ## Scénario le plus dangeureux
 

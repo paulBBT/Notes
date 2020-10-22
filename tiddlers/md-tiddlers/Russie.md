@@ -1,9 +1,11 @@
 ## Relations internationales
 
+- [[Constantes de la politique étrangère russe]]
 - [[Traité New Start (2010)]]
-- [[Compétition des grandes puissances en Afrique]]
 - [[Relations entre la France et la Russie]]
-- [[Biélorussie]]
+- [[La Russie est ceinturée de zones de crise]]
+- [[Compétition des grandes puissances en Afrique]]
+- [[Opposition entre la Russie et la Turquie]]
 
 ## Défense et industrie d’armement
 

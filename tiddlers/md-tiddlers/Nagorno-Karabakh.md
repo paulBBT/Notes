@@ -9,7 +9,8 @@
 	- Volume d'infantrie équilibrée mais supériorité blindée et artillerie azérie
 	- Bilan du conflit : 17 000 morts azéris contre 6000 morts arméniens
 - Conflit gelé par l'intervention du groupe de Minsk et ses trois co-présidents : Etats-Unis, Russie, France
-- 27 septembre 2020 : reprise du conflit à l'initiative azérie
+- 27 septembre 2020 : reprise du conflit à l'initiative azérie, avec une **évidente préméditation**
+- L'Azerbaïjan progresse plus facilement dans le sud, plus plat. 
 
 ## Implication turque
 
@@ -20,9 +21,10 @@
 	- Transportés grâce à des capacités turques via la Géorgie
 	- Pour Emmanuel Macron un « fait très grave » qui « change la donne »
 - Participation de F16 turcs aux frappes azéris
-- Raisons de politique intérieure et affrontement avec la Russie (voir [[Erdrogan mène une politique néo-ottomane]])
+- Raisons de politique intérieure et affrontement avec la Russie (voir [[Erdogan mène une politique néo-ottomane]])
 - [[La Canada a suspendu ses livraisons de composants militaires à la Turquie]]
 - Eloigne probablement les perspectives d’[[Adhésion de la Turquie à l’UE]]
+- L'implication turque fait nécessairement écho au [[WIP Génocide arménien]]
 
 ## Soutien israélien
 
@@ -33,5 +35,11 @@
 
 ## Soutien russe
 
-- Le manque de soutien concret russe à l’Arménie peut être interprété comme une conséquence du changement de régime de 2018 et la volonté de rapprochement de l’OTAN.
-- La Russie reste très **concernée par la possibilité de faire de la zone un refuge pour le terrorisme islamique.** 
+- Le manque de soutien concret russe à l’Arménie peut être interprété comme une conséquence du changement de régime de 2018 (éléction d'un ancien journaliste ayant fait campagne sur le thème de la corruption) et la volonté de rapprochement de l’OTAN.
+- Le Nagorno-Karabakh est exclu de l'accord de défense mutuel entre la Russie et l'Arménie.
+- La Russie reste très **concernée par la possibilité de faire de la zone un refuge pour le terrorisme islamique** (voir [[La Russie est ceinturée de zones de crise]]), les irréguliers turcs étant les mêmes que ceux qu'elle a combattu en Syrie et en Lybie.
+- Une stratégie indirecte possible serrait d'intensifier les actions contre la Turquie en Syrie et en Lybie
+
+## Position iranienne
+
+- Probablement très inquièt de l'import de djihadistes syriens et lybiens à ses frontières

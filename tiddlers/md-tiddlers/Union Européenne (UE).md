@@ -13,6 +13,7 @@ Voir :
 	- [[Primauté du droit européen sur les droits nationaux]]
 - [[Euro]]
 - [[WIP L'UE a un problème d'image]]
+	- [[WIP Les sociétés occidentales sont faibles car elles ne proposent plus un modèle fort]]
 - [[La défense européenne]]
 	- [[Unanimité des décisions européennes en politique étrangère]]
 	- [[Evolutions de la défense européenne]]
@@ -22,4 +23,9 @@ Voir :
 - [[Relation franco-allemande]]
 - [[Comment poursuivre une relation stratégique avec le Royaume-Uni après le BREXIT]]
 - [[Mécanisme de protection des éléctions européennes contre les influences extérieures]]
+
+## Volonté d'adhésion en cours
+
 - [[Adhésion de la Turquie à l’UE]]
+- Albanie et Macédoine : sur la bonne voie pour progresser vers les négociations d'adhésion
+- Serbie : déficit d'état de droit / politique de concurence

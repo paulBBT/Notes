@@ -4,7 +4,7 @@
 - Le jeu d'échec : prendre le centre pour attaquer
 - Le feu : attaque flambloyante et directe
 - Détruire le corps
-- Volonté de dominer l'adversaire (voir [[Définition de la puissance en RI]])
+- Volonté de dominer l'adversaire (voir [[Puissance en RI (déf.)]])
 - Vertu : la force
 - Voir [[Principes de la stratégie]] et [[La philosophie occidentale est une philosophie de la compétition]]
 

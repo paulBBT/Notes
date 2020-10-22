@@ -11,3 +11,4 @@ Voir :
 	- [[Il est extremement difficile d'évaluer la fragilité du Parti en Chine]]
 	- [[Systèmes de crédit social (SCS) chinois]]
 - [[(WIP) Le système de pensée chinois place la Chine au centre]]
+- [[Compétition des grandes puissances en Afrique]]

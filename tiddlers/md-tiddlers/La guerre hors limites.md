@@ -1,6 +1,6 @@
 ## La guerre dépasse le militaire
 
-Ouvrage publié en 1999 par deux colonels de l’armée de l’air chinoise dont l’idée maîtresse est que **la guerre moderne n’est plus l’apanage du seul domaine militaire (quitte à rendre floue la frontière entre guerre et concurrence).** C’est un éclairage sur la pensée stratégique chinoise, qui se rapproche du concept de [[Guerre hybride]].
+Ouvrage publié en 1999 par deux colonels de l’armée de l’air chinoise dont l’idée maîtresse est que **la guerre moderne n’est plus l’apanage du seul domaine militaire (quitte à rendre floue la frontière entre guerre et concurrence).** C’est un éclairage sur la pensée stratégique chinoise, qui se rapproche du concept de [[Action hybride]].
 
 ## Caractéristiques de la guerre hors limites
 

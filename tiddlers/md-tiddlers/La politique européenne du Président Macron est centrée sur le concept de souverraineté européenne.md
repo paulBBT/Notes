@@ -20,5 +20,5 @@ Voir [[L'autonomie de l'Europe est l'objectif de notre génération]].
 
 ## Références
 
-- Emmanuel Macron. 26 septembre 2017. _Initiative pour l'Europe - Discours d'Emmanuel Macron pour une Europe souveraine, unie, démocratique_ (dit discours de la Sorbonne). https://www.elysee.fr/emmanuel-macron/2017/09/26/initiative-pour-l-europe-discours-d-emmanuel-macron-pour-une-europe-souveraine-unie-democratique.
-- Emmanuel Macron. 27 août 2019. _Discours à la conférence des ambassadeurs_. https://www.elysee.fr/emmanuel-macron/2019/08/27/discours-du-president-de-la-republique-a-la-conference-des-ambassadeurs-1.
+Emmanuel Macron. 26 septembre 2017. _Initiative pour l'Europe - Discours d'Emmanuel Macron pour une Europe souveraine, unie, démocratique_ (dit discours de la Sorbonne). [Lien](https://www.elysee.fr/emmanuel-macron/2017/09/26/initiative-pour-l-europe-discours-d-emmanuel-macron-pour-une-europe-souveraine-unie-democratique).<br/>
+Emmanuel Macron. 27 août 2019. _Discours à la conférence des ambassadeurs_. [Lien](https://www.elysee.fr/emmanuel-macron/2019/08/27/discours-du-president-de-la-republique-a-la-conference-des-ambassadeurs-1).

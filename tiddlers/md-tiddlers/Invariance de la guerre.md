@@ -6,7 +6,7 @@ Aristote, Mackinder (voir [[Théorie du Heartland]], Marx ou Bouthoul arguent po
 
 Kant (voir [[Etat de Nature des Etats (Kant)]]), Spinoza (voir [[Conatus]]) et l'[[Ecole réaliste (RI)]] penchent pour l’hypothèse naturelle.
 
-Ces différences rejoignent les celles entre les [[Théories des relations internationales]].
+Ces différences rejoignent celles entre les différentes théories des [[Relations internationales]].
 
 ## Références 
 

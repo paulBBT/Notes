@@ -12,7 +12,7 @@ Les **menaces auxquelles fait face l’Europe sont de plus en plus communes, ce 
 - terrorisme transnational (voir [[Changement de nature du terrorisme]]),
 - [[Piraterie maritime]],
 - [[Cyber-criminalité]],
-- menaces militaires (réaffirmation de la menace russe, à la fois pour la guerre conventionnelle et la [[Guerre hybride]]).
+- menaces militaires (réaffirmation de la menace russe, à la fois pour la guerre conventionnelle et la [[Action hybride]]).
 
 ## Analyse selon la [[Théorie des biens publics]]
 
