@@ -1,34 +1,4 @@
 {
-  "tiddlers": [
-    {
-      "file": "$__SiteSubtitle.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "file": "$__BBT_styles.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "file": "$__BBT_study.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "file": "$__BBT_template_retroliens.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "file": "$__DefaultTiddlers.tid",
-      "isTiddlerFile": "true"
-    },
-    {
-      "file": "$__config_markdown_renderWikiTextPragma.tid",
-      "isTiddlerFile": "true"
-    },  
-    {
-      "file": "$__SiteTitle.tid",
-      "isTiddlerFile": "true"
-    }
-  ],
   "directories": [ 
     {
       "path": "md-tiddlers",
@@ -38,6 +8,12 @@
         "title": {"source": "basename"},
         "created": {"source": "created"},
         "modified": {"source": "modified"}
+    },
+    {
+      "path": "config",
+      "isTiddlerFile": "true",
+      "fields": {
+        "title": {"source": "basename"}
       }
     }
   ]
