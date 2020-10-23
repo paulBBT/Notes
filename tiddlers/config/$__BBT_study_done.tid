@@ -1,0 +1,26 @@
+created: 20200929150502497
+modified: 20201002163610096
+tags: $:/tags/ViewToolbar
+title: $:/BBT/study_done
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+
+\define monButton()
+<$button class=<<tv-config-toolbar-class>>>
+  <$fieldmangler tiddler=<<currentTiddler>>>
+    <$action-sendmessage $message="tm-remove-tag" $param="study"/>
+  </$fieldmangler>
+  <$action-sendmessage $message="tm-close-tiddler" $param=<<currentTiddler>>/>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+  {{$:/core/images/stamp}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+  <span class="tc-btn-text">
+    <$text text=<<$:/BBT/study_done/Caption>>/>
+  </span>
+</$list>
+</$button>
+\end
+
+<<monButton>>
