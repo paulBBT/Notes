@@ -9,7 +9,10 @@ type: text/vnd.tiddlywiki
 \define existeComment() [field:commente[$(titre)$]]
 
 <$button>Supprimer des notes à réviser
-  <$action-sendmessage $message="tm-remove-tag" $param="study"/>
+  <$fieldmangler tiddler=<<currentTiddler>>>
+    <$action-sendmessage $message="tm-remove-tag" $param="study"/>
+  </$fieldmangler>
+  <$action-sendmessage $message="tm-close-tiddler" $param=<<currentTiddler>>/>
 </$button>
 
 <$list filter="[is[current]!field:pdp[non]]">
