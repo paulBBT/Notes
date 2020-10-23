@@ -34,5 +34,6 @@
       }
     ]
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "enabledPlugins": []
 }

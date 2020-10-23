@@ -6,3 +6,7 @@
 - Grands acteurs internationaux : [[Etats-Unis d'Amérique]] / [[Chine]] / [[Russie]] / [[Union Européenne (UE)]]
 - [[Cyber]]
 - [[Philosophie]] / [[Sciences sociales]]
+
+---
+
+{{$:/BBT/study}}

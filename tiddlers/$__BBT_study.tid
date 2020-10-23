@@ -1,0 +1,17 @@
+created: 20200929150502497
+modified: 20201002163610096
+title: $:/BBT/study
+type: text/vnd.tiddlywiki
+
+<$button>Marquer tout comme à réviser
+   <$list filter="[all[tiddlers]!is[system]![Acceuil]]">
+      <$fieldmangler tiddler=<<currentTiddler>>>
+         <$action-sendmessage $message="tm-add-tag" $param="study"/>
+      </$fieldmangler>
+   </$list>
+</$button>
+<$button>Ouvrir 25 notes à réviser
+   <$list filter="[all[tiddlers]!is[system]tag[study]limit[25]]">
+      <$action-navigate $to=<<currentTiddler>>/>
+   </$list>
+</$button>

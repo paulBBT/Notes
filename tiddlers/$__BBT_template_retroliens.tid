@@ -8,6 +8,10 @@ type: text/vnd.tiddlywiki
 \define existeBacklink() [[$(titre)$]backlinks[]]first[]]
 \define existeComment() [field:commente[$(titre)$]]
 
+<$button>Supprimer des notes à réviser
+  <$action-sendmessage $message="tm-remove-tag" $param="study"/>
+</$button>
+
 <$list filter="[is[current]!field:pdp[non]]">
 
 <$vars titre={{!!title}}>
