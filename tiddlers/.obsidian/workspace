@@ -6,7 +6,6 @@
       {
         "id": "3b31776a52aa67ff",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -20,10 +19,11 @@
       {
         "id": "b819792f4523dea4",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Charles de Gaulle.md",
+            "file": "md-tiddlers/Réviser les notes.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes personnelles/2020-10-10.md"
+                "file": "md-tiddlers/Réviser les notes.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes personnelles/2020-10-10.md"
+                "file": "md-tiddlers/Réviser les notes.md"
               }
             }
           }
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/Réviser les notes.md",
     "Notes personnelles/2020-10-10.md",
+    "Réviser les notes.md",
+    "md-tiddlers/Accueil.md",
     "md-tiddlers/Charles de Gaulle.md",
     "md-tiddlers/La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md",
     "md-tiddlers/Lien armée-Nation.md",
     "Consciption et service militaire.md",
     "Charles de Gaulle.md",
-    "La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md",
-    "md-tiddlers/Notre modèle d'armée doit répondre aux conflits prévisibles.md",
-    "Untitled.md",
-    "md-tiddlers/La prolifération nucléaire peut être un facteur de stabilité.md"
+    "La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md"
   ]
 }

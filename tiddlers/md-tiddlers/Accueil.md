@@ -1,4 +1,4 @@
-[[Préparation de l’école de guerre]]
+[[Préparation de l’école de guerre]] / [[Réviser les notes]]
 
 ## Index sur les grands sujets
 
@@ -6,7 +6,3 @@
 - Grands acteurs internationaux : [[Etats-Unis d'Amérique]] / [[Chine]] / [[Russie]] / [[Union Européenne (UE)]]
 - [[Cyber]]
 - [[Philosophie]] / [[Sciences sociales]]
-
----
-
-{{$:/BBT/study}}
