@@ -1,4 +1,4 @@
->*La stratégie est un duel entre deux volontés.*<br/>
+>*La stratégie est un duel entre deux volontés.*
 >Karl von Clausewitz. 
 
 ## Trois principes de Foch

@@ -1,4 +1,4 @@
->*Le commerce adoucit les moeurs.*<br/>
+>*Le commerce adoucit les moeurs.*
 >Montesquieu.
 
 La guerre économique est la continuation de l'économie par d'autres moyens. Nos choix ont fait de nous des spectateurs dans les grandes manoeuvres économiques :

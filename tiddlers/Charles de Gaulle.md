@@ -1,1 +1,0 @@
-De Gaulle est un stratége au sens

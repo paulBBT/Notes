@@ -4,41 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3b31776a52aa67ff",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes personnelles/2020-10-10.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "b76bb616b73d39ee",
+        "id": "7f3815873c9c2719",
         "type": "split",
         "children": [
           {
-            "id": "b819792f4523dea4",
+            "id": "3b31776a52aa67ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes personnelles/2020-10-10.md",
+                "mode": "source"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ce987df7b7c35b29",
             "type": "leaf",
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles de Gaulle.md",
+                "file": "md-tiddlers/Lien armée-Nation.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "c41320e299f96739",
+        "type": "split",
+        "children": [
+          {
+            "id": "b819792f4523dea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md-tiddlers/Charles de Gaulle.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "0b91cbe8aa54aa98",
+            "id": "53dc69507c684336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md-tiddlers/Accueil.md",
+                "file": "md-tiddlers/La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md",
                 "mode": "source"
               }
             }
@@ -71,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nord Stream"
+                "query": "conscription"
               }
             }
           }
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles de Gaulle.md"
+                "file": "md-tiddlers/Lien armée-Nation.md"
               }
             }
           },
@@ -105,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles de Gaulle.md"
+                "file": "md-tiddlers/Lien armée-Nation.md"
               }
             }
           }
@@ -117,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "md-tiddlers/Lien armée-Nation.md",
     "Charles de Gaulle.md",
-    "md-tiddlers/Accueil.md",
-    "(WIP) Iran.md",
     "Notes personnelles/2020-10-10.md",
-    "Iran.md",
-    "Notes personnelles/2020-10-09.md",
-    "md-tiddlers/Relations entre la France et la Russie.md",
-    "Projet Nord Stream 2.md",
+    "La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md",
+    "md-tiddlers/Notre modèle d'armée doit répondre aux conflits prévisibles.md",
     "Untitled.md",
-    "md-tiddlers/Russie.md"
+    "md-tiddlers/La prolifération nucléaire peut être un facteur de stabilité.md",
+    "md-tiddlers/Relations entre la France et la Russie.md",
+    "md-tiddlers/Subsidiarité du commandement.md",
+    "md-tiddlers/Soldat augmenté.md"
   ]
 }

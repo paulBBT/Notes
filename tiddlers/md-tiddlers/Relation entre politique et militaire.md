@@ -1,4 +1,4 @@
->*L’intention politique est la fin et la guerre le moyen, et l’on ne peut concevoir le moyen indépendamment de la fin.*<br/>
+>*L’intention politique est la fin et la guerre le moyen, et l’on ne peut concevoir le moyen indépendamment de la fin.*
 >Karl von Clausewitz.
 
 ## Des tensions prévisibles

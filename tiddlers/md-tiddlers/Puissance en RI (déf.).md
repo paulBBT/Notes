@@ -2,10 +2,10 @@
 
 La puissance qualifie les rapports de l'état avec ce qui échappe à sa souveraineté, sa capacité de créer une conjoncture qui lui soit favorable, **d’imposer sa volonté aux autres unités politiques.** Une organisation (terroriste par exemple) peut avoir de la puissance.
 
->*J'appelle puissance sur la scène internationale la capacité d'une unité politique à imposer sa volonté aux autres unités.*<br/>
+>*J'appelle puissance sur la scène internationale la capacité d'une unité politique à imposer sa volonté aux autres unités.*
 >Raymond Aron. 
 
->*Toute chance de faire triompher, dans une relation sociale, sa propre volonté contre la résistance d'autrui.*<br/>
+>*Toute chance de faire triompher, dans une relation sociale, sa propre volonté contre la résistance d'autrui.*
 >Max Weber. 
 
 **La puissance est toujours une notion relative.**

@@ -1,4 +1,4 @@
->*A ship’s a fool to fight a fort.*<br/>
+>*A ship’s a fool to fight a fort.*
 >Horatio Nelson.
 
 Richelieu remarque déjà l’inefficacité de la défense statique d’une côte dans son « Testament politique ».

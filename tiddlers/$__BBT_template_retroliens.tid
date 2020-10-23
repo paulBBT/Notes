@@ -8,7 +8,9 @@ type: text/vnd.tiddlywiki
 \define existeBacklink() [[$(titre)$]backlinks[]]first[]]
 \define existeComment() [field:commente[$(titre)$]]
 
-<$button>Supprimer des notes à réviser
+<hr>
+
+<$button>Supprimer des notes à réviser et fermer cette note
   <$fieldmangler tiddler=<<currentTiddler>>>
     <$action-sendmessage $message="tm-remove-tag" $param="study"/>
   </$fieldmangler>

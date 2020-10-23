@@ -1,6 +1,6 @@
 ## Symptomes
 
-- Augmentation des inégalités (voir [[Piketty et les inégalités]] et [[Intérêts de la bourgeoisie]])
+- Augmentation des inégalités (voir [[Piketty et les inégalités]] et [[Intérêt de la bourgeoisie]])
 - Uniformisation des partis et polarisation de la vie politique (voir [[(WIP) L'extréme polarisation de la vie publique est un danger majeur pour nos démocraties]])
 - [[(WIP) Les résultats d'éléctions sont systématiquement remis en cause]]
 

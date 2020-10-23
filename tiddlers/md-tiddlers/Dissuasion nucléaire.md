@@ -1,6 +1,6 @@
 #WIP 
 
->*Paix impossible, guerre improbable.*<br/>
+>*Paix impossible, guerre improbable.*
 >Raymond Aron (1948). 
 
 Equilibre de Nash

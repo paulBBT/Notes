@@ -1,4 +1,4 @@
->*One of the main strategic challenges of our time is the risk of a large-scale confrontation in the digital sphere.*<br/>
+>*One of the main strategic challenges of our time is the risk of a large-scale confrontation in the digital sphere.*
 >Vladimir Poutine
 
 On peut résumer le cyber à la **famille technologique basée sur l’échange de données, mais il s’agit également d’un domaine de lutte** reposant sur ces technologies. A ce titre la [[Supériorité Cyber]] sera un enjeu des luttes futures.

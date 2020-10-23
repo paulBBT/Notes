@@ -1,12 +1,12 @@
 >*Allez écouter des discours en Hongrie ou en Russie, ce sont des projets qui ont leurs différences mais ils portent une vitalité culturelle et civilisationnelle, pour ma part, que je considère comme erronée mais qui est inspirante.*
 >Emmanuel Macron.
 
->*Et donc, je ne crois qu'à une chose. C'est la stratégie de l'audace, de la prise de risque.*<br/>
+>*Et donc, je ne crois qu'à une chose. C'est la stratégie de l'audace, de la prise de risque.*
 >Emmanuel Macron.
 
 [[Nous vivons une fin de cycle marquée par l'affaiblissement des piliers de stabilité]], le président fait clairement la prédiction que **l'inaction mène à la fin de notre pays et de notre civilisation.**
 
->*L'esprit français c'est un esprit de résistance et une vocation à l'universel.*<br/>
+>*L'esprit français c'est un esprit de résistance et une vocation à l'universel.*
 >Emmanuel Macron.
 
 [[La politique européenne du Président Macron est centrée sur le concept de souverraineté européenne]], il souhaite pouvoir **fonder une vraie autonomie stratégique européenne.** 

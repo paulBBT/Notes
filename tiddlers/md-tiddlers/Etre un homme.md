@@ -1,5 +1,5 @@
->*Un homme, ça s’empêche.*<br/>
+>*Un homme, ça s’empêche.*
 >Albert Camus. 
 
->*L’homme est ce qu’il fait.*<br/>
+>*L’homme est ce qu’il fait.*
 >André Malraux. 

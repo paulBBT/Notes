@@ -14,5 +14,5 @@ La mort et la transcendance sont intrinséquement liées à la vie du soldat, la
 
 La pratique de la religion est avant tout une expérience personnelle qui peut parfaitement coexister, en toute harmonie, avec le service des armes.
 
->*Mon âme est à Dieu, ma vie est à l’État, ma conscience est à moi.*<br/>
+>*Mon âme est à Dieu, ma vie est à l’État, ma conscience est à moi.*
 >Devise de Blaise de Montluc (1550).

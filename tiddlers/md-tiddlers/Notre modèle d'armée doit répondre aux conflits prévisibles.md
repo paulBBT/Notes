@@ -16,6 +16,10 @@ En complément, Goya identifie deux emplois improbables : guerre interétatiques
 
 La difficulté est que les emplois improbables sont ceux qui sont associés au risque le plus grand, il faut donc s'y préparer. La [[Doctrine de dissuasion nucléaire française]] joue un rôle majeur pour parer le scénario le moins probable et le plus grave.
 
+---
+
+Sur l'adaptation du modèle par l'abandon de la conscription, voir [[La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation]].
+
 --- 
 
 ## Références

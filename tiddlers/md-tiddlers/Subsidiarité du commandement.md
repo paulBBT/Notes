@@ -8,7 +8,7 @@ La subsidiarité ne doit pas se limiter à la chaîne de commandement militaire 
 
 ## Devoir des subalternes
 
->*Rien ne provoque davantage l’ingérence que le manque d’assurance d’en bas.*<br/>
+>*Rien ne provoque davantage l’ingérence que le manque d’assurance d’en bas.*
 >De Gaulle. _Le fil de l'épée_. 
 
 Dans ce domaine comme dans d’autre, il est important que le subordonné agisse au maximum de ses délégations et de ses compétences.

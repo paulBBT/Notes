@@ -8,5 +8,5 @@ L’histoire de France de Jules Michelet, publiée à partir de 1833 mais **con�
 
 Son oeuvre tente de présenter et justifier la création de la Nation française.
 
->*L'Angleterre est un empire, l'Allemagne un pays, une race ; la France est une personne.*<br/>
+>*L'Angleterre est un empire, l'Allemagne un pays, une race ; la France est une personne.*
 >Jules Michelet. 

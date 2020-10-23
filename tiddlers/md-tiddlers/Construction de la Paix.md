@@ -1,4 +1,4 @@
->*La paix éternelle est un rêve qui est loin d’être agréable.*<br/>
+>*La paix éternelle est un rêve qui est loin d’être agréable.*
 >Molke.
 
 De la même façon que l'homme sort de la nature par le [[Contrat social (Rousseau)]], les Etats doivent d’après Kant entrer en rapport entre eux pour créer un état de paix.

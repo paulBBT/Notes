@@ -10,7 +10,7 @@ Pour lui les inégalités augmentent à partir du moment où les revenus du capi
 
 Emmanuel Saez et Gabriel Zucman font reposer la responsabilité sur nos systèmes fiscaux ou le mobile est plus taxé que l’immobile, ce qui favorise les personnes déjà riches et la concentration des richesses.
 
->*Le plus grand péril pour la démocratie est l’extrême inégalité de richesse.*<br/>
+>*Le plus grand péril pour la démocratie est l’extrême inégalité de richesse.*
 >Irving Fisher. 
 
 ## Organisation de l’inégalité

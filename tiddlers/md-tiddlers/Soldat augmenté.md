@@ -12,7 +12,7 @@ L’action militaire a toujours **promu l’efficacité du groupe sur l’effica
 
 La [[Densification de l'Etre]] peut être vue comme une alternative à l’augmentation.
 
->*La force de la cité n’est ni dans ses remparts, ni dans ses vaisseaux, mais dans le caractère de ses hommes.*<br/>
+>*La force de la cité n’est ni dans ses remparts, ni dans ses vaisseaux, mais dans le caractère de ses hommes.*
 >Thucydide, « La guerre du Péloponèse ». 
 
 ## Évolutions duales
