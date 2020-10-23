@@ -4,7 +4,7 @@
 
 ## Effets possibles de la réforme
 
-La suppression de la possibilité de liquidation immédiate aurait deux impacts : besoin d'un recours massif aux contrats et aux pécules d'incitation au départ, et rupture dans la condition militaire et le [[Lien armée-Nation]].
+La suppression de la possibilité de liquidation immédiate aurait deux impacts : besoin d'un recours massif aux contrats et aux pécules d'incitation au départ, et rupture dans la condition militaire et le [[Lien Armées-Nation]].
 
 Les principes du ralliement du regime général ont un effet négatif important la **suppression de l'égalité de la pension en fonction du grade de départ** (un colonel polytechnicien aura une retraite plus importante qu'un militaire du rang devenu colonel). En contrepartie il améliore la situation des carrières courtes.
 

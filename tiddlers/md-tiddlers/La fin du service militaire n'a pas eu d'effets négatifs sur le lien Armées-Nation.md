@@ -1,5 +1,3 @@
-Le service militaire a été **suspendu en 1996** pour adapter notre modèle d'armée, cette décision reste réversible.
-
 **L'appréciation des armées par la population n'a jamais été aussi bonne** qu'aujourd'hui. Il y a de plus une vraie attente de protection.
 
 Les **deux tiers des militaires sont des contractuels,** cela permet une bonne exposition de la population dans toutes les régions. 
