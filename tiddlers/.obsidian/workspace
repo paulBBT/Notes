@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3b31776a52aa67ff",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes personnelles/2020-10-10.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "b819792f4523dea4",
+        "id": "d6731768bc4ad346",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Réviser les notes.md",
+            "file": "md-tiddlers/Demeure convenable à l'homme.md",
             "mode": "source"
           }
         }
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conscription"
+                "query": "hans"
               }
             }
           }
@@ -77,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/Réviser les notes.md"
+                "file": "md-tiddlers/Demeure convenable à l'homme.md"
               }
             }
           },
@@ -87,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/Réviser les notes.md"
+                "file": "md-tiddlers/Demeure convenable à l'homme.md"
               }
             }
           }
@@ -99,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "md-tiddlers/Réviser les notes.md",
+    "Rôle de la politique.md",
+    "Untitled.md",
+    "md-tiddlers/Sciences politiques.md",
     "Notes personnelles/2020-10-10.md",
-    "Réviser les notes.md",
-    "md-tiddlers/Accueil.md",
-    "md-tiddlers/Charles de Gaulle.md",
-    "md-tiddlers/La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md",
-    "md-tiddlers/Lien armée-Nation.md",
-    "Consciption et service militaire.md",
-    "Charles de Gaulle.md",
-    "La fin du service militaire n'a pas eu d'effets négatifs sur le lien Armées-Nation.md"
+    "md-tiddlers/Nature de l'écologie.md",
+    "md-tiddlers/Crise de la démocratie.md",
+    "md-tiddlers/Questions de préparation au grand oral.md",
+    "L'Etat moderne est impuissant par construction.md",
+    "md-tiddlers/Anarchie (déf.).md",
+    "md-tiddlers/Anarchie en RI.md"
   ]
 }

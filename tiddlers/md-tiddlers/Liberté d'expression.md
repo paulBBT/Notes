@@ -9,5 +9,5 @@ La critique d'une societé sans débat est au moins aussi simple : qui définit 
 Voir :
 
 - [[Crise de la démocratie]]
-- [[(WIP) L'extréme polarisation de la vie publique est un danger majeur pour nos démocraties]]
+- [[(WIP) L'extrème polarisation de la vie publique est un danger majeur pour nos démocraties]]
 - [[Censure]]

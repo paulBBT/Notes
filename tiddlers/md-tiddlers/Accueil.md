@@ -1,8 +1,11 @@
+## Préparation du concours
+
 [[Préparation de l’école de guerre]] / [[Réviser les notes]]
 
-## Index sur les grands sujets
+## Grands sujets
 
-- [[Relations internationales]] / [[Polémologie]]
-- Grands acteurs internationaux : [[Etats-Unis d'Amérique]] / [[Chine]] / [[Russie]] / [[Union Européenne (UE)]]
-- [[Cyber]]
-- [[Philosophie]] / [[Sciences sociales]]
+[[Relations internationales]] / [[Polémologie]] / [[Cyber]]
+
+Grands acteurs internationaux : [[Etats-Unis d'Amérique]] / [[Chine]] / [[Russie]] / [[Union Européenne (UE)]]
+
+[[Philosophie]] / [[Sciences politiques]] / [[Sciences sociales]] / [[Sciences économiques]]

@@ -1,6 +1,7 @@
 - [[Droit de limitation des armements]] / [[Principaux traités de maîtrise des armements]]
 - [[Compromis entre masse de manoeuvre et densité technologique]]
 - [[Augmentation des portées et des vitesses]]
+- [[Innovation et rupture]]
 
 ## Industrie d'armement
 
@@ -16,3 +17,4 @@
 - [[Retour de l’artillerie navale au XXIe siecle]]
 - [[Dissuasion nucléaire]]
 - [[Soldat augmenté]]
+- [[TLAM]]

@@ -15,8 +15,11 @@
 
 - [[Définitions autour de la stratégie]]
 - [[Principes de la stratégie]]
+- [[Invariance de la tactique]]
+- [[Armes et armements]]
 
 ## Penseurs
 
 - [[Clausewitz, De la guerre]]
 - [[Machaviel sur la guerre]]
+- [[Charles de Gaulle]]

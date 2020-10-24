@@ -1,6 +1,6 @@
 ## Trois paradigmes principaux
 
-- [[Anarchie en RI]]
+- [[Anarchie (déf.)]]
 - [[Ecole réaliste (RI)]]
 	- [[Système Westphalien]]
 	- [[Choc des civilisations]]

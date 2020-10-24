@@ -6,8 +6,6 @@ On peut en déduire plusieurs corrolaires :
 - avoir raison en politique n'a pas d'intérêt,
 - **il faut donc en tant que citoyen voter pour le candidat sur lequel on pourra exercer le plus de pression.**
 
-Refonder nos démocraties passe donc par un moyen de faire converger intérêt éléctoral et bien commun. *(Ca me fait penser au bouquin de Manent sur la loi naturelle, et le fait qu'on ait perdu de vue l'ambition d'un bien commun.)*
-
 ---
 
 Voir [[Penser un meilleur système éléctoral]].
