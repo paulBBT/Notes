@@ -4,7 +4,7 @@ title: $:/BBT/study
 type: text/vnd.tiddlywiki
 
 <$button>Marquer tout comme à réviser
-   <$list filter="[all[tiddlers]!is[system]![Acceuil]![Réviser les notes]]">
+   <$list filter="[all[tiddlers]!is[system]![Accueil]![Réviser les notes]]">
       <$fieldmangler tiddler=<<currentTiddler>>>
          <$action-sendmessage $message="tm-add-tag" $param="study"/>
       </$fieldmangler>
