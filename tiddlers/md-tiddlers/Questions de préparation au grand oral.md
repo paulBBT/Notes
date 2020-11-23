@@ -1103,3 +1103,75 @@ Vandier : démocratie faible comme risque pour la dissuasion
 --- 
 
 ### @WIP Quel est votre avis sur l'Origine du monde ?
+
+## Questions posées à l'oral 2020
+
+CV Chardon
+-	Conclusions du dernier GIEC et impacts armées – marine – forces sous-marines
+-	Mission CLEMENCEAU 2019 et mission FOCH 2020 du GAN : décrire
+CF Gérard (technique)
+-	Les opérations littorales interarmées
+-	Fonctionnement de la sécurité dans la marine
+-	Statut général des militaires – APNM – Avis CEDH / CJUE
+Mme Anne-Laure Desclèves
+-	Carlos Ghosn est-il un grand patron ?
+-	Faut-il apprendre l’arabe à l’école ?
+-	Différence entre forces armées FR et groupes armés djihadistes
+Amiral de Briançon
+-	Féminisation
+-	Questions sur situation personnelle
+-	Pourquoi y a-t-il un désintéressement des officiers pour l’EDG ?
+
+
+Rex : 
+-	Jury hyper sympa – l’amiral m’a mis à l’aise dès le départ en rebondissant sur la présentation.  
+-	Pas de question piège, mais qq relances pour recentrer le sujet 
+
+Séquence : 
+-	skype sonne – compte du CF du CESM
+-	l’amiral fait les présentations, il lance la présentation (sans donner de limite de temps) 
+-	puis il reprend la main pour réagir à chaud sur la présentation : EFENA – c’était bien ? 
+-	à la fin il reprend la main sur des sujets plus introspectifs, avant de clore la séquence 
+
+Thomas Gérard m’a quizzé sur les sujets techniques suivants : 
+-	RIM 
+-	BN : rôle et responsabilités / enjeux ? et par rapport aux BDD ? 
+Faut-il s’inquiéter pour les BN actuellement ? 
+-	JUR : que faire des djihadistes retenus en Irak ? 
+
+le CV Chardon enchaine sur du strat/pol : 
+-	IndoPac : 
+o	l’Inde est cernée de toute part par la Chine, position, enjeux 
+ quel rôle pour la France, quelles opportunités de collaboration ? 
+-	Gd Nord ‘en qq bullets’ : quels sont les enjeux pour la France ? 
+
+Mme Desclèves pose des questions très récentes en termes d’actu/société : 
+-	Que pensez-vous de l’accord de libre-échange conclu par les Chinois ? 
+-	M. Darmanin a dit ce week-end que « le non-respect de l’autorité est le cancer de la société », qu’en pensez-vous ? 
+-	Gliphosates : faut-il confirmer leur interdiction ou les réintroduire ? 
+
+L’amiral conclut : 
+-	Comment commander les millenials ? 
+-	Vous êtes pessimiste quant à la situation actuelle ? 
+-	Quelle serait votre réaction si l’une de vos filles voulait entrer dans la Marine ?
+
+
+CV Chardon :
+•        Lit des questions déjà prêtes avec un contexte et des demandes précises (genre CUGE)
+•        Nouvelle Calédonie et référendum (peut-être parce que j'y ait travaillé…) et enjeux militaires
+•        Partenaires FR en INDOPAC
+ 
+Madame Declèves:
+•        Assurances : doivent-elles payer pour les restaurateurs qui perdent de l'argent ?
+•        Que penser du sentiment du privilège blanc ?
+•        Baisse d'autorité en France qu'est-ce que ça vous évoque ?
+ 
+Amiral :
+•        Va-t-on y arriver avec la génération millénium ?
+•        Comment créer l'esprit d'équipage ?
+•        Ouvrage conseillé ?
+ 
+Gérard :
+•        Drones
+•        BdD
+•        SST
