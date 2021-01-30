@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md-tiddlers/Demeure convenable à l'homme.md",
+            "file": "Lectures/Miano, Rouge impératrice.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hans"
+                "query": "prépara"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md-tiddlers/Demeure convenable à l'homme.md"
+                "file": "Lectures/Miano, Rouge impératrice.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md-tiddlers/Demeure convenable à l'homme.md"
+                "file": "Lectures/Miano, Rouge impératrice.md"
               }
             }
           }
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Rôle de la politique.md",
-    "Untitled.md",
-    "md-tiddlers/Sciences politiques.md",
-    "Notes personnelles/2020-10-10.md",
-    "md-tiddlers/Nature de l'écologie.md",
-    "md-tiddlers/Crise de la démocratie.md",
-    "md-tiddlers/Questions de préparation au grand oral.md",
-    "L'Etat moderne est impuissant par construction.md",
-    "md-tiddlers/Anarchie (déf.).md",
-    "md-tiddlers/Anarchie en RI.md"
+    "Lectures/Miano, Rouge impératrice.md",
+    "Lectures/Lectures.md",
+    "Lectures/Houellebecq, Interventions 2020.md",
+    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md",
+    "Miano, Rouge impératrice.md",
+    "Lectures/Thorpe, Le premier rempart.md",
+    "md-tiddlers/Compétition des grandes puissances en Afrique.md",
+    "md-tiddlers/Accroches de ma présentation.md",
+    "md-tiddlers/Statut de la Polynésie Française.md",
+    "md-tiddlers/Les enjeux des outre-mers français sont à la fois politiques et économiques.md"
   ]
 }

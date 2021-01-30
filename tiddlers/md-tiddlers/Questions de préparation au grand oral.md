@@ -1098,7 +1098,7 @@ Vandier : démocratie faible comme risque pour la dissuasion
 
  ---
 
-### @WIP Quel est l’apport de Pierre Soulages à l’art ?
+### @WIP 
 
 --- 
 

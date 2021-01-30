@@ -20,6 +20,8 @@ Sur les sujets de fond :
 - notes de la fondation pour la recherche stratégique (FRS - https://frstrategie.org/publications/notes),
 - notes de l'Institut de Recherche de l'Ecole de Guerre (IRSEM - https://www.irsem.fr/publications-de-l-irsem.html).
 
+Commentaire ? Afrique-Asie ?
+
 ## Grand oral
 
 - [[Conseils pour le grand oral]] 

@@ -1,8 +1,15 @@
 ## 2019
 
-- 230 milliards de recettes
-- 340 milliards de dépenses
+- **315 milliards de recettes** dont contributions UE et collectivités territoriales 
+- 250 milliards de recettes dans le budget de l’Etat
+
+- **430 milliards de dépenses**
+- 340 milliards de dépense dans le budget de l’Etat
 	- Dont 100 milliards pour l'éducation (enseignement scolaire plus supérieur)
+	- Dont 38 Md d’intérêts (charge de la dette)
+- Service de la dette 140 Md
+
+- **Déficit de 90 milliards**
 
 Voir :
 

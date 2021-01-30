@@ -11,7 +11,8 @@
     "word-count": true,
     "daily-notes": true,
     "outline": true,
-    "translucency": false
+    "translucency": false,
+    "open-with-default-app": true
   },
   "foldHeading": true,
   "foldIndent": true,
