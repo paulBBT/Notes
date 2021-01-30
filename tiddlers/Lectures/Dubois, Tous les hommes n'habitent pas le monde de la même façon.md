@@ -1,4 +1,4 @@
-## Jean-Paul Dubois. (2019). _Tous les hommes n’habitent pas le monde de la même façon_. Editions de l’Olivier.
+## Jean-Paul Dubois. (2019). _Tous les hommes n’habitent pas le monde de la même façon_. Editions de l’Olivier. 246p.
 
 Roman. Terminé le 8 nov. 2020. 4/5.
 

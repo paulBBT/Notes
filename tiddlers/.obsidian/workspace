@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prépara"
+                "query": "prépara",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Miano, Rouge impératrice.md"
+                "file": "Lectures/Miano, Rouge impératrice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -88,10 +98,10 @@
   "lastOpenFiles": [
     "Lectures/Miano, Rouge impératrice.md",
     "Lectures/Lectures.md",
-    "Lectures/Houellebecq, Interventions 2020.md",
     "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md",
-    "Miano, Rouge impératrice.md",
+    "Lectures/Houellebecq, Interventions 2020.md",
     "Lectures/Thorpe, Le premier rempart.md",
+    "Miano, Rouge impératrice.md",
     "md-tiddlers/Compétition des grandes puissances en Afrique.md",
     "md-tiddlers/Accroches de ma présentation.md",
     "md-tiddlers/Statut de la Polynésie Française.md",

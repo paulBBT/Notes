@@ -43,7 +43,7 @@
   ],
   "directories": [ 
     {
-      "path": "md-tiddlers",
+      "path": "Notes",
       "isTiddlerFile": "true",
       "fields": {
         "type": "text/x-markdown",

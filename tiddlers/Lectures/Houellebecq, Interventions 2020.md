@@ -1,4 +1,4 @@
-## Michel Houellebecq. (2020). _Interventions 2020_. Flammarion.
+## Michel Houellebecq. (2020). _Interventions 2020_. Flammarion. 448p.
 
 Recueil d'articles. Terminé le 27 décembre 2020. 4/5.
 

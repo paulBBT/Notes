@@ -1,4 +1,4 @@
-## Gav Thorpe. (2019). _Le premier rempart_. Black Library.
+## Gav Thorpe. (2019). _Le premier rempart_. Black Library. 429p.
 
 Roman. SF. Terminé le 11 nov. 2020. 3/5.
 
