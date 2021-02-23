@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectures/Miano, Rouge impératrice.md",
+            "file": "Lectures/Abnett, Saturnine.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Miano, Rouge impératrice.md",
+                "file": "Lectures/Abnett, Saturnine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Miano, Rouge impératrice.md"
+                "file": "Lectures/Abnett, Saturnine.md"
               }
             }
           }
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Lectures/Miano, Rouge impératrice.md",
+    "Lectures/Abnett, Saturnine.md",
     "Lectures/Lectures.md",
-    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md",
-    "Lectures/Houellebecq, Interventions 2020.md",
     "Lectures/Thorpe, Le premier rempart.md",
-    "Miano, Rouge impératrice.md",
-    "md-tiddlers/Compétition des grandes puissances en Afrique.md",
-    "md-tiddlers/Accroches de ma présentation.md",
-    "md-tiddlers/Statut de la Polynésie Française.md",
-    "md-tiddlers/Les enjeux des outre-mers français sont à la fois politiques et économiques.md"
+    "Lectures/Houellebecq, Interventions 2020.md",
+    "Lectures/Labruffe, Chroniques d'une station-service.md",
+    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md",
+    "Lectures/Untitled.md",
+    "Untitled.md",
+    "Lectures/Labruffe, Chronique d'une station service.md",
+    "Lectures/Miano, Rouge impératrice.md"
   ]
 }
