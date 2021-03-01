@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectures/Abnett, Saturnine.md",
+            "file": "Lectures/Lectures.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Abnett, Saturnine.md",
+                "file": "Lectures/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Abnett, Saturnine.md"
+                "file": "Lectures/Lectures.md"
               }
             }
           }
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Lectures/Abnett, Saturnine.md",
     "Lectures/Lectures.md",
+    "Lectures/Liu, Le problème à trois corps.md",
+    "Lectures/Biermann, Trois jours dans la vie de Paul Cézanne.md",
+    "Liu, Le problème à trois corps.md",
+    "Lectures/Abnett, Saturnine.md",
+    "Biermann, Trois jours dans la vie de Paul Cézanne.md",
     "Lectures/Thorpe, Le premier rempart.md",
     "Lectures/Houellebecq, Interventions 2020.md",
     "Lectures/Labruffe, Chroniques d'une station-service.md",
-    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md",
-    "Lectures/Untitled.md",
-    "Untitled.md",
-    "Lectures/Labruffe, Chronique d'une station service.md",
-    "Lectures/Miano, Rouge impératrice.md"
+    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md"
   ]
 }

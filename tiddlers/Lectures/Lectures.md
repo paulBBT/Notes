@@ -10,3 +10,5 @@
 02. [[Labruffe, Chroniques d'une station-service]] (4/5 - 02 février)
 03. [[Sagan, Kétamine C13H16ClNO]] (2/5 - 20 février)
 04. [[Abnett, Saturnine]] (4/5 - 23 février) 
+05. [[Biermann, Trois jours dans la vie de Paul Cézanne]] (4/5 - 25 février) 
+06. [[Liu, Le problème à trois corps]] (4,5/5 - 28 février) 
