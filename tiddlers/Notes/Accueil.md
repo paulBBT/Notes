@@ -9,3 +9,10 @@
 Grands acteurs internationaux : [[Etats-Unis d'Amérique]] / [[Chine]] / [[Russie]] / [[Union Européenne (UE)]]
 
 [[Philosophie]] / [[Sciences politiques]] / [[Sciences sociales]] / [[Sciences économiques]]
+
+Test de modif en node.js Blabla
+
+<<rememberq "20210301230054930"
+	"Test Q"
+	"Test A">>
+

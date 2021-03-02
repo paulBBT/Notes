@@ -2,49 +2,66 @@
   "tiddlers": [
     {
       "file": "$__SiteSubtitle.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_styles.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_study.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_study_done.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_study_done_caption.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_study_done_hint.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__BBT_template_retroliens.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__DefaultTiddlers.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     },
     {
       "file": "$__config_markdown_renderWikiTextPragma.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
+    },  
+    {
+      "file": "$__StoryList.tid",
+      "isTiddlerFile": true,
+      "isEditableFile": true
     },  
     {
       "file": "$__SiteTitle.tid",
-      "isTiddlerFile": "true"
+      "isTiddlerFile": true
     }
   ],
   "directories": [ 
     {
       "path": "Notes",
-      "isTiddlerFile": "true",
+      "isTiddlerFile": true,
+      "isEditableFile": true,
+      "fields": {
+        "type": "text/x-markdown",
+        "title": {"source": "basename"},
+        "created": {"source": "created"},
+        "modified": {"source": "modified"}
+      }
+    },
+    {
+      "path": "Lectures",
+      "isTiddlerFile": true,
+      "isEditableFile": true,
       "fields": {
         "type": "text/x-markdown",
         "title": {"source": "basename"},

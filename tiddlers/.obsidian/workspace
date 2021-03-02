@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectures/Lectures.md",
+            "file": "Notes/Accueil.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lectures.md",
+                "file": "Notes/Accueil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lectures.md"
+                "file": "Notes/Accueil.md"
               }
             }
           }
@@ -96,6 +96,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notes/Accueil.md",
     "Lectures/Lectures.md",
     "Lectures/Liu, Le problème à trois corps.md",
     "Lectures/Biermann, Trois jours dans la vie de Paul Cézanne.md",
@@ -104,7 +105,6 @@
     "Biermann, Trois jours dans la vie de Paul Cézanne.md",
     "Lectures/Thorpe, Le premier rempart.md",
     "Lectures/Houellebecq, Interventions 2020.md",
-    "Lectures/Labruffe, Chroniques d'une station-service.md",
-    "Lectures/Dubois, Tous les hommes n'habitent pas le monde de la même façon.md"
+    "Lectures/Labruffe, Chroniques d'une station-service.md"
   ]
 }
